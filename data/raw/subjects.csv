@@ -1,0 +1,501 @@
+subject_id,study_id,screening_date,enrollment_date,study_arm,subject_status,eligibility_status,withdrawal_reason
+SUBJ0001,STUDY028,2024-07-08,2024-07-11,Digital Review,Active,Eligible,None
+SUBJ0002,STUDY027,2022-08-10,2022-09-14,In-Person,Enrolled,Pending Review,None
+SUBJ0003,STUDY043,2026-04-28,2026-06-05,In-Person,Screened,Ineligible,None
+SUBJ0004,STUDY017,2026-01-02,2026-01-13,In-Person,Screened,Pending Review,None
+SUBJ0005,STUDY002,2025-11-02,2025-11-17,In-Person,Withdrawn,Ineligible,Adverse Event
+SUBJ0006,STUDY034,2023-08-24,2023-09-01,Control,Lost to Follow-Up,Ineligible,None
+SUBJ0007,STUDY009,2024-02-20,2024-03-19,Enhanced Care,Active,Pending Review,None
+SUBJ0008,STUDY065,2023-11-24,2024-01-02,Control,Screened,Pending Review,None
+SUBJ0009,STUDY067,2023-02-19,2023-03-20,Enhanced Care,Lost to Follow-Up,Eligible,Protocol Deviation
+SUBJ0010,STUDY055,2023-03-23,2023-04-23,Standard Care,Lost to Follow-Up,Ineligible,Adverse Event
+SUBJ0011,STUDY078,2025-04-20,2025-04-24,Enhanced Care,Enrolled,Pending Review,None
+SUBJ0012,STUDY077,2024-06-11,2024-07-10,Telemedicine,Withdrawn,Pending Review,Protocol Deviation
+SUBJ0013,STUDY090,2025-02-11,2025-03-24,In-Person,Lost to Follow-Up,Pending Review,None
+SUBJ0014,STUDY056,2023-11-03,2023-11-17,Enhanced Care,Completed,Ineligible,None
+SUBJ0015,STUDY054,2023-08-10,2023-08-30,Standard Care,Completed,Ineligible,None
+SUBJ0016,STUDY020,2025-03-26,2025-03-30,Telemedicine,Screened,Eligible,None
+SUBJ0017,STUDY096,2023-12-20,2023-12-11,Digital Review,Withdrawn,Eligible,Transportation Barrier
+SUBJ0018,STUDY072,2024-05-29,2024-07-10,Control,Screened,Ineligible,None
+SUBJ0019,STUDY097,2026-04-25,2026-04-28,Telemedicine,Active,Pending Review,None
+SUBJ0020,STUDY074,2025-11-17,2025-11-30,Telemedicine,Enrolled,Pending Review,None
+SUBJ0021,STUDY045,2025-06-04,2025-06-11,Enhanced Care,Active,Pending Review,None
+SUBJ0022,STUDY072,2023-07-23,2023-08-30,In-Person,Lost to Follow-Up,Pending Review,None
+SUBJ0023,STUDY035,2024-02-13,2024-03-05,In-Person,Active,Eligible,None
+SUBJ0024,STUDY073,2024-01-21,2024-01-25,Telemedicine,Enrolled,Pending Review,None
+SUBJ0025,STUDY012,2025-01-16,2025-02-09,Standard Care,Completed,Ineligible,None
+SUBJ0026,STUDY040,2024-08-13,2024-09-18,In-Person,Withdrawn,Eligible,Adverse Event
+SUBJ0027,STUDY021,2023-07-17,2023-08-29,Enhanced Care,Screened,Ineligible,None
+SUBJ0028,STUDY063,2025-03-19,2025-04-14,Telemedicine,Active,Eligible,None
+SUBJ0029,STUDY045,2025-08-07,2025-08-14,Enhanced Care,Active,Pending Review,None
+SUBJ0030,STUDY068,2023-05-06,2023-05-08,Telemedicine,Enrolled,Eligible,None
+SUBJ0031,STUDY027,2023-04-05,2023-04-18,Telemedicine,Enrolled,Eligible,None
+SUBJ0032,STUDY064,2024-04-13,2024-04-24,Digital Review,Enrolled,Eligible,None
+SUBJ0033,STUDY072,2024-06-23,2024-06-27,Enhanced Care,Withdrawn,Pending Review,
+SUBJ0034,STUDY010,2024-02-10,2024-03-17,Control,Completed,Pending Review,None
+SUBJ0035,STUDY054,2024-02-25,2024-03-03,In-Person,Completed,Eligible,None
+SUBJ0036,STUDY080,2026-05-23,2026-07-06,Telemedicine,Active,Eligible,None
+SUBJ0037,STUDY032,2025-08-20,2025-09-26,Control,Completed,Pending Review,Patient Choice
+SUBJ0038,STUDY044,2022-11-26,2022-12-17,Telemedicine,Enrolled,Eligible,None
+SUBJ0039,STUDY068,2023-11-29,2023-12-11,Control,Active,Ineligible,None
+SUBJ0040,STUDY019,2023-09-24,2023-09-30,Control,Enrolled,Eligible,None
+SUBJ0041,STUDY010,2023-09-24,2023-11-03,Digital Review,Completed,Ineligible,None
+SUBJ0042,STUDY058,2025-10-31,2025-12-10,Enhanced Care,Active,Eligible,None
+SUBJ0043,STUDY057,2026-06-26,2026-07-13,Digital Review,Withdrawn,Eligible,Patient Choice
+SUBJ0044,STUDY010,2024-02-07,2024-03-07,Telemedicine,Completed,Eligible,Patient Choice
+SUBJ0045,STUDY083,2023-02-02,2023-03-13,Enhanced Care,Withdrawn,Pending Review,Protocol Deviation
+SUBJ0046,STUDY075,2025-11-20,2025-12-18,Standard Care,Withdrawn,Pending Review,Lost Contact
+SUBJ0047,STUDY078,2026-03-22,2026-04-23,Standard Care,Enrolled,Eligible,None
+SUBJ0048,STUDY092,2022-11-02,2022-12-04,Enhanced Care,Lost to Follow-Up,Eligible,None
+SUBJ0049,STUDY057,2027-02-07,2027-03-12,Standard Care,Enrolled,Ineligible,Patient Choice
+SUBJ0050,STUDY037,2025-07-14,2025-08-09,Control,Active,Pending Review,None
+SUBJ0051,STUDY083,2023-10-10,2023-10-14,Enhanced Care,Active,Eligible,None
+SUBJ0052,STUDY037,2025-02-26,2025-04-09,Telemedicine,Withdrawn,Eligible,
+SUBJ0053,STUDY075,2026-03-02,2026-03-24,Enhanced Care,Active,Pending Review,None
+SUBJ0054,STUDY017,2025-07-16,2025-08-04,In-Person,Withdrawn,Ineligible,Patient Choice
+SUBJ0055,STUDY086,2023-11-25,2023-11-30,Standard Care,Lost to Follow-Up,Pending Review,None
+SUBJ0056,STUDY003,2023-11-30,2023-12-19,Enhanced Care,Enrolled,Eligible,None
+SUBJ0057,STUDY025,2025-10-30,2025-11-07,Telemedicine,Enrolled,Eligible,None
+SUBJ0058,STUDY065,2024-10-02,2024-10-04,Digital Review,Lost to Follow-Up,Ineligible,None
+SUBJ0059,STUDY017,2026-05-11,2026-05-20,Digital Review,Enrolled,Eligible,None
+SUBJ0060,STUDY022,2025-12-14,2025-12-16,In-Person,Completed,Ineligible,None
+SUBJ0061,STUDY057,2026-06-07,2026-07-05,Enhanced Care,Enrolled,Pending Review,None
+SUBJ0062,STUDY025,2026-03-24,2026-05-06,Standard Care,Withdrawn,Ineligible,Protocol Deviation
+SUBJ0063,STUDY100,2024-05-22,2024-06-23,In-Person,Withdrawn,Ineligible,Lost Contact
+SUBJ0064,STUDY078,2025-04-10,2025-04-26,Standard Care,Screened,Pending Review,None
+SUBJ0065,STUDY071,2026-02-26,2026-04-12,Telemedicine,Withdrawn,Eligible,Patient Choice
+SUBJ0066,STUDY098,2025-09-24,2025-10-11,Enhanced Care,Enrolled,Ineligible,None
+SUBJ0067,STUDY012,2025-01-23,2025-02-20,Enhanced Care,Active,Eligible,None
+SUBJ0068,STUDY065,2024-04-28,2024-05-13,Telemedicine,Completed,Eligible,None
+SUBJ0069,STUDY041,2025-02-22,2025-04-08,In-Person,Lost to Follow-Up,Ineligible,None
+SUBJ0070,STUDY005,2026-05-01,2026-05-31,Enhanced Care,Lost to Follow-Up,Eligible,None
+SUBJ0071,STUDY058,2024-12-10,2024-12-15,In-Person,Screened,Ineligible,None
+SUBJ0072,STUDY071,2027-01-20,2027-01-27,Telemedicine,Active,Eligible,None
+SUBJ0073,STUDY031,2026-04-09,2026-05-19,Telemedicine,Withdrawn,Ineligible,Adverse Event
+SUBJ0074,STUDY064,2023-02-14,2023-03-26,Control,Withdrawn,Pending Review,Lost Contact
+SUBJ0075,STUDY019,2023-11-20,2023-12-17,Digital Review,Screened,Pending Review,None
+SUBJ0076,STUDY054,2023-11-12,2023-12-24,Standard Care,Lost to Follow-Up,Eligible,None
+SUBJ0077,STUDY009,2024-04-11,2024-05-15,Telemedicine,Withdrawn,Pending Review,Transportation Barrier
+SUBJ0078,STUDY050,2026-01-16,2026-01-18,Standard Care,Lost to Follow-Up,Ineligible,None
+SUBJ0079,STUDY096,2022-12-20,2023-01-11,Control,Screened,Ineligible,None
+SUBJ0080,STUDY081,2024-08-15,2024-09-21,Standard Care,Lost to Follow-Up,Ineligible,None
+SUBJ0081,STUDY070,2024-06-07,2024-07-18,Control,Enrolled,Pending Review,None
+SUBJ0082,STUDY062,2024-10-12,2024-10-20,Enhanced Care,Screened,Pending Review,None
+SUBJ0083,STUDY005,2026-05-08,2026-05-20,Standard Care,Screened,Eligible,None
+SUBJ0084,STUDY040,2025-02-24,2025-03-21,Telemedicine,Withdrawn,Ineligible,Patient Choice
+SUBJ0085,STUDY097,2025-08-30,2025-09-17,Standard Care,Active,Eligible,None
+SUBJ0086,STUDY035,2023-08-08,2023-08-31,Enhanced Care,Completed,Ineligible,None
+SUBJ0087,STUDY044,2022-10-22,2022-11-22,Digital Review,Lost to Follow-Up,Ineligible,None
+SUBJ0088,STUDY035,2023-06-26,2023-07-23,In-Person,Screened,Ineligible,None
+SUBJ0089,STUDY070,2024-04-22,2024-05-12,Standard Care,Screened,Eligible,None
+SUBJ0090,STUDY040,2024-12-15,2025-01-22,Enhanced Care,Lost to Follow-Up,Ineligible,None
+SUBJ0091,STUDY045,2025-08-24,2025-08-26,Enhanced Care,Lost to Follow-Up,Ineligible,None
+SUBJ0092,STUDY036,2022-04-26,2022-04-30,Digital Review,Lost to Follow-Up,Pending Review,None
+SUBJ0093,STUDY096,2023-05-16,2023-05-17,Enhanced Care,Enrolled,Pending Review,None
+SUBJ0094,STUDY005,2025-11-18,2025-11-22,Enhanced Care,Enrolled,Pending Review,None
+SUBJ0095,STUDY073,2023-01-09,2023-02-16,Standard Care,Enrolled,Pending Review,None
+SUBJ0096,STUDY048,2025-07-30,2025-08-03,Standard Care,Withdrawn,Eligible,Transportation Barrier
+SUBJ0097,STUDY051,2025-02-02,2025-03-15,Telemedicine,Active,Eligible,None
+SUBJ0098,STUDY095,2023-01-11,2023-02-11,Telemedicine,Withdrawn,Ineligible,Transportation Barrier
+SUBJ0099,STUDY034,2024-03-24,2024-05-08,Standard Care,Completed,Eligible,None
+SUBJ0100,STUDY089,2024-09-30,2024-10-12,Enhanced Care,Screened,Eligible,None
+SUBJ0101,STUDY023,2025-08-15,2025-08-20,Control,Enrolled,Ineligible,None
+SUBJ0102,STUDY009,2023-08-14,2023-09-02,Control,Enrolled,Pending Review,None
+SUBJ0103,STUDY082,2022-11-18,2022-12-11,In-Person,Withdrawn,Eligible,Adverse Event
+SUBJ0104,STUDY018,2024-03-24,2024-04-24,Standard Care,Screened,Ineligible,None
+SUBJ0105,STUDY060,2025-02-05,2025-03-16,Control,Screened,Eligible,None
+SUBJ0106,STUDY093,2026-07-09,2026-08-11,Telemedicine,Completed,Ineligible,None
+SUBJ0107,STUDY017,2026-03-11,2026-04-21,Digital Review,Screened,Ineligible,None
+SUBJ0108,STUDY045,2024-10-02,2024-11-06,In-Person,Lost to Follow-Up,Pending Review,None
+SUBJ0109,STUDY056,2023-12-25,2023-12-28,In-Person,Screened,Pending Review,None
+SUBJ0110,STUDY021,2024-04-22,2024-06-06,Telemedicine,Enrolled,Pending Review,None
+SUBJ0111,STUDY033,2026-01-13,2026-02-22,Control,Withdrawn,Ineligible,Lost Contact
+SUBJ0112,STUDY039,2026-03-04,2026-01-30,Digital Review,Lost to Follow-Up,Eligible,None
+SUBJ0113,STUDY020,2024-05-20,2024-07-01,Standard Care,Withdrawn,Pending Review,Transportation Barrier
+SUBJ0114,STUDY073,2023-01-18,2023-01-19,Digital Review,Screened,Eligible,None
+SUBJ0115,STUDY034,2024-02-02,2024-03-09,Enhanced Care,Completed,Pending Review,None
+SUBJ0116,STUDY081,2025-02-21,2025-04-03,Control,Active,Ineligible,None
+SUBJ0117,STUDY052,2024-09-02,2024-10-01,Enhanced Care,Screened,Pending Review,Protocol Deviation
+SUBJ0118,STUDY062,2025-07-28,2025-08-10,Control,Active,Pending Review,None
+SUBJ0119,STUDY041,2025-11-01,2025-11-26,Standard Care,Enrolled,Eligible,None
+SUBJ0120,STUDY031,2026-05-27,2026-06-03,Telemedicine,Active,Ineligible,None
+SUBJ0121,STUDY007,2025-10-23,2025-09-28,In-Person,Withdrawn,Ineligible,Lost Contact
+SUBJ0122,STUDY042,2024-02-21,2024-03-04,Enhanced Care,Enrolled,Pending Review,None
+SUBJ0123,STUDY040,2025-02-06,2025-02-07,In-Person,Screened,Ineligible,None
+SUBJ0124,STUDY028,2025-06-13,2025-06-16,Control,Screened,Ineligible,None
+SUBJ0125,STUDY087,2026-05-10,2026-05-28,Enhanced Care,Withdrawn,Eligible,Adverse Event
+SUBJ0126,STUDY018,2024-04-21,2024-05-14,Digital Review,Completed,Ineligible,Adverse Event
+SUBJ0127,STUDY072,2024-01-12,2024-02-04,Enhanced Care,Withdrawn,Ineligible,Adverse Event
+SUBJ0128,STUDY065,2024-07-16,2024-08-20,Telemedicine,Active,Pending Review,None
+SUBJ0129,STUDY017,2025-07-29,2025-08-23,Standard Care,Active,Ineligible,None
+SUBJ0130,STUDY097,2025-07-13,2025-07-25,Digital Review,Withdrawn,Pending Review,Protocol Deviation
+SUBJ0131,STUDY006,2024-04-05,2024-04-07,Enhanced Care,Enrolled,Pending Review,None
+SUBJ0132,STUDY067,2023-07-28,2023-08-06,Standard Care,Withdrawn,Pending Review,Lost Contact
+SUBJ0133,STUDY079,2024-05-23,2024-06-02,Standard Care,Completed,Pending Review,None
+SUBJ0134,STUDY076,2023-06-16,2023-07-18,Control,Withdrawn,Pending Review,Protocol Deviation
+SUBJ0135,STUDY073,2023-10-09,2023-11-08,Telemedicine,Screened,Ineligible,None
+SUBJ0136,STUDY054,2024-03-15,2024-04-28,Standard Care,Lost to Follow-Up,Eligible,None
+SUBJ0137,STUDY084,2025-11-06,2025-11-09,Digital Review,Withdrawn,Ineligible,Lost Contact
+SUBJ0138,STUDY081,2025-05-25,2025-06-03,Telemedicine,Lost to Follow-Up,Eligible,None
+SUBJ0139,STUDY025,2025-04-01,2025-04-29,Control,Active,Ineligible,None
+SUBJ0140,STUDY027,2023-07-26,2023-08-27,Control,Withdrawn,Ineligible,Adverse Event
+SUBJ0141,STUDY018,2025-01-07,2025-01-20,Digital Review,Withdrawn,Ineligible,Protocol Deviation
+SUBJ0142,STUDY049,2024-07-22,2024-08-02,Standard Care,Completed,Pending Review,None
+SUBJ0143,STUDY087,2025-10-11,2025-11-19,Standard Care,Completed,Eligible,None
+SUBJ0144,STUDY072,2024-04-27,2024-04-12,Control,Active,Ineligible,None
+SUBJ0145,STUDY091,2023-10-15,2023-11-04,Control,Completed,Ineligible,None
+SUBJ0146,STUDY036,2022-12-18,2022-12-25,Enhanced Care,Withdrawn,Pending Review,Transportation Barrier
+SUBJ0147,STUDY051,2025-03-06,2025-03-15,Control,Active,Eligible,None
+SUBJ0148,STUDY011,2025-02-10,2025-03-10,In-Person,Enrolled,Ineligible,None
+SUBJ0149,STUDY026,2024-02-06,2024-03-12,Digital Review,Lost to Follow-Up,Ineligible,None
+SUBJ0150,STUDY095,2023-03-07,2023-03-22,In-Person,Screened,Pending Review,None
+SUBJ0151,STUDY082,2023-01-17,2023-01-20,Enhanced Care,Screened,Ineligible,None
+SUBJ0152,STUDY013,2025-10-20,2025-10-20,Control,Withdrawn,Eligible,Protocol Deviation
+SUBJ0153,STUDY061,2024-09-10,2024-10-21,Telemedicine,Enrolled,Eligible,None
+SUBJ0154,STUDY084,2025-11-10,2025-12-14,Telemedicine,Lost to Follow-Up,Pending Review,None
+SUBJ0155,STUDY023,2025-07-18,2025-07-29,In-Person,Screened,Ineligible,None
+SUBJ0156,STUDY096,2023-09-26,2023-09-28,Telemedicine,Screened,Ineligible,None
+SUBJ0157,STUDY043,2026-09-15,2026-10-14,In-Person,Lost to Follow-Up,Pending Review,None
+SUBJ0158,STUDY065,2024-08-03,2024-08-20,Control,Enrolled,Eligible,None
+SUBJ0159,STUDY059,2024-04-15,2024-05-30,Standard Care,Enrolled,Eligible,None
+SUBJ0160,STUDY073,2023-06-22,2023-07-03,Enhanced Care,Withdrawn,Pending Review,Protocol Deviation
+SUBJ0161,STUDY066,2026-10-31,2026-11-05,In-Person,Completed,Pending Review,None
+SUBJ0162,STUDY062,2025-03-06,2025-03-21,Enhanced Care,Screened,Ineligible,None
+SUBJ0163,STUDY097,2025-11-16,2025-12-07,Telemedicine,Active,Pending Review,None
+SUBJ0164,STUDY034,2024-07-04,2024-08-17,Enhanced Care,Enrolled,Eligible,None
+SUBJ0165,STUDY040,2024-02-26,2024-03-22,Control,Lost to Follow-Up,Pending Review,None
+SUBJ0166,STUDY099,2026-06-09,2026-07-23,Standard Care,Screened,Pending Review,None
+SUBJ0167,STUDY048,2024-12-14,2024-12-28,Enhanced Care,Enrolled,Pending Review,None
+SUBJ0168,STUDY090,2026-02-11,2026-03-17,Control,Lost to Follow-Up,Eligible,None
+SUBJ0169,STUDY097,2025-05-10,2025-06-12,Telemedicine,Completed,Pending Review,None
+SUBJ0170,STUDY073,2023-03-31,2023-04-03,Digital Review,Withdrawn,Pending Review,Lost Contact
+SUBJ0171,STUDY069,2024-11-26,2024-12-06,Control,Active,Pending Review,None
+SUBJ0172,STUDY027,2023-10-14,2023-10-19,Enhanced Care,Withdrawn,Ineligible,Adverse Event
+SUBJ0173,STUDY017,2026-09-28,2026-10-24,Control,Completed,Pending Review,Protocol Deviation
+SUBJ0174,STUDY040,2023-10-08,2023-11-02,Digital Review,Active,Eligible,None
+SUBJ0175,STUDY010,2023-05-12,2023-06-08,Telemedicine,Active,Pending Review,Adverse Event
+SUBJ0176,STUDY061,2023-06-12,2023-06-30,Control,Completed,Eligible,None
+SUBJ0177,STUDY094,2026-08-30,2026-09-22,Enhanced Care,Completed,Ineligible,None
+SUBJ0178,STUDY049,2023-11-26,2024-01-08,Standard Care,Lost to Follow-Up,Pending Review,None
+SUBJ0179,STUDY016,2024-12-16,2025-01-19,In-Person,Completed,Pending Review,None
+SUBJ0180,STUDY001,2023-04-27,2023-05-16,Enhanced Care,Completed,Pending Review,None
+SUBJ0181,STUDY069,2025-07-19,2025-08-02,In-Person,Enrolled,Pending Review,None
+SUBJ0182,STUDY093,2025-06-29,2025-07-01,Telemedicine,Lost to Follow-Up,Ineligible,None
+SUBJ0183,STUDY031,2025-09-03,2025-09-07,Control,Screened,Pending Review,Transportation Barrier
+SUBJ0184,STUDY091,2022-07-21,2022-08-05,In-Person,Lost to Follow-Up,Eligible,None
+SUBJ0185,STUDY070,2024-02-04,2024-02-07,In-Person,Enrolled,Pending Review,None
+SUBJ0186,STUDY094,2026-05-18,2026-06-23,In-Person,Withdrawn,Pending Review,Patient Choice
+SUBJ0187,STUDY039,2026-04-24,2026-06-05,Standard Care,Withdrawn,Eligible,Protocol Deviation
+SUBJ0188,STUDY036,2022-04-30,2022-06-04,Control,Withdrawn,Pending Review,
+SUBJ0189,STUDY087,2026-03-27,2026-05-01,Control,Completed,Eligible,None
+SUBJ0190,STUDY086,2023-06-29,2023-05-26,In-Person,Active,Pending Review,None
+SUBJ0191,STUDY039,2026-12-19,2026-12-30,In-Person,Withdrawn,Ineligible,
+SUBJ0192,STUDY039,2026-04-25,2026-05-24,Enhanced Care,Screened,Pending Review,None
+SUBJ0193,STUDY072,2023-11-11,2023-12-05,Enhanced Care,Enrolled,Eligible,None
+SUBJ0194,STUDY048,2024-08-04,2024-09-07,Control,Withdrawn,Eligible,
+SUBJ0195,STUDY078,2024-12-30,2025-01-03,Digital Review,Enrolled,Pending Review,None
+SUBJ0196,STUDY028,2025-10-20,2025-11-02,Telemedicine,Active,Ineligible,None
+SUBJ0197,STUDY028,2024-12-28,2025-01-04,Control,Lost to Follow-Up,Ineligible,None
+SUBJ0198,STUDY078,2025-06-17,2025-07-12,Standard Care,Enrolled,Pending Review,None
+SUBJ0199,STUDY049,2024-12-25,2025-01-28,Standard Care,Lost to Follow-Up,Ineligible,None
+SUBJ0200,STUDY066,2027-04-23,2027-05-22,Standard Care,Screened,Pending Review,None
+SUBJ0201,STUDY027,2023-06-15,2023-07-05,In-Person,Completed,Eligible,None
+SUBJ0202,STUDY095,2022-12-01,2022-12-02,Digital Review,Active,Pending Review,None
+SUBJ0203,STUDY093,2026-05-07,2026-05-25,Enhanced Care,Enrolled,Eligible,None
+SUBJ0204,STUDY073,2023-08-15,2023-09-15,Standard Care,Withdrawn,Pending Review,Patient Choice
+SUBJ0205,STUDY098,2026-08-26,2026-10-06,Control,Lost to Follow-Up,Ineligible,None
+SUBJ0206,STUDY046,2025-12-28,2026-01-05,Digital Review,Lost to Follow-Up,Pending Review,None
+SUBJ0207,STUDY083,2023-01-01,2023-02-03,Control,Screened,Eligible,None
+SUBJ0208,STUDY007,2025-01-05,2025-01-31,Control,Enrolled,Pending Review,None
+SUBJ0209,STUDY020,2023-12-06,2023-11-22,Telemedicine,Withdrawn,Ineligible,Patient Choice
+SUBJ0210,STUDY080,2026-06-15,2026-07-27,Enhanced Care,Withdrawn,Eligible,
+SUBJ0211,STUDY002,2024-11-18,2024-12-21,Standard Care,Lost to Follow-Up,Ineligible,None
+SUBJ0212,STUDY003,2024-04-21,2024-06-04,In-Person,Lost to Follow-Up,Ineligible,None
+SUBJ0213,STUDY014,2024-04-22,2024-05-25,Digital Review,Enrolled,Eligible,None
+SUBJ0214,STUDY033,2026-06-23,2026-07-10,Enhanced Care,Completed,Eligible,None
+SUBJ0215,STUDY059,2024-04-01,2024-05-15,Control,Enrolled,Eligible,None
+SUBJ0216,STUDY084,2025-04-19,2025-04-24,Enhanced Care,Completed,Ineligible,None
+SUBJ0217,STUDY008,2023-10-19,2023-12-02,Enhanced Care,Enrolled,Eligible,None
+SUBJ0218,STUDY083,2023-10-07,2023-11-12,In-Person,Screened,Pending Review,None
+SUBJ0219,STUDY028,2025-10-16,2025-11-02,Standard Care,Screened,Eligible,None
+SUBJ0220,STUDY070,2023-07-30,2023-08-10,Digital Review,Active,Eligible,None
+SUBJ0221,STUDY019,2024-03-08,2024-03-12,Digital Review,Active,Eligible,None
+SUBJ0222,STUDY050,2025-08-27,2025-09-20,Control,Lost to Follow-Up,Eligible,None
+SUBJ0223,STUDY093,2025-05-25,2025-06-26,In-Person,Lost to Follow-Up,Ineligible,Protocol Deviation
+SUBJ0224,STUDY010,2024-03-09,2024-04-16,Standard Care,Withdrawn,Pending Review,Protocol Deviation
+SUBJ0225,STUDY004,2024-10-12,2024-11-09,Enhanced Care,Completed,Eligible,None
+SUBJ0226,STUDY056,2023-02-04,2023-03-19,Telemedicine,Withdrawn,Pending Review,Protocol Deviation
+SUBJ0227,STUDY099,2026-05-24,2026-06-08,In-Person,Lost to Follow-Up,Eligible,None
+SUBJ0228,STUDY049,2024-02-09,2024-01-15,Telemedicine,Active,Ineligible,None
+SUBJ0229,STUDY040,2024-12-14,2025-01-06,In-Person,Active,Eligible,None
+SUBJ0230,STUDY056,2023-10-31,2023-12-05,Telemedicine,Withdrawn,Pending Review,Protocol Deviation
+SUBJ0231,STUDY004,2024-04-07,2024-04-29,Digital Review,Withdrawn,Eligible,Transportation Barrier
+SUBJ0232,STUDY042,2024-05-05,2024-05-05,Telemedicine,Active,Ineligible,None
+SUBJ0233,STUDY093,2025-11-09,2025-12-15,In-Person,Withdrawn,Eligible,Protocol Deviation
+SUBJ0234,STUDY018,2024-04-26,2024-05-15,In-Person,Active,Ineligible,None
+SUBJ0235,STUDY056,2023-05-07,2023-06-02,Standard Care,Active,Ineligible,None
+SUBJ0236,STUDY033,2026-03-05,2026-04-14,Enhanced Care,Completed,Pending Review,None
+SUBJ0237,STUDY014,2024-06-01,2024-06-20,Digital Review,Screened,Ineligible,None
+SUBJ0238,STUDY049,2024-08-07,2024-09-04,Control,Active,Ineligible,None
+SUBJ0239,STUDY077,2024-01-01,2024-01-20,In-Person,Active,Pending Review,None
+SUBJ0240,STUDY062,2025-02-24,2025-03-07,Control,Completed,Ineligible,None
+SUBJ0241,STUDY082,2023-10-08,2023-11-13,Standard Care,Enrolled,Pending Review,None
+SUBJ0242,STUDY015,2023-04-13,2023-05-20,Telemedicine,Withdrawn,Eligible,Transportation Barrier
+SUBJ0243,STUDY094,2026-10-11,2026-11-25,Enhanced Care,Enrolled,Eligible,None
+SUBJ0244,STUDY087,2026-06-09,2026-06-17,Control,Lost to Follow-Up,Ineligible,None
+SUBJ0245,STUDY020,2025-02-02,2025-02-26,Enhanced Care,Screened,Ineligible,None
+SUBJ0246,STUDY075,2026-11-23,2026-12-27,Digital Review,Enrolled,Ineligible,Protocol Deviation
+SUBJ0247,STUDY005,2026-07-15,2026-08-28,Telemedicine,Withdrawn,Pending Review,Adverse Event
+SUBJ0248,STUDY099,2026-04-06,2026-05-18,Digital Review,Lost to Follow-Up,Ineligible,None
+SUBJ0249,STUDY006,2025-04-03,2025-04-24,In-Person,Completed,Eligible,Patient Choice
+SUBJ0250,STUDY066,2027-05-15,2027-06-19,In-Person,Withdrawn,Pending Review,Transportation Barrier
+SUBJ0251,STUDY058,2025-12-23,2026-01-17,Digital Review,Completed,Pending Review,None
+SUBJ0252,STUDY020,2024-11-14,2024-11-15,Telemedicine,Completed,Eligible,None
+SUBJ0253,STUDY015,2023-02-13,2023-03-07,In-Person,Active,Ineligible,None
+SUBJ0254,STUDY067,2023-08-24,2023-09-15,Control,Completed,Eligible,None
+SUBJ0255,STUDY058,2025-10-27,2025-10-31,Telemedicine,Active,Eligible,None
+SUBJ0256,STUDY003,2023-11-10,2023-12-21,Control,Screened,Pending Review,None
+SUBJ0257,STUDY032,2025-11-10,2025-11-21,Digital Review,Withdrawn,Eligible,Patient Choice
+SUBJ0258,STUDY055,2024-03-20,2024-04-03,Control,Completed,Pending Review,None
+SUBJ0259,STUDY085,2023-12-03,2023-12-28,In-Person,Screened,Pending Review,None
+SUBJ0260,STUDY058,2026-02-17,2026-03-13,Standard Care,Screened,Pending Review,None
+SUBJ0261,STUDY097,2025-04-21,2025-05-27,Standard Care,Screened,Pending Review,None
+SUBJ0262,STUDY026,2024-08-15,2024-08-22,Digital Review,Active,Pending Review,None
+SUBJ0263,STUDY082,2023-04-09,2023-05-17,Telemedicine,Completed,Pending Review,None
+SUBJ0264,STUDY045,2025-05-19,2025-06-17,Digital Review,Withdrawn,Eligible,Patient Choice
+SUBJ0265,STUDY076,2022-10-01,2022-11-13,Telemedicine,Enrolled,Pending Review,None
+SUBJ0266,STUDY024,2026-04-29,2026-06-12,Digital Review,Enrolled,Pending Review,None
+SUBJ0267,STUDY018,2024-08-21,2024-09-17,Digital Review,Enrolled,Eligible,None
+SUBJ0268,STUDY022,2026-02-05,2026-02-23,Enhanced Care,Enrolled,Eligible,None
+SUBJ0269,STUDY080,2025-04-01,2025-04-23,Enhanced Care,Screened,Ineligible,None
+SUBJ0270,STUDY072,2024-11-25,2025-01-05,Enhanced Care,Completed,Ineligible,None
+SUBJ0271,STUDY091,2023-08-30,2023-09-30,In-Person,Enrolled,Eligible,None
+SUBJ0272,STUDY038,2024-02-19,2024-03-07,Enhanced Care,Enrolled,Pending Review,None
+SUBJ0273,STUDY073,2024-04-27,2024-06-01,Telemedicine,Withdrawn,Eligible,Transportation Barrier
+SUBJ0274,STUDY035,2024-04-12,2024-05-16,In-Person,Screened,Pending Review,None
+SUBJ0275,STUDY055,2023-03-17,2023-04-27,Enhanced Care,Enrolled,Eligible,None
+SUBJ0276,STUDY034,2024-06-22,2024-06-27,In-Person,Completed,Eligible,None
+SUBJ0277,STUDY027,2023-05-26,2023-07-10,In-Person,Withdrawn,Pending Review,Protocol Deviation
+SUBJ0278,STUDY079,2023-11-21,2023-12-04,Digital Review,Enrolled,Eligible,None
+SUBJ0279,STUDY036,2022-08-18,2022-09-07,Standard Care,Lost to Follow-Up,Ineligible,None
+SUBJ0280,STUDY066,2026-03-07,2026-03-15,Control,Completed,Eligible,None
+SUBJ0281,STUDY017,2025-09-03,2025-09-18,In-Person,Enrolled,Pending Review,None
+SUBJ0282,STUDY098,2026-05-20,2026-06-20,Control,Enrolled,Pending Review,None
+SUBJ0283,STUDY054,2024-05-23,2024-06-20,Telemedicine,Screened,Pending Review,None
+SUBJ0284,STUDY052,2025-04-13,2025-04-30,Enhanced Care,Lost to Follow-Up,Ineligible,None
+SUBJ0285,STUDY042,2023-04-09,2023-04-14,Control,Lost to Follow-Up,Ineligible,None
+SUBJ0286,STUDY046,2025-09-10,2025-10-14,In-Person,Withdrawn,Eligible,
+SUBJ0287,STUDY064,2023-10-30,2023-11-19,In-Person,Active,Ineligible,None
+SUBJ0288,STUDY073,2024-04-16,2024-05-07,Enhanced Care,Lost to Follow-Up,Eligible,None
+SUBJ0289,STUDY003,2023-03-31,2023-04-10,In-Person,Completed,Ineligible,Protocol Deviation
+SUBJ0290,STUDY089,2023-09-29,2023-11-09,Standard Care,Active,Eligible,None
+SUBJ0291,STUDY012,2025-06-14,2025-06-30,Control,Screened,Ineligible,None
+SUBJ0292,STUDY022,2024-11-14,2024-12-09,In-Person,Lost to Follow-Up,Ineligible,None
+SUBJ0293,STUDY055,2023-03-06,2023-04-20,Telemedicine,Screened,Eligible,None
+SUBJ0294,STUDY017,2025-12-08,2026-01-10,Standard Care,Lost to Follow-Up,Ineligible,None
+SUBJ0295,STUDY016,2025-08-23,2025-10-06,Control,Enrolled,Eligible,Protocol Deviation
+SUBJ0296,STUDY014,2024-04-29,2024-05-19,In-Person,Active,Ineligible,None
+SUBJ0297,STUDY083,2023-03-28,2023-04-01,Digital Review,Withdrawn,Pending Review,Adverse Event
+SUBJ0298,STUDY084,2025-09-02,2025-09-30,Control,Active,Pending Review,None
+SUBJ0299,STUDY020,2025-01-21,2025-03-01,Telemedicine,Lost to Follow-Up,Ineligible,None
+SUBJ0300,STUDY013,2025-10-23,2025-10-30,Standard Care,Withdrawn,Pending Review,Protocol Deviation
+SUBJ0301,STUDY055,2023-10-21,2023-10-29,Digital Review,Enrolled,Eligible,None
+SUBJ0302,STUDY077,2024-06-01,2024-07-15,In-Person,Screened,Pending Review,None
+SUBJ0303,STUDY067,2023-09-20,2023-10-02,Telemedicine,Lost to Follow-Up,Ineligible,None
+SUBJ0304,STUDY031,2026-06-25,2026-07-19,Digital Review,Screened,Eligible,None
+SUBJ0305,STUDY010,2023-04-08,2023-05-01,Digital Review,Active,Eligible,None
+SUBJ0306,STUDY054,2024-05-13,2024-06-16,Telemedicine,Lost to Follow-Up,Eligible,None
+SUBJ0307,STUDY003,2023-02-01,2023-02-01,Enhanced Care,Active,Eligible,Adverse Event
+SUBJ0308,STUDY065,2024-01-30,2024-03-10,Enhanced Care,Lost to Follow-Up,Pending Review,None
+SUBJ0309,STUDY090,2025-12-02,2025-12-07,In-Person,Lost to Follow-Up,Pending Review,None
+SUBJ0310,STUDY036,2022-05-23,2022-06-11,In-Person,Screened,Pending Review,None
+SUBJ0311,STUDY069,2025-05-26,2025-06-20,Standard Care,Withdrawn,Pending Review,Adverse Event
+SUBJ0312,STUDY090,2026-01-07,2026-01-22,Enhanced Care,Screened,Eligible,None
+SUBJ0313,STUDY015,2023-12-29,2024-02-06,Control,Withdrawn,Eligible,Patient Choice
+SUBJ0314,STUDY095,2022-12-31,2023-01-07,Telemedicine,Screened,Pending Review,None
+SUBJ0315,STUDY021,2024-10-17,2024-11-08,In-Person,Withdrawn,Pending Review,Patient Choice
+SUBJ0316,STUDY048,2024-09-08,2024-08-21,Telemedicine,Lost to Follow-Up,Eligible,None
+SUBJ0317,STUDY043,2027-02-10,2027-02-27,Control,Withdrawn,Eligible,Patient Choice
+SUBJ0318,STUDY074,2024-09-02,2024-10-03,Enhanced Care,Completed,Pending Review,None
+SUBJ0319,STUDY073,2023-05-26,2023-06-18,In-Person,Enrolled,Eligible,None
+SUBJ0320,STUDY095,2023-12-08,2023-12-08,Enhanced Care,Screened,Eligible,None
+SUBJ0321,STUDY047,2023-11-08,2023-11-17,Control,Enrolled,Eligible,None
+SUBJ0322,STUDY095,2023-09-07,2023-09-21,Control,Active,Eligible,None
+SUBJ0323,STUDY041,2025-08-17,2025-08-21,Digital Review,Withdrawn,Ineligible,Adverse Event
+SUBJ0324,STUDY087,2025-03-08,2025-03-19,Enhanced Care,Enrolled,Pending Review,None
+SUBJ0325,STUDY009,2024-02-09,2024-02-27,Enhanced Care,Active,Ineligible,None
+SUBJ0326,STUDY002,2025-11-13,2025-11-25,Control,Active,Pending Review,None
+SUBJ0327,STUDY080,2025-10-12,2025-11-10,In-Person,Active,Pending Review,None
+SUBJ0328,STUDY094,2026-03-04,2026-03-13,Standard Care,Screened,Ineligible,Transportation Barrier
+SUBJ0329,STUDY082,2022-06-02,2022-06-23,Control,Screened,Pending Review,None
+SUBJ0330,STUDY094,2026-05-06,2026-05-12,Enhanced Care,Enrolled,Pending Review,None
+SUBJ0331,STUDY063,2024-02-22,2024-03-02,In-Person,Lost to Follow-Up,Ineligible,None
+SUBJ0332,STUDY067,2023-06-13,2023-07-27,Telemedicine,Active,Ineligible,None
+SUBJ0333,STUDY075,2026-01-14,2026-02-15,Telemedicine,Enrolled,Pending Review,None
+SUBJ0334,STUDY076,2022-09-08,2022-10-05,Standard Care,Lost to Follow-Up,Eligible,None
+SUBJ0335,STUDY041,2025-12-20,2026-02-02,Standard Care,Lost to Follow-Up,Ineligible,None
+SUBJ0336,STUDY030,2023-08-15,2023-08-27,Telemedicine,Enrolled,Pending Review,None
+SUBJ0337,STUDY022,2025-12-26,2026-01-24,Standard Care,Active,Ineligible,None
+SUBJ0338,STUDY099,2026-02-23,2026-03-23,Telemedicine,Active,Ineligible,None
+SUBJ0339,STUDY012,2024-11-18,2024-12-31,Telemedicine,Withdrawn,Pending Review,
+SUBJ0340,STUDY028,2025-05-18,2025-05-27,Standard Care,Screened,Pending Review,None
+SUBJ0341,STUDY051,2025-08-25,2025-08-28,In-Person,Lost to Follow-Up,Ineligible,None
+SUBJ0342,STUDY004,2025-02-24,2025-03-24,In-Person,Withdrawn,Pending Review,Transportation Barrier
+SUBJ0343,STUDY013,2026-09-18,2026-09-24,In-Person,Enrolled,Eligible,Lost Contact
+SUBJ0344,STUDY026,2024-06-18,2024-07-11,Telemedicine,Lost to Follow-Up,Pending Review,None
+SUBJ0345,STUDY075,2026-07-01,2026-07-05,Control,Screened,Eligible,None
+SUBJ0346,STUDY057,2025-12-29,2026-01-03,Telemedicine,Active,Eligible,Protocol Deviation
+SUBJ0347,STUDY022,2025-12-09,2026-01-03,Enhanced Care,Completed,Eligible,None
+SUBJ0348,STUDY023,2025-05-14,2025-05-27,Telemedicine,Enrolled,Eligible,None
+SUBJ0349,STUDY079,2024-03-09,2024-04-19,Digital Review,Active,Ineligible,None
+SUBJ0350,STUDY062,2024-06-10,2024-06-15,In-Person,Active,Ineligible,None
+SUBJ0351,STUDY083,2024-04-23,2024-05-08,Enhanced Care,Lost to Follow-Up,Pending Review,None
+SUBJ0352,STUDY092,2023-08-10,2023-09-09,Digital Review,Withdrawn,Ineligible,Patient Choice
+SUBJ0353,STUDY065,2024-03-06,2024-03-30,In-Person,Active,Eligible,Transportation Barrier
+SUBJ0354,STUDY004,2024-10-20,2024-10-16,Digital Review,Completed,Pending Review,None
+SUBJ0355,STUDY030,2023-11-10,2023-11-16,Digital Review,Enrolled,Pending Review,None
+SUBJ0356,STUDY095,2022-08-31,2022-09-14,In-Person,Withdrawn,Ineligible,Patient Choice
+SUBJ0357,STUDY023,2025-01-14,2025-02-20,Digital Review,Enrolled,Ineligible,None
+SUBJ0358,STUDY004,2025-01-01,2025-02-06,In-Person,Withdrawn,Eligible,Transportation Barrier
+SUBJ0359,STUDY064,2023-12-11,2023-12-22,In-Person,Completed,Eligible,None
+SUBJ0360,STUDY078,2025-07-02,2025-07-03,Standard Care,Withdrawn,Ineligible,Adverse Event
+SUBJ0361,STUDY079,2024-01-24,2024-02-01,Standard Care,Withdrawn,Pending Review,
+SUBJ0362,STUDY008,2023-11-01,2023-11-10,Telemedicine,Withdrawn,Pending Review,Lost Contact
+SUBJ0363,STUDY068,2023-07-03,2023-07-07,Enhanced Care,Active,Pending Review,None
+SUBJ0364,STUDY076,2022-10-18,2022-11-08,In-Person,Active,Ineligible,None
+SUBJ0365,STUDY094,2026-09-16,2026-10-26,Control,Completed,Pending Review,None
+SUBJ0366,STUDY072,2024-06-26,2024-07-10,Enhanced Care,Lost to Follow-Up,Pending Review,None
+SUBJ0367,STUDY040,2024-07-13,2024-07-21,Digital Review,Enrolled,Pending Review,None
+SUBJ0368,STUDY051,2024-04-20,2024-05-01,In-Person,Withdrawn,Ineligible,Transportation Barrier
+SUBJ0369,STUDY082,2022-09-07,2022-10-08,Standard Care,Enrolled,Eligible,None
+SUBJ0370,STUDY041,2025-05-03,2025-06-12,Control,Screened,Pending Review,None
+SUBJ0371,STUDY043,2027-02-28,2027-02-28,Telemedicine,Active,Eligible,None
+SUBJ0372,STUDY045,2025-02-10,2025-02-16,Control,Lost to Follow-Up,Eligible,Protocol Deviation
+SUBJ0373,STUDY054,2023-10-22,2023-11-17,Enhanced Care,Completed,Ineligible,None
+SUBJ0374,STUDY013,2026-10-05,2026-11-10,Enhanced Care,Lost to Follow-Up,Pending Review,None
+SUBJ0375,STUDY010,2023-04-30,2023-05-18,Telemedicine,Screened,Ineligible,None
+SUBJ0376,STUDY010,2024-03-11,2024-03-21,Digital Review,Completed,Eligible,None
+SUBJ0377,STUDY012,2025-05-22,2025-06-29,Enhanced Care,Withdrawn,Ineligible,Adverse Event
+SUBJ0378,STUDY084,2025-09-02,2025-10-10,In-Person,Completed,Eligible,Patient Choice
+SUBJ0379,STUDY025,2026-05-06,2026-06-19,Standard Care,Withdrawn,Pending Review,Transportation Barrier
+SUBJ0380,STUDY085,2023-07-02,2023-07-21,Digital Review,Enrolled,Eligible,Transportation Barrier
+SUBJ0381,STUDY063,2024-05-28,2024-05-31,Standard Care,Active,Eligible,None
+SUBJ0382,STUDY085,2024-01-21,2024-02-02,Control,Screened,Eligible,None
+SUBJ0383,STUDY038,2024-04-09,2024-05-09,Enhanced Care,Screened,Ineligible,None
+SUBJ0384,STUDY063,2024-09-19,2024-09-24,Standard Care,Lost to Follow-Up,Pending Review,None
+SUBJ0385,STUDY049,2024-09-17,2024-09-28,Enhanced Care,Completed,Eligible,None
+SUBJ0386,STUDY034,2024-02-18,2024-03-06,Control,Withdrawn,Eligible,Lost Contact
+SUBJ0387,STUDY086,2022-09-11,2022-09-16,Enhanced Care,Lost to Follow-Up,Ineligible,None
+SUBJ0388,STUDY097,2025-10-06,2025-11-10,Enhanced Care,Screened,Ineligible,None
+SUBJ0389,STUDY069,2025-10-25,2025-11-30,Control,Enrolled,Pending Review,None
+SUBJ0390,STUDY005,2026-12-08,2027-01-13,In-Person,Withdrawn,Pending Review,Transportation Barrier
+SUBJ0391,STUDY016,2025-09-19,2025-09-30,In-Person,Enrolled,Eligible,None
+SUBJ0392,STUDY006,2025-04-27,2025-05-02,Control,Lost to Follow-Up,Ineligible,None
+SUBJ0393,STUDY019,2023-10-17,2023-11-06,Digital Review,Lost to Follow-Up,Eligible,None
+SUBJ0394,STUDY051,2025-02-14,2025-03-03,Control,Withdrawn,Ineligible,Adverse Event
+SUBJ0395,STUDY080,2026-07-26,2026-08-21,Digital Review,Screened,Ineligible,None
+SUBJ0396,STUDY076,2022-10-17,2022-10-23,Digital Review,Withdrawn,Eligible,Patient Choice
+SUBJ0397,STUDY045,2025-07-18,2025-08-03,Digital Review,Completed,Pending Review,None
+SUBJ0398,STUDY061,2023-06-18,2023-06-29,Digital Review,Active,Ineligible,None
+SUBJ0399,STUDY088,2025-08-13,2025-08-15,Telemedicine,Completed,Ineligible,None
+SUBJ0400,STUDY096,2024-04-03,2024-04-20,Standard Care,Active,Eligible,None
+SUBJ0401,STUDY040,2024-06-29,2024-07-30,In-Person,Lost to Follow-Up,Pending Review,None
+SUBJ0402,STUDY018,2024-05-28,2024-06-25,Digital Review,Active,Ineligible,None
+SUBJ0403,STUDY083,2023-02-01,2023-02-13,Enhanced Care,Completed,Eligible,None
+SUBJ0404,STUDY095,2023-11-13,2023-12-16,In-Person,Active,Eligible,None
+SUBJ0405,STUDY009,2023-09-04,2023-10-19,Digital Review,Withdrawn,Ineligible,Lost Contact
+SUBJ0406,STUDY073,2023-01-05,2023-01-16,In-Person,Enrolled,Eligible,None
+SUBJ0407,STUDY005,2026-10-22,2026-10-25,Standard Care,Active,Pending Review,None
+SUBJ0408,STUDY060,2026-02-25,2026-03-22,In-Person,Lost to Follow-Up,Eligible,None
+SUBJ0409,STUDY048,2025-09-14,2025-10-22,Enhanced Care,Completed,Eligible,None
+SUBJ0410,STUDY076,2023-06-30,2023-07-22,Standard Care,Enrolled,Eligible,None
+SUBJ0411,STUDY004,2025-02-05,2025-02-08,In-Person,Enrolled,Pending Review,None
+SUBJ0412,STUDY029,2023-04-13,2023-05-26,Control,Enrolled,Eligible,None
+SUBJ0413,STUDY002,2026-03-01,2026-03-09,Telemedicine,Lost to Follow-Up,Eligible,None
+SUBJ0414,STUDY029,2023-05-11,2023-06-18,Control,Active,Pending Review,None
+SUBJ0415,STUDY036,2023-05-06,2023-05-30,Enhanced Care,Active,Ineligible,None
+SUBJ0416,STUDY039,2027-05-16,2027-06-24,Digital Review,Completed,Pending Review,None
+SUBJ0417,STUDY085,2023-10-05,2023-11-09,Standard Care,Lost to Follow-Up,Pending Review,None
+SUBJ0418,STUDY088,2024-10-16,2024-11-15,Control,Screened,Ineligible,None
+SUBJ0419,STUDY042,2024-01-15,2024-01-31,Control,Lost to Follow-Up,Pending Review,None
+SUBJ0420,STUDY039,2026-06-09,2026-06-18,Digital Review,Withdrawn,Eligible,Adverse Event
+SUBJ0421,STUDY052,2024-09-25,2024-11-07,Standard Care,Enrolled,Pending Review,Protocol Deviation
+SUBJ0422,STUDY034,2024-09-02,2024-09-27,Digital Review,Completed,Pending Review,None
+SUBJ0423,STUDY025,2026-02-27,2026-04-13,Enhanced Care,Enrolled,Pending Review,None
+SUBJ0424,STUDY086,2023-06-06,2023-07-08,Digital Review,Active,Eligible,None
+SUBJ0425,STUDY024,2026-02-06,2026-02-12,Control,Completed,Eligible,None
+SUBJ0426,STUDY072,2023-12-31,2024-02-12,Standard Care,Active,Pending Review,None
+SUBJ0427,STUDY029,2023-07-06,2023-08-01,Standard Care,Active,Ineligible,None
+SUBJ0428,STUDY060,2025-01-24,2025-02-23,Digital Review,Screened,Pending Review,None
+SUBJ0429,STUDY010,2024-07-22,2024-08-03,Digital Review,Withdrawn,Eligible,Protocol Deviation
+SUBJ0430,STUDY039,2027-01-26,2027-01-29,Standard Care,Enrolled,Eligible,None
+SUBJ0431,STUDY053,2026-04-23,2026-05-02,Telemedicine,Active,Pending Review,None
+SUBJ0432,STUDY063,2024-11-27,2025-01-06,Enhanced Care,Enrolled,Eligible,None
+SUBJ0433,STUDY036,2022-09-29,2022-10-09,Telemedicine,Withdrawn,Eligible,Protocol Deviation
+SUBJ0434,STUDY017,2026-07-09,2026-08-18,Enhanced Care,Completed,Ineligible,None
+SUBJ0435,STUDY050,2024-09-26,2024-09-28,Telemedicine,Withdrawn,Eligible,Patient Choice
+SUBJ0436,STUDY042,2023-10-19,2023-10-20,In-Person,Lost to Follow-Up,Eligible,None
+SUBJ0437,STUDY029,2023-08-13,2023-09-01,Digital Review,Enrolled,Eligible,None
+SUBJ0438,STUDY040,2024-03-05,2024-02-29,Enhanced Care,Screened,Ineligible,None
+SUBJ0439,STUDY094,2026-12-10,2027-01-17,Control,Withdrawn,Ineligible,Protocol Deviation
+SUBJ0440,STUDY018,2024-07-10,2024-08-10,Enhanced Care,Active,Eligible,None
+SUBJ0441,STUDY003,2023-07-15,2023-07-29,Telemedicine,Enrolled,Ineligible,None
+SUBJ0442,STUDY076,2023-12-05,2023-12-15,Telemedicine,Screened,Ineligible,None
+SUBJ0443,STUDY049,2024-05-23,2024-06-26,Telemedicine,Withdrawn,Eligible,Transportation Barrier
+SUBJ0444,STUDY085,2023-01-05,2023-02-15,Enhanced Care,Screened,Eligible,None
+SUBJ0445,STUDY057,2026-09-13,2026-09-20,Control,Withdrawn,Ineligible,Protocol Deviation
+SUBJ0446,STUDY020,2024-06-24,2024-08-07,Control,Lost to Follow-Up,Pending Review,Protocol Deviation
+SUBJ0447,STUDY013,2026-11-16,2026-12-03,Enhanced Care,Withdrawn,Pending Review,Lost Contact
+SUBJ0448,STUDY014,2025-06-21,2025-07-30,Telemedicine,Screened,Ineligible,None
+SUBJ0449,STUDY064,2023-08-20,2023-09-27,Standard Care,Enrolled,Eligible,None
+SUBJ0450,STUDY091,2023-07-26,2023-08-13,In-Person,Enrolled,Eligible,None
+SUBJ0451,STUDY089,2024-09-20,2024-10-11,Telemedicine,Enrolled,Eligible,Adverse Event
+SUBJ0452,STUDY074,2025-11-03,2025-11-12,Telemedicine,Screened,Pending Review,None
+SUBJ0453,STUDY033,2026-02-17,2026-03-18,Telemedicine,Active,Ineligible,None
+SUBJ0454,STUDY023,2024-06-26,2024-07-14,Control,Enrolled,Ineligible,None
+SUBJ0455,STUDY015,2022-12-27,2022-12-29,In-Person,Screened,Eligible,None
+SUBJ0456,STUDY043,2026-11-29,2026-12-27,Standard Care,Withdrawn,Ineligible,Adverse Event
+SUBJ0457,STUDY044,2022-10-18,2022-10-25,Standard Care,Completed,Ineligible,None
+SUBJ0458,STUDY050,2026-01-24,2026-02-19,Control,Lost to Follow-Up,Eligible,None
+SUBJ0459,STUDY093,2025-05-05,2025-05-15,Enhanced Care,Screened,Ineligible,None
+SUBJ0460,STUDY073,2024-02-28,2024-03-10,Digital Review,Withdrawn,Ineligible,Patient Choice
+SUBJ0461,STUDY004,2024-05-19,2024-06-18,Enhanced Care,Completed,Eligible,None
+SUBJ0462,STUDY006,2024-04-23,2024-05-09,Digital Review,Lost to Follow-Up,Ineligible,None
+SUBJ0463,STUDY099,2026-03-12,2026-04-23,Control,Active,Pending Review,None
+SUBJ0464,STUDY080,2025-05-14,2025-06-10,Standard Care,Lost to Follow-Up,Pending Review,None
+SUBJ0465,STUDY085,2023-10-16,2023-10-25,Telemedicine,Withdrawn,Pending Review,Adverse Event
+SUBJ0466,STUDY083,2023-04-11,2023-05-13,Telemedicine,Completed,Ineligible,None
+SUBJ0467,STUDY097,2026-07-04,2026-07-24,Digital Review,Enrolled,Eligible,None
+SUBJ0468,STUDY029,2023-09-17,2023-10-12,Digital Review,Enrolled,Eligible,None
+SUBJ0469,STUDY058,2025-03-05,2025-04-05,Enhanced Care,Completed,Ineligible,None
+SUBJ0470,STUDY096,2022-12-22,2022-12-28,Telemedicine,Completed,Ineligible,Transportation Barrier
+SUBJ0471,STUDY012,2025-04-17,2025-05-19,Standard Care,Withdrawn,Eligible,Protocol Deviation
+SUBJ0472,STUDY047,2022-12-06,2022-12-20,Digital Review,Withdrawn,Ineligible,
+SUBJ0473,STUDY077,2024-12-11,2025-01-25,Telemedicine,Lost to Follow-Up,Ineligible,None
+SUBJ0474,STUDY013,2026-01-15,2026-01-15,Standard Care,Active,Ineligible,None
+SUBJ0475,STUDY071,2027-05-01,2027-05-24,Enhanced Care,Lost to Follow-Up,Eligible,Lost Contact
+SUBJ0476,STUDY018,2024-09-17,2024-09-23,Telemedicine,Active,Pending Review,None
+SUBJ0477,STUDY051,2024-10-24,2024-11-22,Enhanced Care,Enrolled,Pending Review,None
+SUBJ0478,STUDY006,2024-06-24,2024-07-22,Digital Review,Completed,Pending Review,None
+SUBJ0479,STUDY018,2024-12-17,2024-12-17,Digital Review,Withdrawn,Pending Review,Adverse Event
+SUBJ0480,STUDY056,2023-12-05,2024-01-06,Control,Enrolled,Pending Review,None
+SUBJ0481,STUDY017,2025-08-05,2025-07-11,Standard Care,Lost to Follow-Up,Pending Review,None
+SUBJ0482,STUDY065,2024-05-09,2024-06-04,Standard Care,Withdrawn,Pending Review,Lost Contact
+SUBJ0483,STUDY051,2025-03-04,2025-03-22,Digital Review,Completed,Eligible,None
+SUBJ0484,STUDY090,2026-03-25,2026-04-13,Control,Lost to Follow-Up,Pending Review,None
+SUBJ0485,STUDY095,2023-02-12,2023-02-24,Control,Enrolled,Pending Review,None
+SUBJ0486,STUDY045,2024-10-06,2024-11-20,Control,Lost to Follow-Up,Eligible,None
+SUBJ0487,STUDY082,2023-04-19,2023-04-11,Digital Review,Active,Pending Review,None
+SUBJ0488,STUDY086,2023-08-05,2023-06-22,Enhanced Care,Lost to Follow-Up,Pending Review,None
+SUBJ0489,STUDY002,2026-04-20,2026-04-26,Control,Screened,Ineligible,None
+SUBJ0490,STUDY008,2024-05-01,2024-05-18,Telemedicine,Enrolled,Eligible,None
+SUBJ0491,STUDY089,2024-03-14,2024-03-27,Enhanced Care,Withdrawn,Eligible,Patient Choice
+SUBJ0492,STUDY014,2024-08-31,2024-10-11,Digital Review,Withdrawn,Ineligible,Lost Contact
+SUBJ0493,STUDY090,2025-08-07,2025-09-20,Enhanced Care,Lost to Follow-Up,Eligible,None
+SUBJ0494,STUDY054,2024-03-20,2024-04-24,In-Person,Screened,Eligible,None
+SUBJ0495,STUDY080,2026-05-05,2026-05-19,Standard Care,Lost to Follow-Up,Pending Review,None
+SUBJ0496,STUDY097,2025-09-05,2025-09-17,Control,Active,Ineligible,None
+SUBJ0497,STUDY010,2023-10-04,2023-10-15,Telemedicine,Lost to Follow-Up,Pending Review,None
+SUBJ0498,STUDY055,2023-09-14,2023-10-19,Standard Care,Active,Eligible,None
+SUBJ0499,STUDY001,2024-03-07,2024-04-05,Digital Review,Lost to Follow-Up,Eligible,Patient Choice
+SUBJ0500,STUDY007,2025-11-03,2025-12-04,Telemedicine,Withdrawn,Pending Review,Patient Choice

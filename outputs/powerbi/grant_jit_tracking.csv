@@ -1,0 +1,61 @@
+grant_id,study_id,protocol_id,study_title,sponsor_name,funding_amount,submission_date,submission_status,jit_required,jit_status,award_status,is_awarded,is_funding_amount_invalid,is_jit_status_invalid,grant_operational_status
+GRANT001,STUDY002,RHEUM-2022-002,Polypharmacy Monitoring for Polypharmacy Monitoring,NIH,640670.0,2024-10-01,Awarded,True,Complete,Awarded,True,False,False,Awarded
+GRANT002,STUDY042,RHEUM-2023-042,Patient Education Strategies for Rheumatoid Arthritis,PCORI,959631.0,2026-02-19,Draft,True,Complete,Pending,False,False,False,Other
+GRANT003,STUDY067,RHEUM-2025-067,Comparative Effectiveness in Gout,Foundation Award,834240.0,2025-04-27,Draft,False,Not Required,Awarded,True,False,False,Awarded
+GRANT004,STUDY038,RHEUM-2022-038,Telemedicine Follow-Up in Telemedicine Follow-Up,Internal Pilot Funding,1103584.0,2022-01-30,Draft,False,Not Required,Awarded,True,False,False,Awarded
+GRANT005,STUDY001,RHEUM-2022-001,Pragmatic Care Delivery for Polypharmacy Monitoring,Internal Pilot Funding,-22586.0,2021-05-15,Awarded,True,Complete,Pending,False,True,False,Other
+GRANT006,STUDY069,RHEUM-2025-069,Pragmatic Care Delivery for Inflammatory Arthritis,Foundation Award,1430794.0,2024-12-10,Draft,True,Pending,Not Funded,False,False,False,JIT Pending
+GRANT007,STUDY012,RHEUM-2025-012,Digital Workflow for Rheumatoid Arthritis,NIH,937759.0,2021-04-22,JIT Requested,True,Not Required,Pending,False,False,True,JIT Pending
+GRANT008,STUDY050,RHEUM-2025-050,Comparative Effectiveness in Telemedicine Follow-Up,PCORI,553289.0,2024-07-14,Under Review,True,Submitted,Awarded,True,False,False,Awarded
+GRANT009,STUDY087,RHEUM-2022-087,Digital Workflow for Lupus,NIH,933119.0,2024-01-01,JIT Requested,False,Not Required,Pending,False,False,False,Under Review
+GRANT010,STUDY046,RHEUM-2024-046,Digital Workflow for Infection Prevention,VA Research,1370160.0,2021-08-06,Not Funded,True,Pending,Awarded,True,False,False,Awarded
+GRANT011,STUDY051,RHEUM-2022-051,Comparative Effectiveness in Gout,Foundation Award,-79997.0,2024-09-15,JIT Requested,True,Submitted,Pending,False,True,False,Under Review
+GRANT012,STUDY070,RHEUM-2022-070,Medication Safety for Osteoporosis,American College of Rheumatology,-41979.0,2024-07-22,Not Funded,True,Submitted,Pending,False,True,False,Other
+GRANT013,STUDY072,RHEUM-2023-072,Polypharmacy Monitoring for Technology-Enabled Care Delivery,Rheumatology Research Foundation,650069.0,2021-09-10,Awarded,False,Not Required,Pending,False,False,False,Other
+GRANT014,STUDY027,RHEUM-2023-027,Medication Safety for Polypharmacy Monitoring,Internal Pilot Funding,35548.0,2025-02-27,Under Review,False,Not Required,Not Funded,False,False,False,Under Review
+GRANT015,STUDY024,RHEUM-2023-024,Care Coordination in Rheumatoid Arthritis,Rheumatology Research Foundation,-56505.0,2024-06-17,Submitted,False,Not Required,Awarded,True,True,False,Awarded
+GRANT016,STUDY007,RHEUM-2023-007,Digital Workflow for Infection Prevention,Foundation Award,432531.0,2025-03-19,Not Funded,True,Complete,Not Funded,False,False,False,Not Funded
+GRANT017,STUDY033,RHEUM-2023-033,Comparative Effectiveness in Osteoporosis,NIH,992343.0,2022-02-09,Not Funded,True,Pending,Not Funded,False,False,False,JIT Pending
+GRANT018,STUDY084,RHEUM-2023-084,Telemedicine Follow-Up in Technology-Enabled Care Delivery,Rheumatology Research Foundation,1242597.0,2021-07-24,Submitted,True,,Awarded,True,False,True,Awarded
+GRANT019,STUDY079,RHEUM-2023-079,Infection Prevention Among Patients With Inflammatory Arthritis,Internal Pilot Funding,1324218.0,2022-09-19,Under Review,True,Not Required,Not Funded,False,False,True,JIT Pending
+GRANT020,STUDY022,RHEUM-2023-022,Medication Safety for Technology-Enabled Care Delivery,NIH,1250093.0,2022-10-04,Under Review,True,Submitted,Pending,False,False,False,Under Review
+GRANT021,STUDY018,RHEUM-2025-018,Medication Safety for Lupus,Internal Pilot Funding,489573.0,2025-02-10,Under Review,False,Not Required,Awarded,True,False,False,Awarded
+GRANT022,STUDY100,RHEUM-2023-100,Telemedicine Follow-Up in Technology-Enabled Care Delivery,American College of Rheumatology,1031536.0,2023-09-25,Under Review,False,Not Required,Not Funded,False,False,False,Under Review
+GRANT023,STUDY069,RHEUM-2025-069,Pragmatic Care Delivery for Inflammatory Arthritis,Rheumatology Research Foundation,253238.0,2022-06-24,Under Review,True,Pending,Not Funded,False,False,False,JIT Pending
+GRANT024,STUDY081,RHEUM-2025-081,Polypharmacy Monitoring for Lupus,NIH,1339115.0,2025-07-23,Draft,True,Complete,Not Funded,False,False,False,Not Funded
+GRANT025,STUDY071,RHEUM-2025-071,Patient Education Strategies for Inflammatory Arthritis,American College of Rheumatology,1239042.0,2024-01-19,Draft,False,Not Required,Not Funded,False,False,False,Not Funded
+GRANT026,STUDY060,RHEUM-2024-060,Digital Workflow for Inflammatory Arthritis,VA Research,1015073.0,2023-11-12,JIT Requested,True,Not Required,Pending,False,False,True,JIT Pending
+GRANT027,STUDY088,RHEUM-2024-088,Telemedicine Follow-Up in Rheumatoid Arthritis,Rheumatology Research Foundation,857118.0,2025-03-31,Submitted,True,,Not Funded,False,False,True,JIT Pending
+GRANT028,STUDY094,RHEUM-2023-094,Remote Monitoring for Gout,PCORI,319378.0,2026-04-08,Submitted,True,,Awarded,True,False,True,Awarded
+GRANT029,STUDY034,RHEUM-2022-034,Infection Prevention Among Patients With Technology-Enabled Care Delivery,American College of Rheumatology,109766.0,2022-04-25,Submitted,True,Pending,Pending,False,False,False,JIT Pending
+GRANT030,STUDY006,RHEUM-2025-006,Telemedicine Follow-Up in Telemedicine Follow-Up,Internal Pilot Funding,1427125.0,2022-10-26,JIT Requested,True,Not Required,Pending,False,False,True,JIT Pending
+GRANT031,STUDY084,RHEUM-2023-084,Telemedicine Follow-Up in Technology-Enabled Care Delivery,PCORI,1118398.0,2023-01-19,Under Review,True,,Not Funded,False,False,True,JIT Pending
+GRANT032,STUDY067,RHEUM-2025-067,Comparative Effectiveness in Gout,PCORI,1395146.0,2022-12-24,JIT Requested,True,Pending,Awarded,True,False,False,Awarded
+GRANT033,STUDY018,RHEUM-2025-018,Medication Safety for Lupus,PCORI,-208790.0,2021-12-06,Awarded,False,Not Required,Pending,False,True,False,Other
+GRANT034,STUDY024,RHEUM-2023-024,Care Coordination in Rheumatoid Arthritis,Rheumatology Research Foundation,-135883.0,2023-01-12,Submitted,False,Not Required,Not Funded,False,True,False,Under Review
+GRANT035,STUDY015,RHEUM-2023-015,Pragmatic Care Delivery for Inflammatory Arthritis,PCORI,273156.0,2024-10-14,Under Review,True,Complete,Awarded,True,False,False,Awarded
+GRANT036,STUDY003,RHEUM-2025-003,Medication Safety for Telemedicine Follow-Up,Rheumatology Research Foundation,1029580.0,2021-03-30,Not Funded,True,Submitted,Pending,False,False,False,Other
+GRANT037,STUDY006,RHEUM-2025-006,Telemedicine Follow-Up in Telemedicine Follow-Up,VA Research,1227688.0,2021-10-28,Not Funded,True,Complete,Pending,False,False,False,Other
+GRANT038,STUDY052,RHEUM-2025-052,Comparative Effectiveness in Telemedicine Follow-Up,VA Research,373843.0,2024-02-29,Awarded,False,Not Required,Not Funded,False,False,False,Not Funded
+GRANT039,STUDY058,RHEUM-2024-058,Infection Prevention Among Patients With Chronic Inflammatory Disease,VA Research,64049.0,2023-08-24,Submitted,False,Not Required,Awarded,True,False,False,Awarded
+GRANT040,STUDY075,RHEUM-2022-075,Polypharmacy Monitoring for Osteoporosis,Foundation Award,382704.0,2025-04-21,Awarded,True,Pending,Pending,False,False,False,JIT Pending
+GRANT041,STUDY077,RHEUM-2025-077,Infection Prevention Among Patients With Polypharmacy Monitoring,VA Research,1331969.0,2021-05-21,Under Review,True,Not Required,Pending,False,False,True,JIT Pending
+GRANT042,STUDY003,RHEUM-2025-003,Medication Safety for Telemedicine Follow-Up,Rheumatology Research Foundation,818166.0,2023-12-07,Draft,False,Not Required,Not Funded,False,False,False,Not Funded
+GRANT043,STUDY013,RHEUM-2023-013,Polypharmacy Monitoring for Telemedicine Follow-Up,Rheumatology Research Foundation,1460223.0,2023-09-02,Awarded,False,Not Required,Not Funded,False,False,False,Not Funded
+GRANT044,STUDY085,RHEUM-2024-085,Care Coordination in Gout,Rheumatology Research Foundation,1282900.0,2026-01-22,Draft,True,Submitted,Not Funded,False,False,False,Not Funded
+GRANT045,STUDY048,RHEUM-2023-048,Pragmatic Care Delivery for Technology-Enabled Care Delivery,Foundation Award,1155964.0,2021-03-30,Awarded,True,Submitted,Not Funded,False,False,False,Not Funded
+GRANT046,STUDY099,RHEUM-2024-099,Medication Safety for Technology-Enabled Care Delivery,PCORI,1136105.0,2022-12-19,JIT Requested,False,Not Required,Not Funded,False,False,False,Under Review
+GRANT047,STUDY062,RHEUM-2023-062,Pragmatic Care Delivery for Inflammatory Arthritis,Foundation Award,1486101.0,2022-04-22,Submitted,True,Submitted,Pending,False,False,False,Under Review
+GRANT048,STUDY001,RHEUM-2022-001,Pragmatic Care Delivery for Polypharmacy Monitoring,Internal Pilot Funding,619053.0,2025-03-03,Submitted,False,Not Required,Pending,False,False,False,Under Review
+GRANT049,STUDY041,RHEUM-2023-041,Polypharmacy Monitoring for Gout,PCORI,1237126.0,2023-01-12,Submitted,True,,Pending,False,False,True,JIT Pending
+GRANT050,STUDY047,RHEUM-2023-047,Medication Safety for Technology-Enabled Care Delivery,VA Research,349594.0,2022-07-19,Submitted,True,Not Required,Not Funded,False,False,True,JIT Pending
+GRANT051,STUDY062,RHEUM-2023-062,Pragmatic Care Delivery for Inflammatory Arthritis,Rheumatology Research Foundation,-198911.0,2023-01-29,Awarded,True,Complete,Not Funded,False,True,False,Not Funded
+GRANT052,STUDY074,RHEUM-2022-074,Telemedicine Follow-Up in Technology-Enabled Care Delivery,American College of Rheumatology,1188733.0,2025-05-05,Under Review,False,Not Required,Not Funded,False,False,False,Under Review
+GRANT053,STUDY058,RHEUM-2024-058,Infection Prevention Among Patients With Chronic Inflammatory Disease,Foundation Award,859938.0,2024-12-03,Not Funded,True,Pending,Pending,False,False,False,JIT Pending
+GRANT054,STUDY079,RHEUM-2023-079,Infection Prevention Among Patients With Inflammatory Arthritis,Internal Pilot Funding,235299.0,2024-11-02,Under Review,True,Complete,Not Funded,False,False,False,Under Review
+GRANT055,STUDY012,RHEUM-2025-012,Digital Workflow for Rheumatoid Arthritis,Foundation Award,134162.0,2021-10-25,Not Funded,True,Pending,Awarded,True,False,False,Awarded
+GRANT056,STUDY034,RHEUM-2022-034,Infection Prevention Among Patients With Technology-Enabled Care Delivery,Rheumatology Research Foundation,1283805.0,2023-01-30,Draft,False,Not Required,Pending,False,False,False,Other
+GRANT057,STUDY084,RHEUM-2023-084,Telemedicine Follow-Up in Technology-Enabled Care Delivery,VA Research,1302226.0,2022-08-10,JIT Requested,True,Complete,Not Funded,False,False,False,Under Review
+GRANT058,STUDY057,RHEUM-2022-057,Care Coordination in Technology-Enabled Care Delivery,NIH,1277990.0,2022-02-18,Not Funded,True,Submitted,Not Funded,False,False,False,Not Funded
+GRANT059,STUDY022,RHEUM-2023-022,Medication Safety for Technology-Enabled Care Delivery,Internal Pilot Funding,1111646.0,2021-03-15,Submitted,True,,Awarded,True,False,True,Awarded
+GRANT060,STUDY100,RHEUM-2023-100,Telemedicine Follow-Up in Technology-Enabled Care Delivery,PCORI,526757.0,2022-12-25,Draft,True,Submitted,Not Funded,False,False,False,Not Funded

@@ -1,0 +1,151 @@
+milestone_id,study_id,protocol_id,study_title,milestone_type,planned_date,actual_date,milestone_status,days_delayed,is_completed_missing_actual_date,is_delayed,milestone_risk_level
+MILE001,STUDY078,RHEUM-2025-078,Patient Education Strategies for Technology-Enabled Care Delivery,First Subject Enrolled,2023-12-13,2023-12-11,Completed,-2.0,False,False,Low
+MILE002,STUDY001,RHEUM-2022-001,Pragmatic Care Delivery for Polypharmacy Monitoring,Enrollment Target 50%,2024-07-20,2024-12-15,Delayed,148.0,False,True,High
+MILE003,STUDY014,RHEUM-2023-014,Pragmatic Care Delivery for Rheumatoid Arthritis,IRB Approval,2022-12-25,2023-05-04,Delayed,130.0,False,True,High
+MILE004,STUDY015,RHEUM-2023-015,Pragmatic Care Delivery for Inflammatory Arthritis,Enrollment Target 50%,2024-10-27,,Completed,,True,False,High
+MILE005,STUDY057,RHEUM-2022-057,Care Coordination in Technology-Enabled Care Delivery,Data Lock,2026-11-30,2027-01-27,Completed,58.0,False,True,High
+MILE006,STUDY097,RHEUM-2022-097,Digital Workflow for Technology-Enabled Care Delivery,JIT Submission,2025-02-27,2025-05-01,Delayed,63.0,False,True,High
+MILE007,STUDY059,RHEUM-2023-059,Pragmatic Care Delivery for Infection Prevention,IRB Submission,2026-05-08,2026-10-30,Delayed,175.0,False,True,High
+MILE008,STUDY049,RHEUM-2025-049,Polypharmacy Monitoring for Polypharmacy Monitoring,First Subject Enrolled,2024-09-14,,Not Started,,False,False,Low
+MILE009,STUDY053,RHEUM-2024-053,Care Coordination in Lupus,JIT Submission,2025-10-18,,In Progress,,False,False,Low
+MILE010,STUDY034,RHEUM-2022-034,Infection Prevention Among Patients With Technology-Enabled Care Delivery,First Subject Enrolled,2024-11-23,,Not Started,,False,False,Low
+MILE011,STUDY096,RHEUM-2025-096,Care Coordination in Inflammatory Arthritis,JIT Submission,2023-08-12,,Not Started,,False,False,Low
+MILE012,STUDY046,RHEUM-2024-046,Digital Workflow for Infection Prevention,First Subject Enrolled,2022-06-05,,In Progress,,False,False,Low
+MILE013,STUDY096,RHEUM-2025-096,Care Coordination in Inflammatory Arthritis,First Subject Enrolled,2025-03-20,2025-03-13,Completed,-7.0,False,False,Low
+MILE014,STUDY031,RHEUM-2022-031,Medication Safety for Gout,Enrollment Target 50%,2024-10-18,,In Progress,,False,False,Low
+MILE015,STUDY032,RHEUM-2022-032,Remote Monitoring for Inflammatory Arthritis,JIT Submission,2023-02-28,,In Progress,,False,False,Low
+MILE016,STUDY087,RHEUM-2022-087,Digital Workflow for Lupus,Final Report,2022-11-16,2022-11-06,Not Started,-10.0,False,False,Low
+MILE017,STUDY070,RHEUM-2022-070,Medication Safety for Osteoporosis,IRB Submission,2025-06-11,,Not Started,,False,False,Low
+MILE018,STUDY080,RHEUM-2022-080,Infection Prevention Among Patients With Lupus,JIT Submission,2026-10-03,,Completed,,True,False,High
+MILE019,STUDY024,RHEUM-2023-024,Care Coordination in Rheumatoid Arthritis,Enrollment Target 50%,2024-10-05,2024-11-06,Completed,32.0,False,True,High
+MILE020,STUDY017,RHEUM-2022-017,Remote Monitoring for Gout,IRB Submission,2024-03-25,,In Progress,,False,False,Low
+MILE021,STUDY070,RHEUM-2022-070,Medication Safety for Osteoporosis,IRB Submission,2024-12-12,2025-04-14,Delayed,123.0,False,True,High
+MILE022,STUDY088,RHEUM-2024-088,Telemedicine Follow-Up in Rheumatoid Arthritis,Study Activation,2024-10-26,2024-11-15,Completed,20.0,False,True,Medium
+MILE023,STUDY059,RHEUM-2023-059,Pragmatic Care Delivery for Infection Prevention,JIT Submission,2024-07-25,,Not Started,,False,False,Low
+MILE024,STUDY049,RHEUM-2025-049,Polypharmacy Monitoring for Polypharmacy Monitoring,IRB Approval,2025-11-12,,Completed,,True,False,High
+MILE025,STUDY034,RHEUM-2022-034,Infection Prevention Among Patients With Technology-Enabled Care Delivery,Study Activation,2023-10-29,2023-12-16,Completed,48.0,False,True,High
+MILE026,STUDY035,RHEUM-2023-035,Digital Workflow for Technology-Enabled Care Delivery,Final Report,2025-01-28,2025-01-28,Completed,0.0,False,False,Low
+MILE027,STUDY024,RHEUM-2023-024,Care Coordination in Rheumatoid Arthritis,Final Report,2025-06-09,2025-06-25,Completed,16.0,False,True,Medium
+MILE028,STUDY097,RHEUM-2022-097,Digital Workflow for Technology-Enabled Care Delivery,JIT Submission,2024-05-18,,In Progress,,False,False,Low
+MILE029,STUDY058,RHEUM-2024-058,Infection Prevention Among Patients With Chronic Inflammatory Disease,Study Activation,2024-01-18,2024-03-30,Delayed,72.0,False,True,High
+MILE030,STUDY088,RHEUM-2024-088,Telemedicine Follow-Up in Rheumatoid Arthritis,First Subject Enrolled,2025-03-16,,In Progress,,False,False,Low
+MILE031,STUDY031,RHEUM-2022-031,Medication Safety for Gout,Data Lock,2026-07-26,,Not Started,,False,False,Low
+MILE032,STUDY019,RHEUM-2022-019,Comparative Effectiveness in Technology-Enabled Care Delivery,Study Activation,2026-10-20,2026-12-10,Delayed,51.0,False,True,High
+MILE033,STUDY064,RHEUM-2025-064,Pragmatic Care Delivery for Inflammatory Arthritis,Study Activation,2024-08-26,,Not Started,,False,False,Low
+MILE034,STUDY063,RHEUM-2025-063,Digital Workflow for Inflammatory Arthritis,Enrollment Target 50%,2026-10-06,2026-12-15,Completed,70.0,False,True,High
+MILE035,STUDY089,RHEUM-2025-089,Medication Safety for Chronic Inflammatory Disease,Study Activation,2023-05-29,,Not Started,,False,False,Low
+MILE036,STUDY061,RHEUM-2025-061,Infection Prevention Among Patients With Polypharmacy Monitoring,IRB Approval,2022-05-03,,In Progress,,False,False,Low
+MILE037,STUDY047,RHEUM-2023-047,Medication Safety for Technology-Enabled Care Delivery,JIT Submission,2024-07-10,2024-07-13,Completed,3.0,False,True,Medium
+MILE038,STUDY003,RHEUM-2025-003,Medication Safety for Telemedicine Follow-Up,Data Lock,2025-02-21,2025-03-07,Completed,14.0,False,True,Medium
+MILE039,STUDY087,RHEUM-2022-087,Digital Workflow for Lupus,First Subject Enrolled,2022-09-06,2022-11-26,Completed,81.0,False,True,High
+MILE040,STUDY037,RHEUM-2022-037,Patient Education Strategies for Technology-Enabled Care Delivery,JIT Submission,2025-03-27,,In Progress,,False,False,Low
+MILE041,STUDY011,RHEUM-2025-011,Polypharmacy Monitoring for Polypharmacy Monitoring,Data Lock,2023-10-28,2024-02-20,Delayed,115.0,False,True,High
+MILE042,STUDY081,RHEUM-2025-081,Polypharmacy Monitoring for Lupus,Study Activation,2025-06-10,2025-07-09,Completed,29.0,False,True,Medium
+MILE043,STUDY044,RHEUM-2023-044,Medication Safety for Gout,Data Lock,2026-11-14,,In Progress,,False,False,Low
+MILE044,STUDY011,RHEUM-2025-011,Polypharmacy Monitoring for Polypharmacy Monitoring,Study Activation,2025-07-16,2025-08-04,Delayed,19.0,False,True,Medium
+MILE045,STUDY084,RHEUM-2023-084,Telemedicine Follow-Up in Technology-Enabled Care Delivery,Enrollment Target 50%,2023-12-05,,In Progress,,False,False,Low
+MILE046,STUDY083,RHEUM-2025-083,Polypharmacy Monitoring for Telemedicine Follow-Up,Data Lock,2025-12-25,2026-02-10,Completed,47.0,False,True,High
+MILE047,STUDY096,RHEUM-2025-096,Care Coordination in Inflammatory Arthritis,Final Report,2023-07-10,2023-10-11,Delayed,93.0,False,True,High
+MILE048,STUDY003,RHEUM-2025-003,Medication Safety for Telemedicine Follow-Up,Study Activation,2024-04-27,,In Progress,,False,False,Low
+MILE049,STUDY096,RHEUM-2025-096,Care Coordination in Inflammatory Arthritis,IRB Approval,2026-01-30,,In Progress,,False,False,Low
+MILE050,STUDY013,RHEUM-2023-013,Polypharmacy Monitoring for Telemedicine Follow-Up,IRB Approval,2023-03-08,,In Progress,,False,False,Low
+MILE051,STUDY007,RHEUM-2023-007,Digital Workflow for Infection Prevention,IRB Submission,2026-12-05,2027-04-25,Delayed,141.0,False,True,High
+MILE052,STUDY098,RHEUM-2024-098,Patient Education Strategies for Gout,IRB Approval,2026-04-28,,Completed,,True,False,High
+MILE053,STUDY020,RHEUM-2023-020,Polypharmacy Monitoring for Lupus,IRB Approval,2022-08-01,2022-09-19,Completed,49.0,False,True,High
+MILE054,STUDY030,RHEUM-2022-030,Remote Monitoring for Technology-Enabled Care Delivery,First Subject Enrolled,2025-09-03,2025-11-22,Delayed,80.0,False,True,High
+MILE055,STUDY081,RHEUM-2025-081,Polypharmacy Monitoring for Lupus,Study Activation,2026-02-19,2026-03-17,Completed,26.0,False,True,Medium
+MILE056,STUDY046,RHEUM-2024-046,Digital Workflow for Infection Prevention,JIT Submission,2022-09-26,2022-10-23,In Progress,27.0,False,True,Medium
+MILE057,STUDY070,RHEUM-2022-070,Medication Safety for Osteoporosis,Enrollment Target 50%,2026-11-05,2027-03-05,Delayed,120.0,False,True,High
+MILE058,STUDY090,RHEUM-2023-090,Digital Workflow for Lupus,Study Activation,2025-01-28,2025-03-04,Delayed,35.0,False,True,High
+MILE059,STUDY096,RHEUM-2025-096,Care Coordination in Inflammatory Arthritis,Data Lock,2025-04-25,2025-10-04,Delayed,162.0,False,True,High
+MILE060,STUDY045,RHEUM-2025-045,Infection Prevention Among Patients With Osteoporosis,Final Report,2024-12-08,2025-03-04,Completed,86.0,False,True,High
+MILE061,STUDY057,RHEUM-2022-057,Care Coordination in Technology-Enabled Care Delivery,Enrollment Target 50%,2025-01-10,,In Progress,,False,False,Low
+MILE062,STUDY020,RHEUM-2023-020,Polypharmacy Monitoring for Lupus,Enrollment Target 50%,2024-01-20,2024-03-27,Delayed,67.0,False,True,High
+MILE063,STUDY098,RHEUM-2024-098,Patient Education Strategies for Gout,Study Activation,2022-01-22,,Not Started,,False,False,Low
+MILE064,STUDY069,RHEUM-2025-069,Pragmatic Care Delivery for Inflammatory Arthritis,IRB Submission,2023-12-06,2024-01-05,Completed,30.0,False,True,High
+MILE065,STUDY039,RHEUM-2023-039,Comparative Effectiveness in Lupus,IRB Submission,2025-11-09,2026-03-12,Delayed,123.0,False,True,High
+MILE066,STUDY077,RHEUM-2025-077,Infection Prevention Among Patients With Polypharmacy Monitoring,First Subject Enrolled,2026-04-18,2026-07-02,Delayed,75.0,False,True,High
+MILE067,STUDY025,RHEUM-2022-025,Comparative Effectiveness in Chronic Inflammatory Disease,Data Lock,2026-06-20,,Not Started,,False,False,Low
+MILE068,STUDY032,RHEUM-2022-032,Remote Monitoring for Inflammatory Arthritis,Study Activation,2026-12-12,2027-03-24,Delayed,102.0,False,True,High
+MILE069,STUDY029,RHEUM-2023-029,Pragmatic Care Delivery for Inflammatory Arthritis,Enrollment Target 50%,2026-01-04,2026-04-11,Delayed,97.0,False,True,High
+MILE070,STUDY031,RHEUM-2022-031,Medication Safety for Gout,Enrollment Target 50%,2022-06-12,2022-11-20,Delayed,161.0,False,True,High
+MILE071,STUDY025,RHEUM-2022-025,Comparative Effectiveness in Chronic Inflammatory Disease,IRB Approval,2023-08-07,2023-08-29,Completed,22.0,False,True,Medium
+MILE072,STUDY082,RHEUM-2025-082,Digital Workflow for Telemedicine Follow-Up,Final Report,2023-01-09,,In Progress,,False,False,Low
+MILE073,STUDY090,RHEUM-2023-090,Digital Workflow for Lupus,Final Report,2025-06-19,,Completed,,True,False,High
+MILE074,STUDY020,RHEUM-2023-020,Polypharmacy Monitoring for Lupus,IRB Submission,2023-01-20,2022-12-23,Completed,-28.0,False,False,Low
+MILE075,STUDY014,RHEUM-2023-014,Pragmatic Care Delivery for Rheumatoid Arthritis,Enrollment Target 50%,2024-12-31,,Not Started,,False,False,Low
+MILE076,STUDY094,RHEUM-2023-094,Remote Monitoring for Gout,IRB Submission,2023-07-06,,In Progress,,False,False,Low
+MILE077,STUDY064,RHEUM-2025-064,Pragmatic Care Delivery for Inflammatory Arthritis,First Subject Enrolled,2023-04-22,,Not Started,,False,False,Low
+MILE078,STUDY064,RHEUM-2025-064,Pragmatic Care Delivery for Inflammatory Arthritis,JIT Submission,2023-12-02,2024-02-20,Delayed,80.0,False,True,High
+MILE079,STUDY097,RHEUM-2022-097,Digital Workflow for Technology-Enabled Care Delivery,Study Activation,2024-08-07,,Not Started,,False,False,Low
+MILE080,STUDY051,RHEUM-2022-051,Comparative Effectiveness in Gout,IRB Approval,2022-04-25,2022-07-03,Completed,69.0,False,True,High
+MILE081,STUDY025,RHEUM-2022-025,Comparative Effectiveness in Chronic Inflammatory Disease,Enrollment Target 50%,2025-01-17,2025-03-05,Delayed,47.0,False,True,High
+MILE082,STUDY016,RHEUM-2025-016,Patient Education Strategies for Gout,First Subject Enrolled,2026-08-01,2026-08-05,Delayed,4.0,False,True,Medium
+MILE083,STUDY095,RHEUM-2024-095,Patient Education Strategies for Technology-Enabled Care Delivery,IRB Submission,2024-02-28,2024-05-02,Delayed,64.0,False,True,High
+MILE084,STUDY067,RHEUM-2025-067,Comparative Effectiveness in Gout,First Subject Enrolled,2023-02-12,2023-03-09,Delayed,25.0,False,True,Medium
+MILE085,STUDY040,RHEUM-2023-040,Pragmatic Care Delivery for Technology-Enabled Care Delivery,JIT Submission,2024-08-26,2025-02-17,Delayed,175.0,False,True,High
+MILE086,STUDY071,RHEUM-2025-071,Patient Education Strategies for Inflammatory Arthritis,IRB Approval,2022-11-21,,Not Started,,False,False,Low
+MILE087,STUDY039,RHEUM-2023-039,Comparative Effectiveness in Lupus,First Subject Enrolled,2023-06-03,2023-11-14,Delayed,164.0,False,True,High
+MILE088,STUDY028,RHEUM-2024-028,Polypharmacy Monitoring for Chronic Inflammatory Disease,IRB Approval,2024-01-09,,Not Started,,False,False,Low
+MILE089,STUDY002,RHEUM-2022-002,Polypharmacy Monitoring for Polypharmacy Monitoring,Study Activation,2023-04-29,2023-07-22,Delayed,84.0,False,True,High
+MILE090,STUDY016,RHEUM-2025-016,Patient Education Strategies for Gout,Data Lock,2026-06-15,,Completed,,True,False,High
+MILE091,STUDY075,RHEUM-2022-075,Polypharmacy Monitoring for Osteoporosis,Final Report,2026-06-05,2026-05-23,In Progress,-13.0,False,False,Low
+MILE092,STUDY012,RHEUM-2025-012,Digital Workflow for Rheumatoid Arthritis,First Subject Enrolled,2025-11-10,,In Progress,,False,False,Low
+MILE093,STUDY088,RHEUM-2024-088,Telemedicine Follow-Up in Rheumatoid Arthritis,JIT Submission,2022-11-19,2022-12-13,Delayed,24.0,False,True,Medium
+MILE094,STUDY020,RHEUM-2023-020,Polypharmacy Monitoring for Lupus,IRB Approval,2026-04-05,2026-05-01,Not Started,26.0,False,True,Medium
+MILE095,STUDY041,RHEUM-2023-041,Polypharmacy Monitoring for Gout,JIT Submission,2022-09-15,2022-11-14,Delayed,60.0,False,True,High
+MILE096,STUDY003,RHEUM-2025-003,Medication Safety for Telemedicine Follow-Up,Data Lock,2026-07-08,2026-08-27,Delayed,50.0,False,True,High
+MILE097,STUDY006,RHEUM-2025-006,Telemedicine Follow-Up in Telemedicine Follow-Up,Final Report,2024-01-04,,In Progress,,False,False,Low
+MILE098,STUDY038,RHEUM-2022-038,Telemedicine Follow-Up in Telemedicine Follow-Up,Final Report,2025-12-18,2026-05-11,Delayed,144.0,False,True,High
+MILE099,STUDY042,RHEUM-2023-042,Patient Education Strategies for Rheumatoid Arthritis,Final Report,2023-01-24,,In Progress,,False,False,Low
+MILE100,STUDY058,RHEUM-2024-058,Infection Prevention Among Patients With Chronic Inflammatory Disease,Enrollment Target 50%,2023-07-18,2023-07-12,In Progress,-6.0,False,False,Low
+MILE101,STUDY047,RHEUM-2023-047,Medication Safety for Technology-Enabled Care Delivery,Final Report,2026-08-06,2026-09-14,Completed,39.0,False,True,High
+MILE102,STUDY003,RHEUM-2025-003,Medication Safety for Telemedicine Follow-Up,JIT Submission,2022-01-02,2022-02-19,Delayed,48.0,False,True,High
+MILE103,STUDY009,RHEUM-2023-009,Polypharmacy Monitoring for Lupus,Data Lock,2026-05-09,,In Progress,,False,False,Low
+MILE104,STUDY020,RHEUM-2023-020,Polypharmacy Monitoring for Lupus,Enrollment Target 50%,2023-01-24,,Completed,,True,False,High
+MILE105,STUDY042,RHEUM-2023-042,Patient Education Strategies for Rheumatoid Arthritis,IRB Approval,2023-10-23,2024-04-05,Delayed,165.0,False,True,High
+MILE106,STUDY017,RHEUM-2022-017,Remote Monitoring for Gout,Study Activation,2022-07-17,2022-08-31,Not Started,45.0,False,True,High
+MILE107,STUDY063,RHEUM-2025-063,Digital Workflow for Inflammatory Arthritis,First Subject Enrolled,2026-11-24,,Not Started,,False,False,Low
+MILE108,STUDY050,RHEUM-2025-050,Comparative Effectiveness in Telemedicine Follow-Up,Final Report,2022-07-22,,Not Started,,False,False,Low
+MILE109,STUDY047,RHEUM-2023-047,Medication Safety for Technology-Enabled Care Delivery,First Subject Enrolled,2024-12-12,2024-11-18,Completed,-24.0,False,False,Low
+MILE110,STUDY027,RHEUM-2023-027,Medication Safety for Polypharmacy Monitoring,Final Report,2025-05-25,2025-07-07,Not Started,43.0,False,True,High
+MILE111,STUDY082,RHEUM-2025-082,Digital Workflow for Telemedicine Follow-Up,IRB Submission,2026-12-28,,Not Started,,False,False,Low
+MILE112,STUDY091,RHEUM-2024-091,Comparative Effectiveness in Chronic Inflammatory Disease,IRB Submission,2024-01-10,2024-04-14,Delayed,95.0,False,True,High
+MILE113,STUDY006,RHEUM-2025-006,Telemedicine Follow-Up in Telemedicine Follow-Up,IRB Approval,2026-08-14,2026-09-20,Completed,37.0,False,True,High
+MILE114,STUDY028,RHEUM-2024-028,Polypharmacy Monitoring for Chronic Inflammatory Disease,IRB Approval,2026-09-05,2026-08-15,Completed,-21.0,False,False,Low
+MILE115,STUDY025,RHEUM-2022-025,Comparative Effectiveness in Chronic Inflammatory Disease,First Subject Enrolled,2022-07-27,,In Progress,,False,False,Low
+MILE116,STUDY023,RHEUM-2025-023,Digital Workflow for Osteoporosis,Data Lock,2024-12-13,,In Progress,,False,False,Low
+MILE117,STUDY074,RHEUM-2022-074,Telemedicine Follow-Up in Technology-Enabled Care Delivery,JIT Submission,2026-03-09,,Not Started,,False,False,Low
+MILE118,STUDY086,RHEUM-2024-086,Comparative Effectiveness in Telemedicine Follow-Up,Data Lock,2025-10-13,2026-04-11,Delayed,180.0,False,True,High
+MILE119,STUDY024,RHEUM-2023-024,Care Coordination in Rheumatoid Arthritis,Data Lock,2026-12-14,,Not Started,,False,False,Low
+MILE120,STUDY021,RHEUM-2025-021,Remote Monitoring for Polypharmacy Monitoring,Final Report,2024-10-30,2024-12-23,Completed,54.0,False,True,High
+MILE121,STUDY042,RHEUM-2023-042,Patient Education Strategies for Rheumatoid Arthritis,JIT Submission,2023-12-23,2024-02-01,Completed,40.0,False,True,High
+MILE122,STUDY078,RHEUM-2025-078,Patient Education Strategies for Technology-Enabled Care Delivery,First Subject Enrolled,2024-04-24,2024-07-16,Delayed,83.0,False,True,High
+MILE123,STUDY071,RHEUM-2025-071,Patient Education Strategies for Inflammatory Arthritis,Enrollment Target 50%,2025-02-27,,In Progress,,False,False,Low
+MILE124,STUDY051,RHEUM-2022-051,Comparative Effectiveness in Gout,IRB Submission,2024-01-08,2024-05-02,Delayed,115.0,False,True,High
+MILE125,STUDY077,RHEUM-2025-077,Infection Prevention Among Patients With Polypharmacy Monitoring,IRB Submission,2026-01-27,,Not Started,,False,False,Low
+MILE126,STUDY039,RHEUM-2023-039,Comparative Effectiveness in Lupus,IRB Submission,2024-11-26,,In Progress,,False,False,Low
+MILE127,STUDY041,RHEUM-2023-041,Polypharmacy Monitoring for Gout,IRB Submission,2023-09-08,,In Progress,,False,False,Low
+MILE128,STUDY071,RHEUM-2025-071,Patient Education Strategies for Inflammatory Arthritis,Study Activation,2026-04-30,2026-07-26,Completed,87.0,False,True,High
+MILE129,STUDY020,RHEUM-2023-020,Polypharmacy Monitoring for Lupus,Study Activation,2022-07-13,,Not Started,,False,False,Low
+MILE130,STUDY075,RHEUM-2022-075,Polypharmacy Monitoring for Osteoporosis,First Subject Enrolled,2023-06-27,2023-09-18,Completed,83.0,False,True,High
+MILE131,STUDY039,RHEUM-2023-039,Comparative Effectiveness in Lupus,IRB Approval,2023-04-23,2023-07-05,Completed,73.0,False,True,High
+MILE132,STUDY028,RHEUM-2024-028,Polypharmacy Monitoring for Chronic Inflammatory Disease,IRB Approval,2025-03-14,2025-08-07,Delayed,146.0,False,True,High
+MILE133,STUDY062,RHEUM-2023-062,Pragmatic Care Delivery for Inflammatory Arthritis,Study Activation,2026-01-21,,Completed,,True,False,High
+MILE134,STUDY039,RHEUM-2023-039,Comparative Effectiveness in Lupus,IRB Submission,2024-09-26,,Not Started,,False,False,Low
+MILE135,STUDY100,RHEUM-2023-100,Telemedicine Follow-Up in Technology-Enabled Care Delivery,IRB Submission,2026-02-05,2026-02-26,Delayed,21.0,False,True,Medium
+MILE136,STUDY056,RHEUM-2024-056,Pragmatic Care Delivery for Chronic Inflammatory Disease,Data Lock,2026-04-28,2026-05-12,Completed,14.0,False,True,Medium
+MILE137,STUDY030,RHEUM-2022-030,Remote Monitoring for Technology-Enabled Care Delivery,IRB Submission,2026-11-13,,Not Started,,False,False,Low
+MILE138,STUDY040,RHEUM-2023-040,Pragmatic Care Delivery for Technology-Enabled Care Delivery,IRB Submission,2025-07-22,2025-08-05,Delayed,14.0,False,True,Medium
+MILE139,STUDY090,RHEUM-2023-090,Digital Workflow for Lupus,First Subject Enrolled,2023-10-16,,In Progress,,False,False,Low
+MILE140,STUDY051,RHEUM-2022-051,Comparative Effectiveness in Gout,Final Report,2022-11-10,,Not Started,,False,False,Low
+MILE141,STUDY038,RHEUM-2022-038,Telemedicine Follow-Up in Telemedicine Follow-Up,Data Lock,2026-03-22,,Completed,,True,False,High
+MILE142,STUDY061,RHEUM-2025-061,Infection Prevention Among Patients With Polypharmacy Monitoring,IRB Submission,2022-10-31,,In Progress,,False,False,Low
+MILE143,STUDY011,RHEUM-2025-011,Polypharmacy Monitoring for Polypharmacy Monitoring,Data Lock,2025-01-27,2025-04-05,Delayed,68.0,False,True,High
+MILE144,STUDY017,RHEUM-2022-017,Remote Monitoring for Gout,Study Activation,2024-10-24,,Completed,,True,False,High
+MILE145,STUDY084,RHEUM-2023-084,Telemedicine Follow-Up in Technology-Enabled Care Delivery,First Subject Enrolled,2024-09-11,,In Progress,,False,False,Low
+MILE146,STUDY035,RHEUM-2023-035,Digital Workflow for Technology-Enabled Care Delivery,Data Lock,2025-02-23,,In Progress,,False,False,Low
+MILE147,STUDY055,RHEUM-2022-055,Digital Workflow for Chronic Inflammatory Disease,JIT Submission,2023-10-25,2023-11-05,Not Started,11.0,False,True,Medium
+MILE148,STUDY077,RHEUM-2025-077,Infection Prevention Among Patients With Polypharmacy Monitoring,IRB Submission,2023-12-15,,In Progress,,False,False,Low
+MILE149,STUDY045,RHEUM-2025-045,Infection Prevention Among Patients With Osteoporosis,Final Report,2026-04-26,2026-04-17,Completed,-9.0,False,False,Low
+MILE150,STUDY030,RHEUM-2022-030,Remote Monitoring for Technology-Enabled Care Delivery,First Subject Enrolled,2025-06-30,,Completed,,True,False,High

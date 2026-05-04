@@ -1,0 +1,9 @@
+table_name,row_count,intentional_bad_record_type,intentional_bad_record_count
+studies,100,target_completion_date before activation_date,5
+subjects,500,enrollment_date before screening_date,13
+subjects,500,withdrawn subject missing withdrawal_reason,10
+subjects,500,enrolled subject marked Ineligible,8
+grants,60,negative funding_amount,7
+grants,60,jit_required True with missing or Not Required jit_status,12
+milestones,150,Completed milestone missing actual_date,11
+milestones,150,Delayed milestone with positive days_delayed,73

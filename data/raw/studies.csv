@@ -1,0 +1,101 @@
+study_id,nct_id,protocol_id,study_title,principal_investigator,condition_area,study_type,study_status,intervention_type,target_accrual,activation_date,target_completion_date
+STUDY001,NCT11668732,RHEUM-2022-001,Pragmatic Care Delivery for Polypharmacy Monitoring,Parker Mitchell,polypharmacy monitoring,Interventional,Active,In-Person Care,159,2023-04-03,2024-02-19
+STUDY002,NCT26687537,RHEUM-2022-002,Polypharmacy Monitoring for Polypharmacy Monitoring,Parker Robinson,polypharmacy monitoring,Pragmatic Trial,Closed to Accrual,Digital Workflow,43,2024-10-31,2027-01-05
+STUDY003,NCT37295260,RHEUM-2025-003,Medication Safety for Telemedicine Follow-Up,Taylor Garcia,telemedicine follow-up,Interventional,Active,Medication Management,89,2022-11-23,2025-05-05
+STUDY004,NCT97942942,RHEUM-2024-004,Infection Prevention Among Patients With Rheumatoid Arthritis,Reese Patel,rheumatoid arthritis,Pragmatic Trial,Active,Care Coordination,190,2024-01-06,2023-09-25
+STUDY005,NCT25808537,RHEUM-2024-005,Care Coordination in Chronic Inflammatory Disease,Avery Robinson,chronic inflammatory disease,Registry,Active,In-Person Care,91,2025-07-11,2027-10-02
+STUDY006,NCT21831063,RHEUM-2025-006,Telemedicine Follow-Up in Telemedicine Follow-Up,Casey Robinson,telemedicine follow-up,Registry,Active,Care Coordination,127,2024-02-18,2025-05-27
+STUDY007,NCT50929647,RHEUM-2023-007,Digital Workflow for Infection Prevention,Reese Robinson,infection prevention,Registry,Active,In-Person Care,56,2024-12-29,2026-03-04
+STUDY008,NCT28317637,RHEUM-2024-008,Pragmatic Care Delivery for Gout,Casey Robinson,gout,Pragmatic Trial,Suspended,Patient Education,274,2023-10-09,2025-05-21
+STUDY009,NCT99990728,RHEUM-2023-009,Polypharmacy Monitoring for Lupus,Reese Carter,lupus,Pragmatic Trial,Closed to Accrual,Medication Management,225,2022-10-20,2024-01-14
+STUDY010,NCT06323852,RHEUM-2025-010,Care Coordination in Gout,Morgan Nguyen,gout,Pragmatic Trial,Closed to Accrual,Telemedicine,237,2023-03-26,2024-02-10
+STUDY011,NCT33744231,RHEUM-2025-011,Polypharmacy Monitoring for Polypharmacy Monitoring,Avery Patel,polypharmacy monitoring,Registry,Pending Activation,Telemedicine,190,2024-02-21,2026-04-21
+STUDY012,NCT96917555,RHEUM-2025-012,Digital Workflow for Rheumatoid Arthritis,Reese Nguyen,rheumatoid arthritis,Interventional,Pending Activation,Patient Education,299,2024-06-09,2025-05-16
+STUDY013,NCT21682744,RHEUM-2023-013,Polypharmacy Monitoring for Telemedicine Follow-Up,Reese Mitchell,telemedicine follow-up,Registry,Suspended,Telemedicine,97,2025-06-01,2026-06-19
+STUDY014,NCT32329237,RHEUM-2023-014,Pragmatic Care Delivery for Rheumatoid Arthritis,Jordan Patel,rheumatoid arthritis,Pragmatic Trial,Active,Care Coordination,104,2024-01-14,2025-05-22
+STUDY015,NCT70823176,RHEUM-2023-015,Pragmatic Care Delivery for Inflammatory Arthritis,Parker Robinson,inflammatory arthritis,Observational,Pending Activation,Medication Management,231,2022-09-20,2022-05-07
+STUDY016,NCT33273328,RHEUM-2025-016,Patient Education Strategies for Gout,Jordan Garcia,gout,Interventional,Closed to Accrual,Care Coordination,157,2024-06-16,2026-05-26
+STUDY017,NCT95004803,RHEUM-2022-017,Remote Monitoring for Gout,Taylor Patel,gout,Interventional,Pending Activation,Telemedicine,161,2025-04-20,2026-05-30
+STUDY018,NCT72374753,RHEUM-2025-018,Medication Safety for Lupus,Drew Davis,lupus,Pragmatic Trial,Completed,Medication Management,248,2023-07-25,2025-12-06
+STUDY019,NCT47553014,RHEUM-2022-019,Comparative Effectiveness in Technology-Enabled Care Delivery,Parker Kim,technology-enabled care delivery,Interventional,Active,Telemedicine,246,2023-01-25,2023-10-28
+STUDY020,NCT25529407,RHEUM-2023-020,Polypharmacy Monitoring for Lupus,Quinn Nguyen,lupus,Pragmatic Trial,Completed,Digital Workflow,276,2023-11-26,2024-09-12
+STUDY021,NCT13141087,RHEUM-2025-021,Remote Monitoring for Polypharmacy Monitoring,Reese Mitchell,polypharmacy monitoring,Interventional,Completed,In-Person Care,248,2023-05-27,2024-02-08
+STUDY022,NCT07869910,RHEUM-2023-022,Medication Safety for Technology-Enabled Care Delivery,Parker Mitchell,technology-enabled care delivery,Pragmatic Trial,Pending Activation,Medication Management,186,2024-09-21,2026-07-25
+STUDY023,NCT25487660,RHEUM-2025-023,Digital Workflow for Osteoporosis,Taylor Mitchell,osteoporosis,Interventional,Pending Activation,Telemedicine,65,2024-05-16,2026-10-26
+STUDY024,NCT68159587,RHEUM-2023-024,Care Coordination in Rheumatoid Arthritis,Morgan Patel,rheumatoid arthritis,Interventional,Completed,Medication Management,101,2025-04-11,2027-02-08
+STUDY025,NCT11003626,RHEUM-2022-025,Comparative Effectiveness in Chronic Inflammatory Disease,Drew Davis,chronic inflammatory disease,Registry,Pending Activation,In-Person Care,200,2025-03-12,2026-05-18
+STUDY026,NCT90152735,RHEUM-2025-026,Digital Workflow for Osteoporosis,Quinn Garcia,osteoporosis,Interventional,Active,Medication Management,91,2023-05-04,2024-07-28
+STUDY027,NCT35594597,RHEUM-2023-027,Medication Safety for Polypharmacy Monitoring,Casey Patel,polypharmacy monitoring,Observational,Pending Activation,Digital Workflow,120,2022-05-31,2024-05-30
+STUDY028,NCT87775215,RHEUM-2024-028,Polypharmacy Monitoring for Chronic Inflammatory Disease,Avery Morgan,chronic inflammatory disease,Registry,Active,In-Person Care,175,2024-06-16,2026-06-22
+STUDY029,NCT37816686,RHEUM-2023-029,Pragmatic Care Delivery for Inflammatory Arthritis,Taylor Garcia,inflammatory arthritis,Observational,Pending Activation,Care Coordination,290,2022-08-25,2023-06-10
+STUDY030,NCT37135391,RHEUM-2022-030,Remote Monitoring for Technology-Enabled Care Delivery,Avery Garcia,technology-enabled care delivery,Observational,Pending Activation,In-Person Care,266,2023-05-30,2024-01-17
+STUDY031,NCT10099059,RHEUM-2022-031,Medication Safety for Gout,Reese Mitchell,gout,Registry,Closed to Accrual,Care Coordination,115,2025-02-03,2026-10-13
+STUDY032,NCT48942697,RHEUM-2022-032,Remote Monitoring for Inflammatory Arthritis,Casey Robinson,inflammatory arthritis,Observational,Active,Digital Workflow,248,2024-05-30,2024-04-13
+STUDY033,NCT23763566,RHEUM-2023-033,Comparative Effectiveness in Osteoporosis,Avery Nguyen,osteoporosis,Registry,Suspended,Patient Education,167,2025-06-25,2026-05-29
+STUDY034,NCT05197528,RHEUM-2022-034,Infection Prevention Among Patients With Technology-Enabled Care Delivery,Taylor Robinson,technology-enabled care delivery,Pragmatic Trial,Pending Activation,Digital Workflow,156,2023-07-01,2024-06-08
+STUDY035,NCT44058573,RHEUM-2023-035,Digital Workflow for Technology-Enabled Care Delivery,Jordan Carter,technology-enabled care delivery,Registry,Closed to Accrual,Medication Management,209,2023-04-02,2023-10-23
+STUDY036,NCT77925434,RHEUM-2024-036,Digital Workflow for Osteoporosis,Avery Patel,osteoporosis,Pragmatic Trial,Pending Activation,Patient Education,200,2022-02-26,2022-01-13
+STUDY037,NCT77388337,RHEUM-2022-037,Patient Education Strategies for Technology-Enabled Care Delivery,Riley Mitchell,technology-enabled care delivery,Pragmatic Trial,Active,Care Coordination,140,2024-06-12,2026-08-21
+STUDY038,NCT83638503,RHEUM-2022-038,Telemedicine Follow-Up in Telemedicine Follow-Up,Jordan Carter,telemedicine follow-up,Registry,Suspended,Digital Workflow,246,2024-01-16,2025-09-28
+STUDY039,NCT56431351,RHEUM-2023-039,Comparative Effectiveness in Lupus,Morgan Davis,lupus,Registry,Suspended,Care Coordination,40,2025-11-28,2027-03-25
+STUDY040,NCT77844239,RHEUM-2023-040,Pragmatic Care Delivery for Technology-Enabled Care Delivery,Casey Kim,technology-enabled care delivery,Pragmatic Trial,Suspended,Patient Education,149,2023-09-15,2024-12-31
+STUDY041,NCT38089166,RHEUM-2023-041,Polypharmacy Monitoring for Gout,Drew Garcia,gout,Interventional,Completed,Patient Education,198,2024-11-12,2026-09-07
+STUDY042,NCT06202700,RHEUM-2023-042,Patient Education Strategies for Rheumatoid Arthritis,Quinn Davis,rheumatoid arthritis,Interventional,Suspended,Medication Management,139,2023-04-06,2024-04-23
+STUDY043,NCT32747037,RHEUM-2025-043,Medication Safety for Technology-Enabled Care Delivery,Avery Patel,technology-enabled care delivery,Pragmatic Trial,Completed,In-Person Care,277,2025-11-27,2027-06-23
+STUDY044,NCT61265269,RHEUM-2023-044,Medication Safety for Gout,Quinn Morgan,gout,Registry,Suspended,Care Coordination,298,2022-04-13,2024-05-02
+STUDY045,NCT99811743,RHEUM-2025-045,Infection Prevention Among Patients With Osteoporosis,Quinn Carter,osteoporosis,Observational,Pending Activation,Care Coordination,288,2024-05-23,2026-06-03
+STUDY046,NCT10399639,RHEUM-2024-046,Digital Workflow for Infection Prevention,Taylor Carter,infection prevention,Registry,Pending Activation,Care Coordination,81,2025-07-07,2026-09-04
+STUDY047,NCT93140367,RHEUM-2023-047,Medication Safety for Technology-Enabled Care Delivery,Taylor Patel,technology-enabled care delivery,Pragmatic Trial,Suspended,Digital Workflow,278,2022-10-11,2023-09-10
+STUDY048,NCT52274692,RHEUM-2023-048,Pragmatic Care Delivery for Technology-Enabled Care Delivery,Avery Davis,technology-enabled care delivery,Pragmatic Trial,Suspended,Telemedicine,220,2024-05-01,2024-12-30
+STUDY049,NCT98600914,RHEUM-2025-049,Polypharmacy Monitoring for Polypharmacy Monitoring,Drew Robinson,polypharmacy monitoring,Pragmatic Trial,Completed,Digital Workflow,263,2023-09-04,2025-04-05
+STUDY050,NCT89774697,RHEUM-2025-050,Comparative Effectiveness in Telemedicine Follow-Up,Morgan Kim,telemedicine follow-up,Observational,Closed to Accrual,Care Coordination,53,2024-09-21,2025-04-18
+STUDY051,NCT86268397,RHEUM-2022-051,Comparative Effectiveness in Gout,Morgan Kim,gout,Observational,Active,Digital Workflow,234,2024-03-17,2026-05-12
+STUDY052,NCT45298556,RHEUM-2025-052,Comparative Effectiveness in Telemedicine Follow-Up,Riley Bennett,telemedicine follow-up,Registry,Active,Medication Management,49,2023-11-02,2024-12-02
+STUDY053,NCT87260863,RHEUM-2024-053,Care Coordination in Lupus,Avery Mitchell,lupus,Observational,Completed,Telemedicine,118,2025-01-09,2025-08-30
+STUDY054,NCT75694715,RHEUM-2025-054,Patient Education Strategies for Gout,Quinn Carter,gout,Registry,Completed,Care Coordination,98,2023-05-04,2024-03-08
+STUDY055,NCT03446499,RHEUM-2022-055,Digital Workflow for Chronic Inflammatory Disease,Drew Bennett,chronic inflammatory disease,Pragmatic Trial,Completed,Telemedicine,164,2022-12-02,2024-04-13
+STUDY056,NCT16247735,RHEUM-2024-056,Pragmatic Care Delivery for Chronic Inflammatory Disease,Avery Garcia,chronic inflammatory disease,Pragmatic Trial,Pending Activation,Telemedicine,299,2022-07-28,2025-01-06
+STUDY057,NCT65793759,RHEUM-2022-057,Care Coordination in Technology-Enabled Care Delivery,Parker Garcia,technology-enabled care delivery,Pragmatic Trial,Completed,Medication Management,130,2025-08-19,2027-01-30
+STUDY058,NCT72232344,RHEUM-2024-058,Infection Prevention Among Patients With Chronic Inflammatory Disease,Quinn Bennett,chronic inflammatory disease,Registry,Pending Activation,In-Person Care,84,2024-12-04,2027-03-30
+STUDY059,NCT76483924,RHEUM-2023-059,Pragmatic Care Delivery for Infection Prevention,Parker Garcia,infection prevention,Interventional,Suspended,Digital Workflow,133,2023-07-26,2025-04-27
+STUDY060,NCT45679506,RHEUM-2024-060,Digital Workflow for Inflammatory Arthritis,Drew Carter,inflammatory arthritis,Interventional,Closed to Accrual,In-Person Care,83,2024-09-25,2025-10-27
+STUDY061,NCT32255732,RHEUM-2025-061,Infection Prevention Among Patients With Polypharmacy Monitoring,Quinn Kim,polypharmacy monitoring,Interventional,Active,Digital Workflow,153,2023-05-10,2024-12-26
+STUDY062,NCT89115205,RHEUM-2023-062,Pragmatic Care Delivery for Inflammatory Arthritis,Casey Kim,inflammatory arthritis,Registry,Suspended,Patient Education,209,2024-04-08,2026-09-13
+STUDY063,NCT41154241,RHEUM-2025-063,Digital Workflow for Inflammatory Arthritis,Taylor Patel,inflammatory arthritis,Observational,Pending Activation,Telemedicine,134,2023-12-22,2026-06-08
+STUDY064,NCT97252152,RHEUM-2025-064,Pragmatic Care Delivery for Inflammatory Arthritis,Reese Davis,inflammatory arthritis,Registry,Active,In-Person Care,191,2023-01-28,2024-03-04
+STUDY065,NCT01898961,RHEUM-2023-065,Polypharmacy Monitoring for Inflammatory Arthritis,Morgan Carter,inflammatory arthritis,Interventional,Active,Care Coordination,189,2023-04-11,2024-10-11
+STUDY066,NCT01646234,RHEUM-2025-066,Pragmatic Care Delivery for Gout,Riley Kim,gout,Pragmatic Trial,Suspended,Digital Workflow,134,2025-11-29,2026-10-04
+STUDY067,NCT08770247,RHEUM-2025-067,Comparative Effectiveness in Gout,Quinn Patel,gout,Interventional,Completed,In-Person Care,195,2022-04-16,2023-06-28
+STUDY068,NCT55857931,RHEUM-2022-068,Pragmatic Care Delivery for Polypharmacy Monitoring,Drew Davis,polypharmacy monitoring,Observational,Closed to Accrual,Medication Management,270,2022-06-24,2023-09-01
+STUDY069,NCT76320155,RHEUM-2025-069,Pragmatic Care Delivery for Inflammatory Arthritis,Avery Davis,inflammatory arthritis,Interventional,Completed,Patient Education,148,2024-06-25,2025-10-22
+STUDY070,NCT32194159,RHEUM-2022-070,Medication Safety for Osteoporosis,Reese Patel,osteoporosis,Observational,Active,Medication Management,270,2023-06-26,2025-10-29
+STUDY071,NCT04380847,RHEUM-2025-071,Patient Education Strategies for Inflammatory Arthritis,Riley Carter,inflammatory arthritis,Pragmatic Trial,Active,Patient Education,159,2025-11-12,2028-01-09
+STUDY072,NCT15405014,RHEUM-2023-072,Polypharmacy Monitoring for Technology-Enabled Care Delivery,Taylor Nguyen,technology-enabled care delivery,Registry,Completed,Telemedicine,70,2023-06-26,2025-09-23
+STUDY073,NCT16690465,RHEUM-2024-073,Infection Prevention Among Patients With Infection Prevention,Riley Bennett,infection prevention,Registry,Closed to Accrual,Care Coordination,292,2022-12-06,2024-04-13
+STUDY074,NCT98587474,RHEUM-2022-074,Telemedicine Follow-Up in Technology-Enabled Care Delivery,Drew Carter,technology-enabled care delivery,Interventional,Active,In-Person Care,50,2024-06-15,2025-03-04
+STUDY075,NCT63149551,RHEUM-2022-075,Polypharmacy Monitoring for Osteoporosis,Quinn Carter,osteoporosis,Observational,Closed to Accrual,Medication Management,291,2025-10-08,2027-01-06
+STUDY076,NCT44735895,RHEUM-2024-076,Telemedicine Follow-Up in Technology-Enabled Care Delivery,Jordan Nguyen,technology-enabled care delivery,Registry,Suspended,Patient Education,293,2022-07-06,2024-04-27
+STUDY077,NCT04925405,RHEUM-2025-077,Infection Prevention Among Patients With Polypharmacy Monitoring,Jordan Garcia,polypharmacy monitoring,Registry,Pending Activation,Telemedicine,246,2023-08-14,2025-12-19
+STUDY078,NCT07275149,RHEUM-2025-078,Patient Education Strategies for Technology-Enabled Care Delivery,Reese Garcia,technology-enabled care delivery,Pragmatic Trial,Suspended,Telemedicine,144,2024-11-19,2025-05-19
+STUDY079,NCT58802946,RHEUM-2023-079,Infection Prevention Among Patients With Inflammatory Arthritis,Jordan Mitchell,inflammatory arthritis,Observational,Completed,Digital Workflow,47,2023-07-01,2025-07-12
+STUDY080,NCT15228493,RHEUM-2022-080,Infection Prevention Among Patients With Lupus,Jordan Nguyen,lupus,Pragmatic Trial,Pending Activation,Care Coordination,179,2025-02-05,2026-09-25
+STUDY081,NCT61308842,RHEUM-2025-081,Polypharmacy Monitoring for Lupus,Morgan Bennett,lupus,Observational,Closed to Accrual,Care Coordination,109,2024-04-30,2026-03-05
+STUDY082,NCT68147397,RHEUM-2025-082,Digital Workflow for Telemedicine Follow-Up,Avery Carter,telemedicine follow-up,Registry,Closed to Accrual,Care Coordination,290,2022-05-23,2023-08-28
+STUDY083,NCT44619335,RHEUM-2025-083,Polypharmacy Monitoring for Telemedicine Follow-Up,Reese Bennett,telemedicine follow-up,Pragmatic Trial,Pending Activation,In-Person Care,162,2022-11-01,2024-07-30
+STUDY084,NCT05858241,RHEUM-2023-084,Telemedicine Follow-Up in Technology-Enabled Care Delivery,Quinn Bennett,technology-enabled care delivery,Pragmatic Trial,Completed,Medication Management,58,2025-03-17,2026-10-10
+STUDY085,NCT59096899,RHEUM-2024-085,Care Coordination in Gout,Reese Kim,gout,Interventional,Completed,Medication Management,119,2022-09-16,2024-08-10
+STUDY086,NCT83652460,RHEUM-2024-086,Comparative Effectiveness in Telemedicine Follow-Up,Jordan Garcia,telemedicine follow-up,Pragmatic Trial,Pending Activation,Patient Education,289,2022-06-03,2024-03-24
+STUDY087,NCT84712997,RHEUM-2022-087,Digital Workflow for Lupus,Taylor Patel,lupus,Pragmatic Trial,Active,Patient Education,91,2025-01-13,2025-08-17
+STUDY088,NCT06172803,RHEUM-2024-088,Telemedicine Follow-Up in Rheumatoid Arthritis,Avery Carter,rheumatoid arthritis,Registry,Pending Activation,Medication Management,114,2024-06-27,2025-06-12
+STUDY089,NCT91509696,RHEUM-2025-089,Medication Safety for Chronic Inflammatory Disease,Morgan Nguyen,chronic inflammatory disease,Interventional,Closed to Accrual,Medication Management,163,2023-05-16,2025-05-08
+STUDY090,NCT61894493,RHEUM-2023-090,Digital Workflow for Lupus,Quinn Carter,lupus,Interventional,Suspended,Digital Workflow,120,2024-10-16,2026-12-02
+STUDY091,NCT40151803,RHEUM-2024-091,Comparative Effectiveness in Chronic Inflammatory Disease,Riley Kim,chronic inflammatory disease,Registry,Completed,Medication Management,287,2022-06-01,2024-02-23
+STUDY092,NCT48178682,RHEUM-2025-092,Pragmatic Care Delivery for Chronic Inflammatory Disease,Riley Carter,chronic inflammatory disease,Interventional,Suspended,Digital Workflow,44,2022-08-07,2023-10-03
+STUDY093,NCT66669607,RHEUM-2022-093,Digital Workflow for Chronic Inflammatory Disease,Taylor Davis,chronic inflammatory disease,Registry,Completed,Patient Education,137,2025-03-05,2027-08-04
+STUDY094,NCT84216001,RHEUM-2023-094,Remote Monitoring for Gout,Riley Kim,gout,Interventional,Closed to Accrual,Digital Workflow,107,2025-06-25,2026-09-04
+STUDY095,NCT23574011,RHEUM-2024-095,Patient Education Strategies for Technology-Enabled Care Delivery,Morgan Morgan,technology-enabled care delivery,Registry,Closed to Accrual,Care Coordination,179,2022-07-04,2022-04-05
+STUDY096,NCT45461591,RHEUM-2025-096,Care Coordination in Inflammatory Arthritis,Quinn Patel,inflammatory arthritis,Observational,Completed,Patient Education,243,2022-12-03,2024-02-19
+STUDY097,NCT01868130,RHEUM-2022-097,Digital Workflow for Technology-Enabled Care Delivery,Reese Patel,technology-enabled care delivery,Pragmatic Trial,Pending Activation,Patient Education,174,2025-02-15,2026-08-23
+STUDY098,NCT90575029,RHEUM-2024-098,Patient Education Strategies for Gout,Quinn Mitchell,gout,Registry,Closed to Accrual,In-Person Care,72,2025-04-12,2026-11-03
+STUDY099,NCT15659979,RHEUM-2024-099,Medication Safety for Technology-Enabled Care Delivery,Avery Mitchell,technology-enabled care delivery,Registry,Suspended,Telemedicine,89,2025-07-25,2027-05-11
+STUDY100,NCT60887034,RHEUM-2023-100,Telemedicine Follow-Up in Technology-Enabled Care Delivery,Reese Bennett,technology-enabled care delivery,Observational,Suspended,Patient Education,90,2023-04-26,2025-04-25

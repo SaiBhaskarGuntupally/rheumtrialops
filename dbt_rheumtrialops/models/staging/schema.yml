@@ -1,0 +1,90 @@
+version: 2
+
+models:
+  - name: stg_studies
+    description: Cleaned study portfolio records with basic operational validity flags.
+    columns:
+      - name: study_id
+        tests:
+          - unique
+          - not_null
+      - name: study_status
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['Active', 'Completed', 'Pending Activation', 'Suspended', 'Closed to Accrual']
+      - name: study_type
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['Interventional', 'Observational', 'Registry', 'Pragmatic Trial']
+
+  - name: stg_subjects
+    description: Cleaned subject accrual and disposition records with enrollment quality flags.
+    columns:
+      - name: subject_id
+        tests:
+          - unique
+          - not_null
+      - name: study_id
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_studies')
+                field: study_id
+      - name: subject_status
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['Screened', 'Enrolled', 'Active', 'Completed', 'Withdrawn', 'Lost to Follow-Up']
+      - name: eligibility_status
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['Eligible', 'Ineligible', 'Pending Review']
+
+  - name: stg_grants
+    description: Cleaned grant submission and JIT records with funding and JIT quality flags.
+    columns:
+      - name: grant_id
+        tests:
+          - unique
+          - not_null
+      - name: study_id
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_studies')
+                field: study_id
+      - name: submission_status
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['Draft', 'Submitted', 'Under Review', 'JIT Requested', 'Awarded', 'Not Funded']
+      - name: award_status
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['Pending', 'Awarded', 'Not Funded']
+
+  - name: stg_milestones
+    description: Cleaned study milestone records with completion and delay flags.
+    columns:
+      - name: milestone_id
+        tests:
+          - unique
+          - not_null
+      - name: study_id
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_studies')
+                field: study_id
+      - name: milestone_status
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['Not Started', 'In Progress', 'Completed', 'Delayed']

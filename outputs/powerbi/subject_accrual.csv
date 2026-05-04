@@ -1,0 +1,493 @@
+study_id,protocol_id,study_title,condition_area,intervention_type,enrollment_month,study_arm,screened_count,enrolled_count,active_count,completed_count,withdrawn_count,ineligible_count,invalid_enrollment_date_count,enrolled_ineligible_count,withdrawn_missing_reason_count
+STUDY081,RHEUM-2025-081,Polypharmacy Monitoring for Lupus,lupus,Care Coordination,2024-09-01,Standard Care,1,1,0,0,0,1,0,0,0
+STUDY009,RHEUM-2023-009,Polypharmacy Monitoring for Lupus,lupus,Medication Management,2023-10-01,Digital Review,1,1,0,0,1,1,0,0,0
+STUDY051,RHEUM-2022-051,Comparative Effectiveness in Gout,gout,Digital Workflow,2025-08-01,In-Person,1,1,0,0,0,1,0,0,0
+STUDY006,RHEUM-2025-006,Telemedicine Follow-Up in Telemedicine Follow-Up,telemedicine follow-up,Care Coordination,2025-04-01,In-Person,1,1,0,1,0,0,0,0,0
+STUDY089,RHEUM-2025-089,Medication Safety for Chronic Inflammatory Disease,chronic inflammatory disease,Medication Management,2023-11-01,Standard Care,1,1,1,0,0,0,0,0,0
+STUDY087,RHEUM-2022-087,Digital Workflow for Lupus,lupus,Patient Education,2025-03-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY016,RHEUM-2025-016,Patient Education Strategies for Gout,gout,Care Coordination,2025-10-01,Control,1,1,0,0,0,0,0,0,0
+STUDY087,RHEUM-2022-087,Digital Workflow for Lupus,lupus,Patient Education,2026-05-01,Control,1,1,0,1,0,0,0,0,0
+STUDY020,RHEUM-2023-020,Polypharmacy Monitoring for Lupus,lupus,Digital Workflow,2025-03-01,Telemedicine,2,1,0,0,0,1,0,0,0
+STUDY071,RHEUM-2025-071,Patient Education Strategies for Inflammatory Arthritis,inflammatory arthritis,Patient Education,2027-05-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY037,RHEUM-2022-037,Patient Education Strategies for Technology-Enabled Care Delivery,technology-enabled care delivery,Care Coordination,2025-04-01,Telemedicine,1,1,0,0,1,0,0,0,1
+STUDY051,RHEUM-2022-051,Comparative Effectiveness in Gout,gout,Digital Workflow,2024-05-01,In-Person,1,1,0,0,1,1,0,0,0
+STUDY020,RHEUM-2023-020,Polypharmacy Monitoring for Lupus,lupus,Digital Workflow,2024-08-01,Control,1,1,0,0,0,0,0,0,0
+STUDY040,RHEUM-2023-040,Pragmatic Care Delivery for Technology-Enabled Care Delivery,technology-enabled care delivery,Patient Education,2024-02-01,Enhanced Care,1,0,0,0,0,1,1,0,0
+STUDY056,RHEUM-2024-056,Pragmatic Care Delivery for Chronic Inflammatory Disease,chronic inflammatory disease,Telemedicine,2023-06-01,Standard Care,1,1,1,0,0,1,0,1,0
+STUDY094,RHEUM-2023-094,Remote Monitoring for Gout,gout,Digital Workflow,2026-05-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY080,RHEUM-2022-080,Infection Prevention Among Patients With Lupus,lupus,Care Coordination,2025-11-01,In-Person,1,1,1,0,0,0,0,0,0
+STUDY073,RHEUM-2024-073,Infection Prevention Among Patients With Infection Prevention,infection prevention,Care Coordination,2023-01-01,In-Person,1,1,0,0,0,0,0,0,0
+STUDY031,RHEUM-2022-031,Medication Safety for Gout,gout,Care Coordination,2025-09-01,Control,1,0,0,0,0,0,0,0,0
+STUDY049,RHEUM-2025-049,Polypharmacy Monitoring for Polypharmacy Monitoring,polypharmacy monitoring,Digital Workflow,2024-08-01,Standard Care,1,1,0,1,0,0,0,0,0
+STUDY053,RHEUM-2024-053,Care Coordination in Lupus,lupus,Telemedicine,2026-05-01,Telemedicine,1,1,1,0,0,0,0,0,0
+STUDY003,RHEUM-2025-003,Medication Safety for Telemedicine Follow-Up,telemedicine follow-up,Medication Management,2023-02-01,Enhanced Care,1,1,1,0,0,0,0,0,0
+STUDY063,RHEUM-2025-063,Digital Workflow for Inflammatory Arthritis,inflammatory arthritis,Telemedicine,2025-04-01,Telemedicine,1,1,1,0,0,0,0,0,0
+STUDY072,RHEUM-2023-072,Polypharmacy Monitoring for Technology-Enabled Care Delivery,technology-enabled care delivery,Telemedicine,2024-07-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY058,RHEUM-2024-058,Infection Prevention Among Patients With Chronic Inflammatory Disease,chronic inflammatory disease,In-Person Care,2025-12-01,Enhanced Care,1,1,1,0,0,0,0,0,0
+STUDY083,RHEUM-2025-083,Polypharmacy Monitoring for Telemedicine Follow-Up,telemedicine follow-up,In-Person Care,2023-02-01,Control,1,0,0,0,0,0,0,0,0
+STUDY002,RHEUM-2022-002,Polypharmacy Monitoring for Polypharmacy Monitoring,polypharmacy monitoring,Digital Workflow,2026-03-01,Telemedicine,1,1,0,0,0,0,0,0,0
+STUDY057,RHEUM-2022-057,Care Coordination in Technology-Enabled Care Delivery,technology-enabled care delivery,Medication Management,2026-09-01,Control,1,1,0,0,1,1,0,0,0
+STUDY042,RHEUM-2023-042,Patient Education Strategies for Rheumatoid Arthritis,rheumatoid arthritis,Medication Management,2023-10-01,In-Person,1,1,0,0,0,0,0,0,0
+STUDY097,RHEUM-2022-097,Digital Workflow for Technology-Enabled Care Delivery,technology-enabled care delivery,Patient Education,2025-11-01,Enhanced Care,1,0,0,0,0,1,0,0,0
+STUDY017,RHEUM-2022-017,Remote Monitoring for Gout,gout,Telemedicine,2026-01-01,Standard Care,1,1,0,0,0,1,0,0,0
+STUDY043,RHEUM-2025-043,Medication Safety for Technology-Enabled Care Delivery,technology-enabled care delivery,In-Person Care,2027-02-01,Control,1,1,0,0,1,0,0,0,0
+STUDY080,RHEUM-2022-080,Infection Prevention Among Patients With Lupus,lupus,Care Coordination,2025-06-01,Standard Care,1,1,0,0,0,0,0,0,0
+STUDY049,RHEUM-2025-049,Polypharmacy Monitoring for Polypharmacy Monitoring,polypharmacy monitoring,Digital Workflow,2025-01-01,Standard Care,1,1,0,0,0,1,0,0,0
+STUDY094,RHEUM-2023-094,Remote Monitoring for Gout,gout,Digital Workflow,2026-09-01,Enhanced Care,1,1,0,1,0,1,0,0,0
+STUDY076,RHEUM-2024-076,Telemedicine Follow-Up in Technology-Enabled Care Delivery,technology-enabled care delivery,Patient Education,2023-12-01,Telemedicine,1,0,0,0,0,1,0,0,0
+STUDY044,RHEUM-2023-044,Medication Safety for Gout,gout,Care Coordination,2022-10-01,Standard Care,1,1,0,1,0,1,0,0,0
+STUDY012,RHEUM-2025-012,Digital Workflow for Rheumatoid Arthritis,rheumatoid arthritis,Patient Education,2025-02-01,Standard Care,1,1,0,1,0,1,0,0,0
+STUDY025,RHEUM-2022-025,Comparative Effectiveness in Chronic Inflammatory Disease,chronic inflammatory disease,In-Person Care,2025-04-01,Control,1,1,1,0,0,1,0,1,0
+STUDY094,RHEUM-2023-094,Remote Monitoring for Gout,gout,Digital Workflow,2026-10-01,Control,1,1,0,1,0,0,0,0,0
+STUDY099,RHEUM-2024-099,Medication Safety for Technology-Enabled Care Delivery,technology-enabled care delivery,Telemedicine,2026-07-01,Standard Care,1,0,0,0,0,0,0,0,0
+STUDY022,RHEUM-2023-022,Medication Safety for Technology-Enabled Care Delivery,technology-enabled care delivery,Medication Management,2026-01-01,Enhanced Care,1,1,0,1,0,0,0,0,0
+STUDY099,RHEUM-2024-099,Medication Safety for Technology-Enabled Care Delivery,technology-enabled care delivery,Telemedicine,2026-06-01,In-Person,1,1,0,0,0,0,0,0,0
+STUDY078,RHEUM-2025-078,Patient Education Strategies for Technology-Enabled Care Delivery,technology-enabled care delivery,Telemedicine,2025-04-01,Standard Care,1,0,0,0,0,0,0,0,0
+STUDY082,RHEUM-2025-082,Digital Workflow for Telemedicine Follow-Up,telemedicine follow-up,Care Coordination,2023-01-01,Enhanced Care,1,0,0,0,0,1,0,0,0
+STUDY055,RHEUM-2022-055,Digital Workflow for Chronic Inflammatory Disease,chronic inflammatory disease,Telemedicine,2023-10-01,Digital Review,1,1,0,0,0,0,0,0,0
+STUDY001,RHEUM-2022-001,Pragmatic Care Delivery for Polypharmacy Monitoring,polypharmacy monitoring,In-Person Care,2024-04-01,Digital Review,1,1,0,0,0,0,0,0,0
+STUDY077,RHEUM-2025-077,Infection Prevention Among Patients With Polypharmacy Monitoring,polypharmacy monitoring,Telemedicine,2024-07-01,In-Person,1,0,0,0,0,0,0,0,0
+STUDY067,RHEUM-2025-067,Comparative Effectiveness in Gout,gout,In-Person Care,2023-03-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY085,RHEUM-2024-085,Care Coordination in Gout,gout,Medication Management,2024-02-01,Control,1,0,0,0,0,0,0,0,0
+STUDY009,RHEUM-2023-009,Polypharmacy Monitoring for Lupus,lupus,Medication Management,2023-09-01,Control,1,1,0,0,0,0,0,0,0
+STUDY023,RHEUM-2025-023,Digital Workflow for Osteoporosis,osteoporosis,Telemedicine,2025-02-01,Digital Review,1,1,0,0,0,1,0,1,0
+STUDY029,RHEUM-2023-029,Pragmatic Care Delivery for Inflammatory Arthritis,inflammatory arthritis,Care Coordination,2023-10-01,Digital Review,1,1,0,0,0,0,0,0,0
+STUDY054,RHEUM-2025-054,Patient Education Strategies for Gout,gout,Care Coordination,2024-06-01,Telemedicine,2,1,0,0,0,0,0,0,0
+STUDY082,RHEUM-2025-082,Digital Workflow for Telemedicine Follow-Up,telemedicine follow-up,Care Coordination,2022-10-01,Standard Care,1,1,0,0,0,0,0,0,0
+STUDY055,RHEUM-2022-055,Digital Workflow for Chronic Inflammatory Disease,chronic inflammatory disease,Telemedicine,2023-04-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY034,RHEUM-2022-034,Infection Prevention Among Patients With Technology-Enabled Care Delivery,technology-enabled care delivery,Digital Workflow,2024-08-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY058,RHEUM-2024-058,Infection Prevention Among Patients With Chronic Inflammatory Disease,chronic inflammatory disease,In-Person Care,2025-04-01,Enhanced Care,1,1,0,1,0,1,0,0,0
+STUDY002,RHEUM-2022-002,Polypharmacy Monitoring for Polypharmacy Monitoring,polypharmacy monitoring,Digital Workflow,2024-12-01,Standard Care,1,1,0,0,0,1,0,0,0
+STUDY034,RHEUM-2022-034,Infection Prevention Among Patients With Technology-Enabled Care Delivery,technology-enabled care delivery,Digital Workflow,2024-03-01,Enhanced Care,1,1,0,1,0,0,0,0,0
+STUDY090,RHEUM-2023-090,Digital Workflow for Lupus,lupus,Digital Workflow,2026-01-01,Enhanced Care,1,0,0,0,0,0,0,0,0
+STUDY073,RHEUM-2024-073,Infection Prevention Among Patients With Infection Prevention,infection prevention,Care Coordination,2023-02-01,Standard Care,1,1,0,0,0,0,0,0,0
+STUDY007,RHEUM-2023-007,Digital Workflow for Infection Prevention,infection prevention,In-Person Care,2025-12-01,Telemedicine,1,1,0,0,1,0,0,0,0
+STUDY018,RHEUM-2025-018,Medication Safety for Lupus,lupus,Medication Management,2024-05-01,In-Person,1,1,1,0,0,1,0,1,0
+STUDY076,RHEUM-2024-076,Telemedicine Follow-Up in Technology-Enabled Care Delivery,technology-enabled care delivery,Patient Education,2023-07-01,Standard Care,1,1,0,0,0,0,0,0,0
+STUDY051,RHEUM-2022-051,Comparative Effectiveness in Gout,gout,Digital Workflow,2024-11-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY041,RHEUM-2023-041,Polypharmacy Monitoring for Gout,gout,Patient Education,2026-02-01,Standard Care,1,1,0,0,0,1,0,0,0
+STUDY096,RHEUM-2025-096,Care Coordination in Inflammatory Arthritis,inflammatory arthritis,Patient Education,2022-12-01,Telemedicine,1,1,0,1,0,1,0,0,0
+STUDY057,RHEUM-2022-057,Care Coordination in Technology-Enabled Care Delivery,technology-enabled care delivery,Medication Management,2026-01-01,Telemedicine,1,1,1,0,0,0,0,0,0
+STUDY074,RHEUM-2022-074,Telemedicine Follow-Up in Technology-Enabled Care Delivery,technology-enabled care delivery,In-Person Care,2024-10-01,Enhanced Care,1,1,0,1,0,0,0,0,0
+STUDY029,RHEUM-2023-029,Pragmatic Care Delivery for Inflammatory Arthritis,inflammatory arthritis,Care Coordination,2023-06-01,Control,1,1,1,0,0,0,0,0,0
+STUDY020,RHEUM-2023-020,Polypharmacy Monitoring for Lupus,lupus,Digital Workflow,2025-02-01,Enhanced Care,1,0,0,0,0,1,0,0,0
+STUDY013,RHEUM-2023-013,Polypharmacy Monitoring for Telemedicine Follow-Up,telemedicine follow-up,Telemedicine,2025-10-01,Control,1,1,0,0,1,0,0,0,0
+STUDY096,RHEUM-2025-096,Care Coordination in Inflammatory Arthritis,inflammatory arthritis,Patient Education,2023-01-01,Control,1,0,0,0,0,1,0,0,0
+STUDY090,RHEUM-2023-090,Digital Workflow for Lupus,lupus,Digital Workflow,2025-03-01,In-Person,1,1,0,0,0,0,0,0,0
+STUDY021,RHEUM-2025-021,Remote Monitoring for Polypharmacy Monitoring,polypharmacy monitoring,In-Person Care,2024-06-01,Telemedicine,1,1,0,0,0,0,0,0,0
+STUDY035,RHEUM-2023-035,Digital Workflow for Technology-Enabled Care Delivery,technology-enabled care delivery,Medication Management,2023-07-01,In-Person,1,0,0,0,0,1,0,0,0
+STUDY069,RHEUM-2025-069,Pragmatic Care Delivery for Inflammatory Arthritis,inflammatory arthritis,Patient Education,2025-06-01,Standard Care,1,1,0,0,1,0,0,0,0
+STUDY097,RHEUM-2022-097,Digital Workflow for Technology-Enabled Care Delivery,technology-enabled care delivery,Patient Education,2025-05-01,Standard Care,1,0,0,0,0,0,0,0,0
+STUDY031,RHEUM-2022-031,Medication Safety for Gout,gout,Care Coordination,2026-07-01,Digital Review,1,0,0,0,0,0,0,0,0
+STUDY062,RHEUM-2023-062,Pragmatic Care Delivery for Inflammatory Arthritis,inflammatory arthritis,Patient Education,2025-03-01,Control,1,1,0,1,0,1,0,0,0
+STUDY026,RHEUM-2025-026,Digital Workflow for Osteoporosis,osteoporosis,Medication Management,2024-07-01,Telemedicine,1,1,0,0,0,0,0,0,0
+STUDY097,RHEUM-2022-097,Digital Workflow for Technology-Enabled Care Delivery,technology-enabled care delivery,Patient Education,2025-09-01,Control,1,1,1,0,0,1,0,1,0
+STUDY076,RHEUM-2024-076,Telemedicine Follow-Up in Technology-Enabled Care Delivery,technology-enabled care delivery,Patient Education,2022-10-01,Standard Care,1,1,0,0,0,0,0,0,0
+STUDY062,RHEUM-2023-062,Pragmatic Care Delivery for Inflammatory Arthritis,inflammatory arthritis,Patient Education,2024-06-01,In-Person,1,1,1,0,0,1,0,1,0
+STUDY092,RHEUM-2025-092,Pragmatic Care Delivery for Chronic Inflammatory Disease,chronic inflammatory disease,Digital Workflow,2022-12-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY064,RHEUM-2025-064,Pragmatic Care Delivery for Inflammatory Arthritis,inflammatory arthritis,In-Person Care,2024-04-01,Digital Review,1,1,0,0,0,0,0,0,0
+STUDY008,RHEUM-2024-008,Pragmatic Care Delivery for Gout,gout,Patient Education,2023-11-01,Telemedicine,1,1,0,0,1,0,0,0,0
+STUDY097,RHEUM-2022-097,Digital Workflow for Technology-Enabled Care Delivery,technology-enabled care delivery,Patient Education,2025-07-01,Digital Review,1,1,0,0,1,0,0,0,0
+STUDY036,RHEUM-2024-036,Digital Workflow for Osteoporosis,osteoporosis,Patient Education,2022-12-01,Enhanced Care,1,1,0,0,1,0,0,0,0
+STUDY096,RHEUM-2025-096,Care Coordination in Inflammatory Arthritis,inflammatory arthritis,Patient Education,2023-05-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY084,RHEUM-2023-084,Telemedicine Follow-Up in Technology-Enabled Care Delivery,technology-enabled care delivery,Medication Management,2025-10-01,In-Person,1,1,0,1,0,0,0,0,0
+STUDY056,RHEUM-2024-056,Pragmatic Care Delivery for Chronic Inflammatory Disease,chronic inflammatory disease,Telemedicine,2023-12-01,In-Person,1,0,0,0,0,0,0,0,0
+STUDY015,RHEUM-2023-015,Pragmatic Care Delivery for Inflammatory Arthritis,inflammatory arthritis,Medication Management,2024-02-01,Control,1,1,0,0,1,0,0,0,0
+STUDY039,RHEUM-2023-039,Comparative Effectiveness in Lupus,lupus,Care Coordination,2026-06-01,Digital Review,1,1,0,0,1,0,0,0,0
+STUDY090,RHEUM-2023-090,Digital Workflow for Lupus,lupus,Digital Workflow,2026-04-01,Control,1,1,0,0,0,0,0,0,0
+STUDY022,RHEUM-2023-022,Medication Safety for Technology-Enabled Care Delivery,technology-enabled care delivery,Medication Management,2024-12-01,In-Person,1,1,0,0,0,1,0,0,0
+STUDY041,RHEUM-2023-041,Polypharmacy Monitoring for Gout,gout,Patient Education,2025-11-01,Standard Care,1,1,0,0,0,0,0,0,0
+STUDY034,RHEUM-2022-034,Infection Prevention Among Patients With Technology-Enabled Care Delivery,technology-enabled care delivery,Digital Workflow,2024-03-01,Control,1,1,0,0,1,0,0,0,0
+STUDY052,RHEUM-2025-052,Comparative Effectiveness in Telemedicine Follow-Up,telemedicine follow-up,Medication Management,2024-11-01,Standard Care,1,1,0,0,0,0,0,0,0
+STUDY049,RHEUM-2025-049,Polypharmacy Monitoring for Polypharmacy Monitoring,polypharmacy monitoring,Digital Workflow,2024-06-01,Telemedicine,1,1,0,0,1,0,0,0,0
+STUDY009,RHEUM-2023-009,Polypharmacy Monitoring for Lupus,lupus,Medication Management,2024-02-01,Enhanced Care,1,1,1,0,0,1,0,1,0
+STUDY083,RHEUM-2025-083,Polypharmacy Monitoring for Telemedicine Follow-Up,telemedicine follow-up,In-Person Care,2024-05-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY054,RHEUM-2025-054,Patient Education Strategies for Gout,gout,Care Coordination,2024-04-01,In-Person,1,0,0,0,0,0,0,0,0
+STUDY050,RHEUM-2025-050,Comparative Effectiveness in Telemedicine Follow-Up,telemedicine follow-up,Care Coordination,2026-02-01,Control,1,1,0,0,0,0,0,0,0
+STUDY092,RHEUM-2025-092,Pragmatic Care Delivery for Chronic Inflammatory Disease,chronic inflammatory disease,Digital Workflow,2023-09-01,Digital Review,1,1,0,0,1,1,0,0,0
+STUDY055,RHEUM-2022-055,Digital Workflow for Chronic Inflammatory Disease,chronic inflammatory disease,Telemedicine,2023-10-01,Standard Care,1,1,1,0,0,0,0,0,0
+STUDY012,RHEUM-2025-012,Digital Workflow for Rheumatoid Arthritis,rheumatoid arthritis,Patient Education,2025-02-01,Enhanced Care,1,1,1,0,0,0,0,0,0
+STUDY010,RHEUM-2025-010,Care Coordination in Gout,gout,Telemedicine,2023-11-01,Digital Review,1,1,0,1,0,1,0,0,0
+STUDY040,RHEUM-2023-040,Pragmatic Care Delivery for Technology-Enabled Care Delivery,technology-enabled care delivery,Patient Education,2024-09-01,In-Person,1,1,0,0,1,0,0,0,0
+STUDY013,RHEUM-2023-013,Polypharmacy Monitoring for Telemedicine Follow-Up,telemedicine follow-up,Telemedicine,2025-10-01,Standard Care,1,1,0,0,1,0,0,0,0
+STUDY023,RHEUM-2025-023,Digital Workflow for Osteoporosis,osteoporosis,Telemedicine,2025-07-01,In-Person,1,0,0,0,0,1,0,0,0
+STUDY093,RHEUM-2022-093,Digital Workflow for Chronic Inflammatory Disease,chronic inflammatory disease,Patient Education,2025-05-01,Enhanced Care,1,0,0,0,0,1,0,0,0
+STUDY081,RHEUM-2025-081,Polypharmacy Monitoring for Lupus,lupus,Care Coordination,2025-06-01,Telemedicine,1,1,0,0,0,0,0,0,0
+STUDY049,RHEUM-2025-049,Polypharmacy Monitoring for Polypharmacy Monitoring,polypharmacy monitoring,Digital Workflow,2024-01-01,Standard Care,1,1,0,0,0,0,0,0,0
+STUDY013,RHEUM-2023-013,Polypharmacy Monitoring for Telemedicine Follow-Up,telemedicine follow-up,Telemedicine,2026-09-01,In-Person,1,1,0,0,0,0,0,0,0
+STUDY069,RHEUM-2025-069,Pragmatic Care Delivery for Inflammatory Arthritis,inflammatory arthritis,Patient Education,2025-08-01,In-Person,1,1,0,0,0,0,0,0,0
+STUDY007,RHEUM-2023-007,Digital Workflow for Infection Prevention,infection prevention,In-Person Care,2025-09-01,In-Person,1,1,0,0,1,1,1,0,0
+STUDY017,RHEUM-2022-017,Remote Monitoring for Gout,gout,Telemedicine,2026-08-01,Enhanced Care,1,1,0,1,0,1,0,0,0
+STUDY073,RHEUM-2024-073,Infection Prevention Among Patients With Infection Prevention,infection prevention,Care Coordination,2023-04-01,Digital Review,1,1,0,0,1,0,0,0,0
+STUDY072,RHEUM-2023-072,Polypharmacy Monitoring for Technology-Enabled Care Delivery,technology-enabled care delivery,Telemedicine,2025-01-01,Enhanced Care,1,1,0,1,0,1,0,0,0
+STUDY015,RHEUM-2023-015,Pragmatic Care Delivery for Inflammatory Arthritis,inflammatory arthritis,Medication Management,2023-05-01,Telemedicine,1,1,0,0,1,0,0,0,0
+STUDY097,RHEUM-2022-097,Digital Workflow for Technology-Enabled Care Delivery,technology-enabled care delivery,Patient Education,2025-09-01,Standard Care,1,1,1,0,0,0,0,0,0
+STUDY094,RHEUM-2023-094,Remote Monitoring for Gout,gout,Digital Workflow,2027-01-01,Control,1,1,0,0,1,1,0,0,0
+STUDY048,RHEUM-2023-048,Pragmatic Care Delivery for Technology-Enabled Care Delivery,technology-enabled care delivery,Telemedicine,2025-10-01,Enhanced Care,1,1,0,1,0,0,0,0,0
+STUDY040,RHEUM-2023-040,Pragmatic Care Delivery for Technology-Enabled Care Delivery,technology-enabled care delivery,Patient Education,2024-07-01,In-Person,1,1,0,0,0,0,0,0,0
+STUDY069,RHEUM-2025-069,Pragmatic Care Delivery for Inflammatory Arthritis,inflammatory arthritis,Patient Education,2024-12-01,Control,1,1,1,0,0,0,0,0,0
+STUDY080,RHEUM-2022-080,Infection Prevention Among Patients With Lupus,lupus,Care Coordination,2025-04-01,Enhanced Care,1,0,0,0,0,1,0,0,0
+STUDY079,RHEUM-2023-079,Infection Prevention Among Patients With Inflammatory Arthritis,inflammatory arthritis,Digital Workflow,2024-04-01,Digital Review,1,1,1,0,0,1,0,1,0
+STUDY006,RHEUM-2025-006,Telemedicine Follow-Up in Telemedicine Follow-Up,telemedicine follow-up,Care Coordination,2024-07-01,Digital Review,1,1,0,1,0,0,0,0,0
+STUDY018,RHEUM-2025-018,Medication Safety for Lupus,lupus,Medication Management,2024-08-01,Enhanced Care,1,1,1,0,0,0,0,0,0
+STUDY039,RHEUM-2023-039,Comparative Effectiveness in Lupus,lupus,Care Coordination,2026-01-01,Digital Review,1,1,0,0,0,0,1,0,0
+STUDY040,RHEUM-2023-040,Pragmatic Care Delivery for Technology-Enabled Care Delivery,technology-enabled care delivery,Patient Education,2024-07-01,Digital Review,1,1,0,0,0,0,0,0,0
+STUDY051,RHEUM-2022-051,Comparative Effectiveness in Gout,gout,Digital Workflow,2025-03-01,Telemedicine,1,1,1,0,0,0,0,0,0
+STUDY039,RHEUM-2023-039,Comparative Effectiveness in Lupus,lupus,Care Coordination,2026-06-01,Standard Care,1,1,0,0,1,0,0,0,0
+STUDY025,RHEUM-2022-025,Comparative Effectiveness in Chronic Inflammatory Disease,chronic inflammatory disease,In-Person Care,2026-04-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY019,RHEUM-2022-019,Comparative Effectiveness in Technology-Enabled Care Delivery,technology-enabled care delivery,Telemedicine,2024-03-01,Digital Review,1,1,1,0,0,0,0,0,0
+STUDY054,RHEUM-2025-054,Patient Education Strategies for Gout,gout,Care Coordination,2023-08-01,Standard Care,1,1,0,1,0,1,0,0,0
+STUDY070,RHEUM-2022-070,Medication Safety for Osteoporosis,osteoporosis,Medication Management,2023-08-01,Digital Review,1,1,1,0,0,0,0,0,0
+STUDY051,RHEUM-2022-051,Comparative Effectiveness in Gout,gout,Digital Workflow,2025-03-01,Digital Review,1,1,0,1,0,0,0,0,0
+STUDY064,RHEUM-2025-064,Pragmatic Care Delivery for Inflammatory Arthritis,inflammatory arthritis,In-Person Care,2023-11-01,In-Person,1,1,1,0,0,1,0,1,0
+STUDY076,RHEUM-2024-076,Telemedicine Follow-Up in Technology-Enabled Care Delivery,technology-enabled care delivery,Patient Education,2022-11-01,In-Person,1,1,1,0,0,1,0,1,0
+STUDY076,RHEUM-2024-076,Telemedicine Follow-Up in Technology-Enabled Care Delivery,technology-enabled care delivery,Patient Education,2022-11-01,Telemedicine,1,1,0,0,0,0,0,0,0
+STUDY039,RHEUM-2023-039,Comparative Effectiveness in Lupus,lupus,Care Coordination,2027-01-01,Standard Care,1,1,0,0,0,0,0,0,0
+STUDY045,RHEUM-2025-045,Infection Prevention Among Patients With Osteoporosis,osteoporosis,Care Coordination,2024-11-01,Control,1,1,0,0,0,0,0,0,0
+STUDY039,RHEUM-2023-039,Comparative Effectiveness in Lupus,lupus,Care Coordination,2027-06-01,Digital Review,1,1,0,1,0,0,0,0,0
+STUDY056,RHEUM-2024-056,Pragmatic Care Delivery for Chronic Inflammatory Disease,chronic inflammatory disease,Telemedicine,2024-01-01,Control,1,1,0,0,0,0,0,0,0
+STUDY005,RHEUM-2024-005,Care Coordination in Chronic Inflammatory Disease,chronic inflammatory disease,In-Person Care,2026-05-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY065,RHEUM-2023-065,Polypharmacy Monitoring for Inflammatory Arthritis,inflammatory arthritis,Care Coordination,2024-01-01,Control,1,0,0,0,0,0,0,0,0
+STUDY064,RHEUM-2025-064,Pragmatic Care Delivery for Inflammatory Arthritis,inflammatory arthritis,In-Person Care,2023-12-01,In-Person,1,1,0,1,0,0,0,0,0
+STUDY038,RHEUM-2022-038,Telemedicine Follow-Up in Telemedicine Follow-Up,telemedicine follow-up,Digital Workflow,2024-03-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY012,RHEUM-2025-012,Digital Workflow for Rheumatoid Arthritis,rheumatoid arthritis,Patient Education,2025-05-01,Standard Care,1,1,0,0,1,0,0,0,0
+STUDY049,RHEUM-2025-049,Polypharmacy Monitoring for Polypharmacy Monitoring,polypharmacy monitoring,Digital Workflow,2024-09-01,Enhanced Care,1,1,0,1,0,0,0,0,0
+STUDY008,RHEUM-2024-008,Pragmatic Care Delivery for Gout,gout,Patient Education,2024-05-01,Telemedicine,1,1,0,0,0,0,0,0,0
+STUDY058,RHEUM-2024-058,Infection Prevention Among Patients With Chronic Inflammatory Disease,chronic inflammatory disease,In-Person Care,2026-03-01,Standard Care,1,0,0,0,0,0,0,0,0
+STUDY091,RHEUM-2024-091,Comparative Effectiveness in Chronic Inflammatory Disease,chronic inflammatory disease,Medication Management,2023-08-01,In-Person,1,1,0,0,0,0,0,0,0
+STUDY077,RHEUM-2025-077,Infection Prevention Among Patients With Polypharmacy Monitoring,polypharmacy monitoring,Telemedicine,2024-01-01,In-Person,1,1,1,0,0,0,0,0,0
+STUDY048,RHEUM-2023-048,Pragmatic Care Delivery for Technology-Enabled Care Delivery,technology-enabled care delivery,Telemedicine,2025-08-01,Standard Care,1,1,0,0,1,0,0,0,0
+STUDY004,RHEUM-2024-004,Infection Prevention Among Patients With Rheumatoid Arthritis,rheumatoid arthritis,Care Coordination,2024-04-01,Digital Review,1,1,0,0,1,0,0,0,0
+STUDY065,RHEUM-2023-065,Polypharmacy Monitoring for Inflammatory Arthritis,inflammatory arthritis,Care Coordination,2024-03-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY005,RHEUM-2024-005,Care Coordination in Chronic Inflammatory Disease,chronic inflammatory disease,In-Person Care,2026-05-01,Standard Care,1,0,0,0,0,0,0,0,0
+STUDY056,RHEUM-2024-056,Pragmatic Care Delivery for Chronic Inflammatory Disease,chronic inflammatory disease,Telemedicine,2023-11-01,Enhanced Care,1,1,0,1,0,1,0,0,0
+STUDY023,RHEUM-2025-023,Digital Workflow for Osteoporosis,osteoporosis,Telemedicine,2024-07-01,Control,1,1,0,0,0,1,0,1,0
+STUDY036,RHEUM-2024-036,Digital Workflow for Osteoporosis,osteoporosis,Patient Education,2022-06-01,In-Person,1,0,0,0,0,0,0,0,0
+STUDY061,RHEUM-2025-061,Infection Prevention Among Patients With Polypharmacy Monitoring,polypharmacy monitoring,Digital Workflow,2023-06-01,Control,1,1,0,1,0,0,0,0,0
+STUDY006,RHEUM-2025-006,Telemedicine Follow-Up in Telemedicine Follow-Up,telemedicine follow-up,Care Coordination,2024-05-01,Digital Review,1,1,0,0,0,1,0,0,0
+STUDY017,RHEUM-2022-017,Remote Monitoring for Gout,gout,Telemedicine,2026-01-01,In-Person,1,0,0,0,0,0,0,0,0
+STUDY075,RHEUM-2022-075,Polypharmacy Monitoring for Osteoporosis,osteoporosis,Medication Management,2026-02-01,Telemedicine,1,1,0,0,0,0,0,0,0
+STUDY024,RHEUM-2023-024,Care Coordination in Rheumatoid Arthritis,rheumatoid arthritis,Medication Management,2026-02-01,Control,1,1,0,1,0,0,0,0,0
+STUDY033,RHEUM-2023-033,Comparative Effectiveness in Osteoporosis,osteoporosis,Patient Education,2026-02-01,Control,1,1,0,0,1,1,0,0,0
+STUDY056,RHEUM-2024-056,Pragmatic Care Delivery for Chronic Inflammatory Disease,chronic inflammatory disease,Telemedicine,2023-03-01,Telemedicine,1,1,0,0,1,0,0,0,0
+STUDY068,RHEUM-2022-068,Pragmatic Care Delivery for Polypharmacy Monitoring,polypharmacy monitoring,Medication Management,2023-07-01,Enhanced Care,1,1,1,0,0,0,0,0,0
+STUDY073,RHEUM-2024-073,Infection Prevention Among Patients With Infection Prevention,infection prevention,Care Coordination,2024-05-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY060,RHEUM-2024-060,Digital Workflow for Inflammatory Arthritis,inflammatory arthritis,In-Person Care,2025-03-01,Control,1,0,0,0,0,0,0,0,0
+STUDY055,RHEUM-2022-055,Digital Workflow for Chronic Inflammatory Disease,chronic inflammatory disease,Telemedicine,2023-04-01,Telemedicine,1,0,0,0,0,0,0,0,0
+STUDY028,RHEUM-2024-028,Polypharmacy Monitoring for Chronic Inflammatory Disease,chronic inflammatory disease,In-Person Care,2025-11-01,Telemedicine,1,1,1,0,0,1,0,1,0
+STUDY058,RHEUM-2024-058,Infection Prevention Among Patients With Chronic Inflammatory Disease,chronic inflammatory disease,In-Person Care,2024-12-01,In-Person,1,0,0,0,0,1,0,0,0
+STUDY008,RHEUM-2024-008,Pragmatic Care Delivery for Gout,gout,Patient Education,2023-12-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY080,RHEUM-2022-080,Infection Prevention Among Patients With Lupus,lupus,Care Coordination,2026-07-01,Telemedicine,1,1,1,0,0,0,0,0,0
+STUDY011,RHEUM-2025-011,Polypharmacy Monitoring for Polypharmacy Monitoring,polypharmacy monitoring,Telemedicine,2025-03-01,In-Person,1,1,0,0,0,1,0,1,0
+STUDY017,RHEUM-2022-017,Remote Monitoring for Gout,gout,Telemedicine,2026-05-01,Digital Review,1,1,0,0,0,0,0,0,0
+STUDY095,RHEUM-2024-095,Patient Education Strategies for Technology-Enabled Care Delivery,technology-enabled care delivery,Care Coordination,2023-09-01,Control,1,1,1,0,0,0,0,0,0
+STUDY060,RHEUM-2024-060,Digital Workflow for Inflammatory Arthritis,inflammatory arthritis,In-Person Care,2025-02-01,Digital Review,1,0,0,0,0,0,0,0,0
+STUDY018,RHEUM-2025-018,Medication Safety for Lupus,lupus,Medication Management,2025-01-01,Digital Review,1,1,0,0,1,1,0,0,0
+STUDY016,RHEUM-2025-016,Patient Education Strategies for Gout,gout,Care Coordination,2025-01-01,In-Person,1,1,0,1,0,0,0,0,0
+STUDY082,RHEUM-2025-082,Digital Workflow for Telemedicine Follow-Up,telemedicine follow-up,Care Coordination,2023-04-01,Digital Review,1,1,1,0,0,0,1,0,0
+STUDY020,RHEUM-2023-020,Polypharmacy Monitoring for Lupus,lupus,Digital Workflow,2023-11-01,Telemedicine,1,1,0,0,1,1,1,0,0
+STUDY027,RHEUM-2023-027,Medication Safety for Polypharmacy Monitoring,polypharmacy monitoring,Digital Workflow,2023-04-01,Telemedicine,1,1,0,0,0,0,0,0,0
+STUDY038,RHEUM-2022-038,Telemedicine Follow-Up in Telemedicine Follow-Up,telemedicine follow-up,Digital Workflow,2024-05-01,Enhanced Care,1,0,0,0,0,1,0,0,0
+STUDY065,RHEUM-2023-065,Polypharmacy Monitoring for Inflammatory Arthritis,inflammatory arthritis,Care Coordination,2024-08-01,Control,1,1,0,0,0,0,0,0,0
+STUDY027,RHEUM-2023-027,Medication Safety for Polypharmacy Monitoring,polypharmacy monitoring,Digital Workflow,2023-08-01,Control,1,1,0,0,1,1,0,0,0
+STUDY067,RHEUM-2025-067,Comparative Effectiveness in Gout,gout,In-Person Care,2023-07-01,Telemedicine,1,1,1,0,0,1,0,1,0
+STUDY082,RHEUM-2025-082,Digital Workflow for Telemedicine Follow-Up,telemedicine follow-up,Care Coordination,2022-06-01,Control,1,0,0,0,0,0,0,0,0
+STUDY004,RHEUM-2024-004,Infection Prevention Among Patients With Rheumatoid Arthritis,rheumatoid arthritis,Care Coordination,2025-03-01,In-Person,1,1,0,0,1,0,0,0,0
+STUDY075,RHEUM-2022-075,Polypharmacy Monitoring for Osteoporosis,osteoporosis,Medication Management,2026-07-01,Control,1,0,0,0,0,0,0,0,0
+STUDY025,RHEUM-2022-025,Comparative Effectiveness in Chronic Inflammatory Disease,chronic inflammatory disease,In-Person Care,2025-11-01,Telemedicine,1,1,0,0,0,0,0,0,0
+STUDY054,RHEUM-2025-054,Patient Education Strategies for Gout,gout,Care Coordination,2024-03-01,In-Person,1,1,0,1,0,0,0,0,0
+STUDY085,RHEUM-2024-085,Care Coordination in Gout,gout,Medication Management,2023-11-01,Standard Care,1,1,0,0,0,0,0,0,0
+STUDY077,RHEUM-2025-077,Infection Prevention Among Patients With Polypharmacy Monitoring,polypharmacy monitoring,Telemedicine,2025-01-01,Telemedicine,1,1,0,0,0,1,0,0,0
+STUDY048,RHEUM-2023-048,Pragmatic Care Delivery for Technology-Enabled Care Delivery,technology-enabled care delivery,Telemedicine,2024-09-01,Control,1,1,0,0,1,0,0,0,1
+STUDY044,RHEUM-2023-044,Medication Safety for Gout,gout,Care Coordination,2022-11-01,Digital Review,1,1,0,0,0,1,0,0,0
+STUDY063,RHEUM-2025-063,Digital Workflow for Inflammatory Arthritis,inflammatory arthritis,Telemedicine,2024-05-01,Standard Care,1,1,1,0,0,0,0,0,0
+STUDY041,RHEUM-2023-041,Polypharmacy Monitoring for Gout,gout,Patient Education,2025-04-01,In-Person,1,1,0,0,0,1,0,0,0
+STUDY033,RHEUM-2023-033,Comparative Effectiveness in Osteoporosis,osteoporosis,Patient Education,2026-03-01,Telemedicine,1,1,1,0,0,1,0,1,0
+STUDY084,RHEUM-2023-084,Telemedicine Follow-Up in Technology-Enabled Care Delivery,technology-enabled care delivery,Medication Management,2025-09-01,Control,1,1,1,0,0,0,0,0,0
+STUDY029,RHEUM-2023-029,Pragmatic Care Delivery for Inflammatory Arthritis,inflammatory arthritis,Care Coordination,2023-09-01,Digital Review,1,1,0,0,0,0,0,0,0
+STUDY015,RHEUM-2023-015,Pragmatic Care Delivery for Inflammatory Arthritis,inflammatory arthritis,Medication Management,2022-12-01,In-Person,1,0,0,0,0,0,0,0,0
+STUDY065,RHEUM-2023-065,Polypharmacy Monitoring for Inflammatory Arthritis,inflammatory arthritis,Care Coordination,2024-03-01,In-Person,1,1,1,0,0,0,0,0,0
+STUDY031,RHEUM-2022-031,Medication Safety for Gout,gout,Care Coordination,2026-06-01,Telemedicine,1,1,1,0,0,1,0,1,0
+STUDY081,RHEUM-2025-081,Polypharmacy Monitoring for Lupus,lupus,Care Coordination,2025-04-01,Control,1,1,1,0,0,1,0,1,0
+STUDY065,RHEUM-2023-065,Polypharmacy Monitoring for Inflammatory Arthritis,inflammatory arthritis,Care Coordination,2024-08-01,Telemedicine,1,1,1,0,0,0,0,0,0
+STUDY045,RHEUM-2025-045,Infection Prevention Among Patients With Osteoporosis,osteoporosis,Care Coordination,2025-06-01,Enhanced Care,1,1,1,0,0,0,0,0,0
+STUDY014,RHEUM-2023-014,Pragmatic Care Delivery for Rheumatoid Arthritis,rheumatoid arthritis,Care Coordination,2025-07-01,Telemedicine,1,0,0,0,0,1,0,0,0
+STUDY073,RHEUM-2024-073,Infection Prevention Among Patients With Infection Prevention,infection prevention,Care Coordination,2023-06-01,In-Person,1,1,0,0,0,0,0,0,0
+STUDY018,RHEUM-2025-018,Medication Safety for Lupus,lupus,Medication Management,2024-09-01,Telemedicine,1,1,1,0,0,0,0,0,0
+STUDY001,RHEUM-2022-001,Pragmatic Care Delivery for Polypharmacy Monitoring,polypharmacy monitoring,In-Person Care,2023-05-01,Enhanced Care,1,1,0,1,0,0,0,0,0
+STUDY064,RHEUM-2025-064,Pragmatic Care Delivery for Inflammatory Arthritis,inflammatory arthritis,In-Person Care,2023-03-01,Control,1,1,0,0,1,0,0,0,0
+STUDY010,RHEUM-2025-010,Care Coordination in Gout,gout,Telemedicine,2024-03-01,Telemedicine,1,1,0,1,0,0,0,0,0
+STUDY073,RHEUM-2024-073,Infection Prevention Among Patients With Infection Prevention,infection prevention,Care Coordination,2023-11-01,Telemedicine,1,0,0,0,0,1,0,0,0
+STUDY072,RHEUM-2023-072,Polypharmacy Monitoring for Technology-Enabled Care Delivery,technology-enabled care delivery,Telemedicine,2024-04-01,Control,1,1,1,0,0,1,1,1,0
+STUDY078,RHEUM-2025-078,Patient Education Strategies for Technology-Enabled Care Delivery,technology-enabled care delivery,Telemedicine,2025-04-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY068,RHEUM-2022-068,Pragmatic Care Delivery for Polypharmacy Monitoring,polypharmacy monitoring,Medication Management,2023-12-01,Control,1,1,1,0,0,1,0,1,0
+STUDY013,RHEUM-2023-013,Polypharmacy Monitoring for Telemedicine Follow-Up,telemedicine follow-up,Telemedicine,2026-11-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY062,RHEUM-2023-062,Pragmatic Care Delivery for Inflammatory Arthritis,inflammatory arthritis,Patient Education,2025-03-01,Enhanced Care,1,0,0,0,0,1,0,0,0
+STUDY059,RHEUM-2023-059,Pragmatic Care Delivery for Infection Prevention,infection prevention,Digital Workflow,2024-05-01,Control,1,1,0,0,0,0,0,0,0
+STUDY043,RHEUM-2025-043,Medication Safety for Technology-Enabled Care Delivery,technology-enabled care delivery,In-Person Care,2026-12-01,Standard Care,1,1,0,0,1,1,0,0,0
+STUDY034,RHEUM-2022-034,Infection Prevention Among Patients With Technology-Enabled Care Delivery,technology-enabled care delivery,Digital Workflow,2024-06-01,In-Person,1,1,0,1,0,0,0,0,0
+STUDY083,RHEUM-2025-083,Polypharmacy Monitoring for Telemedicine Follow-Up,telemedicine follow-up,In-Person Care,2023-11-01,In-Person,1,0,0,0,0,0,0,0,0
+STUDY014,RHEUM-2023-014,Pragmatic Care Delivery for Rheumatoid Arthritis,rheumatoid arthritis,Care Coordination,2024-05-01,Digital Review,1,1,0,0,0,0,0,0,0
+STUDY084,RHEUM-2023-084,Telemedicine Follow-Up in Technology-Enabled Care Delivery,technology-enabled care delivery,Medication Management,2025-12-01,Telemedicine,1,1,0,0,0,0,0,0,0
+STUDY095,RHEUM-2024-095,Patient Education Strategies for Technology-Enabled Care Delivery,technology-enabled care delivery,Care Coordination,2023-12-01,In-Person,1,1,1,0,0,0,0,0,0
+STUDY077,RHEUM-2025-077,Infection Prevention Among Patients With Polypharmacy Monitoring,polypharmacy monitoring,Telemedicine,2024-07-01,Telemedicine,1,1,0,0,1,0,0,0,0
+STUDY075,RHEUM-2022-075,Polypharmacy Monitoring for Osteoporosis,osteoporosis,Medication Management,2025-12-01,Standard Care,1,1,0,0,1,0,0,0,0
+STUDY094,RHEUM-2023-094,Remote Monitoring for Gout,gout,Digital Workflow,2026-11-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY030,RHEUM-2022-030,Remote Monitoring for Technology-Enabled Care Delivery,technology-enabled care delivery,In-Person Care,2023-11-01,Digital Review,1,1,0,0,0,0,0,0,0
+STUDY031,RHEUM-2022-031,Medication Safety for Gout,gout,Care Coordination,2026-05-01,Telemedicine,1,1,0,0,1,1,0,0,0
+STUDY040,RHEUM-2023-040,Pragmatic Care Delivery for Technology-Enabled Care Delivery,technology-enabled care delivery,Patient Education,2025-01-01,Enhanced Care,1,1,0,0,0,1,0,0,0
+STUDY005,RHEUM-2024-005,Care Coordination in Chronic Inflammatory Disease,chronic inflammatory disease,In-Person Care,2025-11-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY003,RHEUM-2025-003,Medication Safety for Telemedicine Follow-Up,telemedicine follow-up,Medication Management,2023-12-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY002,RHEUM-2022-002,Polypharmacy Monitoring for Polypharmacy Monitoring,polypharmacy monitoring,Digital Workflow,2025-11-01,Control,1,1,1,0,0,0,0,0,0
+STUDY002,RHEUM-2022-002,Polypharmacy Monitoring for Polypharmacy Monitoring,polypharmacy monitoring,Digital Workflow,2025-11-01,In-Person,1,1,0,0,1,1,0,0,0
+STUDY094,RHEUM-2023-094,Remote Monitoring for Gout,gout,Digital Workflow,2026-03-01,Standard Care,1,0,0,0,0,1,0,0,0
+STUDY032,RHEUM-2022-032,Remote Monitoring for Inflammatory Arthritis,inflammatory arthritis,Digital Workflow,2025-09-01,Control,1,1,0,1,0,0,0,0,0
+STUDY087,RHEUM-2022-087,Digital Workflow for Lupus,lupus,Patient Education,2026-06-01,Control,1,1,0,0,0,1,0,0,0
+STUDY065,RHEUM-2023-065,Polypharmacy Monitoring for Inflammatory Arthritis,inflammatory arthritis,Care Coordination,2024-06-01,Standard Care,1,1,0,0,1,0,0,0,0
+STUDY016,RHEUM-2025-016,Patient Education Strategies for Gout,gout,Care Coordination,2025-09-01,In-Person,1,1,0,0,0,0,0,0,0
+STUDY004,RHEUM-2024-004,Infection Prevention Among Patients With Rheumatoid Arthritis,rheumatoid arthritis,Care Coordination,2024-11-01,Enhanced Care,1,1,0,1,0,0,0,0,0
+STUDY093,RHEUM-2022-093,Digital Workflow for Chronic Inflammatory Disease,chronic inflammatory disease,Patient Education,2026-05-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY095,RHEUM-2024-095,Patient Education Strategies for Technology-Enabled Care Delivery,technology-enabled care delivery,Care Coordination,2023-12-01,Enhanced Care,1,0,0,0,0,0,0,0,0
+STUDY028,RHEUM-2024-028,Polypharmacy Monitoring for Chronic Inflammatory Disease,chronic inflammatory disease,In-Person Care,2025-05-01,Standard Care,1,0,0,0,0,0,0,0,0
+STUDY071,RHEUM-2025-071,Patient Education Strategies for Inflammatory Arthritis,inflammatory arthritis,Patient Education,2026-04-01,Telemedicine,1,1,0,0,1,0,0,0,0
+STUDY035,RHEUM-2023-035,Digital Workflow for Technology-Enabled Care Delivery,technology-enabled care delivery,Medication Management,2023-08-01,Enhanced Care,1,1,0,1,0,1,0,0,0
+STUDY039,RHEUM-2023-039,Comparative Effectiveness in Lupus,lupus,Care Coordination,2026-05-01,Enhanced Care,1,0,0,0,0,0,0,0,0
+STUDY005,RHEUM-2024-005,Care Coordination in Chronic Inflammatory Disease,chronic inflammatory disease,In-Person Care,2026-08-01,Telemedicine,1,1,0,0,1,0,0,0,0
+STUDY028,RHEUM-2024-028,Polypharmacy Monitoring for Chronic Inflammatory Disease,chronic inflammatory disease,In-Person Care,2025-11-01,Standard Care,1,0,0,0,0,0,0,0,0
+STUDY021,RHEUM-2025-021,Remote Monitoring for Polypharmacy Monitoring,polypharmacy monitoring,In-Person Care,2023-08-01,Enhanced Care,1,0,0,0,0,1,0,0,0
+STUDY040,RHEUM-2023-040,Pragmatic Care Delivery for Technology-Enabled Care Delivery,technology-enabled care delivery,Patient Education,2025-02-01,In-Person,1,0,0,0,0,1,0,0,0
+STUDY042,RHEUM-2023-042,Patient Education Strategies for Rheumatoid Arthritis,rheumatoid arthritis,Medication Management,2024-03-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY039,RHEUM-2023-039,Comparative Effectiveness in Lupus,lupus,Care Coordination,2026-12-01,In-Person,1,1,0,0,1,1,0,0,1
+STUDY045,RHEUM-2025-045,Infection Prevention Among Patients With Osteoporosis,osteoporosis,Care Coordination,2025-02-01,Control,1,1,0,0,0,0,0,0,0
+STUDY013,RHEUM-2023-013,Polypharmacy Monitoring for Telemedicine Follow-Up,telemedicine follow-up,Telemedicine,2026-12-01,Enhanced Care,1,1,0,0,1,0,0,0,0
+STUDY083,RHEUM-2025-083,Polypharmacy Monitoring for Telemedicine Follow-Up,telemedicine follow-up,In-Person Care,2023-02-01,Enhanced Care,1,1,0,1,0,0,0,0,0
+STUDY086,RHEUM-2024-086,Comparative Effectiveness in Telemedicine Follow-Up,telemedicine follow-up,Patient Education,2023-07-01,Digital Review,1,1,1,0,0,0,0,0,0
+STUDY025,RHEUM-2022-025,Comparative Effectiveness in Chronic Inflammatory Disease,chronic inflammatory disease,In-Person Care,2026-05-01,Standard Care,1,1,0,0,1,1,0,0,0
+STUDY072,RHEUM-2023-072,Polypharmacy Monitoring for Technology-Enabled Care Delivery,technology-enabled care delivery,Telemedicine,2024-02-01,Enhanced Care,1,1,0,0,1,1,0,0,0
+STUDY002,RHEUM-2022-002,Polypharmacy Monitoring for Polypharmacy Monitoring,polypharmacy monitoring,Digital Workflow,2026-04-01,Control,1,0,0,0,0,1,0,0,0
+STUDY060,RHEUM-2024-060,Digital Workflow for Inflammatory Arthritis,inflammatory arthritis,In-Person Care,2026-03-01,In-Person,1,1,0,0,0,0,0,0,0
+STUDY028,RHEUM-2024-028,Polypharmacy Monitoring for Chronic Inflammatory Disease,chronic inflammatory disease,In-Person Care,2024-07-01,Digital Review,1,1,1,0,0,0,0,0,0
+STUDY099,RHEUM-2024-099,Medication Safety for Technology-Enabled Care Delivery,technology-enabled care delivery,Telemedicine,2026-04-01,Control,1,1,1,0,0,0,0,0,0
+STUDY028,RHEUM-2024-028,Polypharmacy Monitoring for Chronic Inflammatory Disease,chronic inflammatory disease,In-Person Care,2025-06-01,Control,1,0,0,0,0,1,0,0,0
+STUDY088,RHEUM-2024-088,Telemedicine Follow-Up in Rheumatoid Arthritis,rheumatoid arthritis,Medication Management,2025-08-01,Telemedicine,1,1,0,1,0,1,0,0,0
+STUDY069,RHEUM-2025-069,Pragmatic Care Delivery for Inflammatory Arthritis,inflammatory arthritis,Patient Education,2025-11-01,Control,1,1,0,0,0,0,0,0,0
+STUDY071,RHEUM-2025-071,Patient Education Strategies for Inflammatory Arthritis,inflammatory arthritis,Patient Education,2027-01-01,Telemedicine,1,1,1,0,0,0,0,0,0
+STUDY017,RHEUM-2022-017,Remote Monitoring for Gout,gout,Telemedicine,2025-08-01,Standard Care,1,1,1,0,0,1,0,1,0
+STUDY003,RHEUM-2025-003,Medication Safety for Telemedicine Follow-Up,telemedicine follow-up,Medication Management,2023-12-01,Control,1,0,0,0,0,0,0,0,0
+STUDY066,RHEUM-2025-066,Pragmatic Care Delivery for Gout,gout,Digital Workflow,2026-03-01,Control,1,1,0,1,0,0,0,0,0
+STUDY062,RHEUM-2023-062,Pragmatic Care Delivery for Inflammatory Arthritis,inflammatory arthritis,Patient Education,2024-10-01,Enhanced Care,1,0,0,0,0,0,0,0,0
+STUDY065,RHEUM-2023-065,Polypharmacy Monitoring for Inflammatory Arthritis,inflammatory arthritis,Care Coordination,2024-05-01,Telemedicine,1,1,0,1,0,0,0,0,0
+STUDY090,RHEUM-2023-090,Digital Workflow for Lupus,lupus,Digital Workflow,2026-03-01,Control,1,1,0,0,0,0,0,0,0
+STUDY004,RHEUM-2024-004,Infection Prevention Among Patients With Rheumatoid Arthritis,rheumatoid arthritis,Care Coordination,2024-06-01,Enhanced Care,1,1,0,1,0,0,0,0,0
+STUDY044,RHEUM-2023-044,Medication Safety for Gout,gout,Care Coordination,2022-12-01,Telemedicine,1,1,0,0,0,0,0,0,0
+STUDY087,RHEUM-2022-087,Digital Workflow for Lupus,lupus,Patient Education,2025-11-01,Standard Care,1,1,0,1,0,0,0,0,0
+STUDY070,RHEUM-2022-070,Medication Safety for Osteoporosis,osteoporosis,Medication Management,2024-05-01,Standard Care,1,0,0,0,0,0,0,0,0
+STUDY012,RHEUM-2025-012,Digital Workflow for Rheumatoid Arthritis,rheumatoid arthritis,Patient Education,2025-06-01,Enhanced Care,1,1,0,0,1,1,0,0,0
+STUDY010,RHEUM-2025-010,Care Coordination in Gout,gout,Telemedicine,2023-10-01,Telemedicine,1,1,0,0,0,0,0,0,0
+STUDY017,RHEUM-2022-017,Remote Monitoring for Gout,gout,Telemedicine,2025-09-01,In-Person,1,1,0,0,0,0,0,0,0
+STUDY010,RHEUM-2025-010,Care Coordination in Gout,gout,Telemedicine,2024-08-01,Digital Review,1,1,0,0,1,0,0,0,0
+STUDY074,RHEUM-2022-074,Telemedicine Follow-Up in Technology-Enabled Care Delivery,technology-enabled care delivery,In-Person Care,2025-11-01,Telemedicine,2,1,0,0,0,0,0,0,0
+STUDY003,RHEUM-2025-003,Medication Safety for Telemedicine Follow-Up,telemedicine follow-up,Medication Management,2024-06-01,In-Person,1,1,0,0,0,1,0,0,0
+STUDY035,RHEUM-2023-035,Digital Workflow for Technology-Enabled Care Delivery,technology-enabled care delivery,Medication Management,2024-03-01,In-Person,1,1,1,0,0,0,0,0,0
+STUDY020,RHEUM-2023-020,Polypharmacy Monitoring for Lupus,lupus,Digital Workflow,2024-07-01,Standard Care,1,1,0,0,1,0,0,0,0
+STUDY086,RHEUM-2024-086,Comparative Effectiveness in Telemedicine Follow-Up,telemedicine follow-up,Patient Education,2023-05-01,In-Person,1,1,1,0,0,0,1,0,0
+STUDY010,RHEUM-2025-010,Care Coordination in Gout,gout,Telemedicine,2024-03-01,Control,1,1,0,1,0,0,0,0,0
+STUDY096,RHEUM-2025-096,Care Coordination in Inflammatory Arthritis,inflammatory arthritis,Patient Education,2023-12-01,Digital Review,1,1,0,0,1,0,1,0,0
+STUDY010,RHEUM-2025-010,Care Coordination in Gout,gout,Telemedicine,2024-03-01,Digital Review,1,1,0,1,0,0,0,0,0
+STUDY005,RHEUM-2024-005,Care Coordination in Chronic Inflammatory Disease,chronic inflammatory disease,In-Person Care,2027-01-01,In-Person,1,1,0,0,1,0,0,0,0
+STUDY010,RHEUM-2025-010,Care Coordination in Gout,gout,Telemedicine,2023-05-01,Digital Review,1,1,1,0,0,0,0,0,0
+STUDY036,RHEUM-2024-036,Digital Workflow for Osteoporosis,osteoporosis,Patient Education,2022-06-01,Control,1,1,0,0,1,0,0,0,1
+STUDY047,RHEUM-2023-047,Medication Safety for Technology-Enabled Care Delivery,technology-enabled care delivery,Digital Workflow,2023-11-01,Control,1,1,0,0,0,0,0,0,0
+STUDY022,RHEUM-2023-022,Medication Safety for Technology-Enabled Care Delivery,technology-enabled care delivery,Medication Management,2026-01-01,Standard Care,1,1,1,0,0,1,0,1,0
+STUDY097,RHEUM-2022-097,Digital Workflow for Technology-Enabled Care Delivery,technology-enabled care delivery,Patient Education,2026-04-01,Telemedicine,1,1,1,0,0,0,0,0,0
+STUDY040,RHEUM-2023-040,Pragmatic Care Delivery for Technology-Enabled Care Delivery,technology-enabled care delivery,Patient Education,2025-01-01,In-Person,1,1,1,0,0,0,0,0,0
+STUDY032,RHEUM-2022-032,Remote Monitoring for Inflammatory Arthritis,inflammatory arthritis,Digital Workflow,2025-11-01,Digital Review,1,1,0,0,1,0,0,0,0
+STUDY076,RHEUM-2024-076,Telemedicine Follow-Up in Technology-Enabled Care Delivery,technology-enabled care delivery,Patient Education,2023-07-01,Control,1,1,0,0,1,0,0,0,0
+STUDY015,RHEUM-2023-015,Pragmatic Care Delivery for Inflammatory Arthritis,inflammatory arthritis,Medication Management,2023-03-01,In-Person,1,1,1,0,0,1,0,1,0
+STUDY052,RHEUM-2025-052,Comparative Effectiveness in Telemedicine Follow-Up,telemedicine follow-up,Medication Management,2024-10-01,Enhanced Care,1,0,0,0,0,0,0,0,0
+STUDY019,RHEUM-2022-019,Comparative Effectiveness in Technology-Enabled Care Delivery,technology-enabled care delivery,Telemedicine,2023-11-01,Digital Review,1,1,0,0,0,0,0,0,0
+STUDY093,RHEUM-2022-093,Digital Workflow for Chronic Inflammatory Disease,chronic inflammatory disease,Patient Education,2025-07-01,Telemedicine,1,1,0,0,0,1,0,0,0
+STUDY083,RHEUM-2025-083,Polypharmacy Monitoring for Telemedicine Follow-Up,telemedicine follow-up,In-Person Care,2023-05-01,Telemedicine,1,1,0,1,0,1,0,0,0
+STUDY042,RHEUM-2023-042,Patient Education Strategies for Rheumatoid Arthritis,rheumatoid arthritis,Medication Management,2023-04-01,Control,1,1,0,0,0,1,0,0,0
+STUDY073,RHEUM-2024-073,Infection Prevention Among Patients With Infection Prevention,infection prevention,Care Coordination,2023-01-01,Digital Review,1,0,0,0,0,0,0,0,0
+STUDY009,RHEUM-2023-009,Polypharmacy Monitoring for Lupus,lupus,Medication Management,2024-03-01,Enhanced Care,1,1,1,0,0,0,0,0,0
+STUDY096,RHEUM-2025-096,Care Coordination in Inflammatory Arthritis,inflammatory arthritis,Patient Education,2023-09-01,Telemedicine,1,0,0,0,0,1,0,0,0
+STUDY096,RHEUM-2025-096,Care Coordination in Inflammatory Arthritis,inflammatory arthritis,Patient Education,2024-04-01,Standard Care,1,1,1,0,0,0,0,0,0
+STUDY059,RHEUM-2023-059,Pragmatic Care Delivery for Infection Prevention,infection prevention,Digital Workflow,2024-05-01,Standard Care,1,1,0,0,0,0,0,0,0
+STUDY034,RHEUM-2022-034,Infection Prevention Among Patients With Technology-Enabled Care Delivery,technology-enabled care delivery,Digital Workflow,2024-05-01,Standard Care,1,1,0,1,0,0,0,0,0
+STUDY066,RHEUM-2025-066,Pragmatic Care Delivery for Gout,gout,Digital Workflow,2027-05-01,Standard Care,1,0,0,0,0,0,0,0,0
+STUDY061,RHEUM-2025-061,Infection Prevention Among Patients With Polypharmacy Monitoring,polypharmacy monitoring,Digital Workflow,2024-10-01,Telemedicine,1,1,0,0,0,0,0,0,0
+STUDY028,RHEUM-2024-028,Polypharmacy Monitoring for Chronic Inflammatory Disease,chronic inflammatory disease,In-Person Care,2025-01-01,Control,1,1,0,0,0,1,0,0,0
+STUDY037,RHEUM-2022-037,Patient Education Strategies for Technology-Enabled Care Delivery,technology-enabled care delivery,Care Coordination,2025-08-01,Control,1,1,1,0,0,0,0,0,0
+STUDY075,RHEUM-2022-075,Polypharmacy Monitoring for Osteoporosis,osteoporosis,Medication Management,2026-12-01,Digital Review,1,1,0,0,0,1,0,1,0
+STUDY095,RHEUM-2024-095,Patient Education Strategies for Technology-Enabled Care Delivery,technology-enabled care delivery,Care Coordination,2023-02-01,Control,1,1,0,0,0,0,0,0,0
+STUDY073,RHEUM-2024-073,Infection Prevention Among Patients With Infection Prevention,infection prevention,Care Coordination,2024-03-01,Digital Review,1,1,0,0,1,1,0,0,0
+STUDY083,RHEUM-2025-083,Polypharmacy Monitoring for Telemedicine Follow-Up,telemedicine follow-up,In-Person Care,2023-03-01,Enhanced Care,1,1,0,0,1,0,0,0,0
+STUDY058,RHEUM-2024-058,Infection Prevention Among Patients With Chronic Inflammatory Disease,chronic inflammatory disease,In-Person Care,2026-01-01,Digital Review,1,1,0,1,0,0,0,0,0
+STUDY036,RHEUM-2024-036,Digital Workflow for Osteoporosis,osteoporosis,Patient Education,2022-04-01,Digital Review,1,1,0,0,0,0,0,0,0
+STUDY022,RHEUM-2023-022,Medication Safety for Technology-Enabled Care Delivery,technology-enabled care delivery,Medication Management,2025-12-01,In-Person,1,1,0,1,0,1,0,0,0
+STUDY093,RHEUM-2022-093,Digital Workflow for Chronic Inflammatory Disease,chronic inflammatory disease,Patient Education,2025-12-01,In-Person,1,1,0,0,1,0,0,0,0
+STUDY057,RHEUM-2022-057,Care Coordination in Technology-Enabled Care Delivery,technology-enabled care delivery,Medication Management,2026-07-01,Digital Review,1,1,0,0,1,0,0,0,0
+STUDY045,RHEUM-2025-045,Infection Prevention Among Patients With Osteoporosis,osteoporosis,Care Coordination,2025-06-01,Digital Review,1,1,0,0,1,0,0,0,0
+STUDY036,RHEUM-2024-036,Digital Workflow for Osteoporosis,osteoporosis,Patient Education,2022-09-01,Standard Care,1,1,0,0,0,1,0,0,0
+STUDY012,RHEUM-2025-012,Digital Workflow for Rheumatoid Arthritis,rheumatoid arthritis,Patient Education,2025-06-01,Control,1,0,0,0,0,1,0,0,0
+STUDY080,RHEUM-2022-080,Infection Prevention Among Patients With Lupus,lupus,Care Coordination,2026-07-01,Enhanced Care,1,1,0,0,1,0,0,0,1
+STUDY063,RHEUM-2025-063,Digital Workflow for Inflammatory Arthritis,inflammatory arthritis,Telemedicine,2024-09-01,Standard Care,1,1,0,0,0,0,0,0,0
+STUDY100,RHEUM-2023-100,Telemedicine Follow-Up in Technology-Enabled Care Delivery,technology-enabled care delivery,Patient Education,2024-06-01,In-Person,1,1,0,0,1,1,0,0,0
+STUDY048,RHEUM-2023-048,Pragmatic Care Delivery for Technology-Enabled Care Delivery,technology-enabled care delivery,Telemedicine,2024-08-01,Telemedicine,1,1,0,0,0,0,1,0,0
+STUDY089,RHEUM-2025-089,Medication Safety for Chronic Inflammatory Disease,chronic inflammatory disease,Medication Management,2024-10-01,Telemedicine,1,1,0,0,0,0,0,0,0
+STUDY076,RHEUM-2024-076,Telemedicine Follow-Up in Technology-Enabled Care Delivery,technology-enabled care delivery,Patient Education,2022-10-01,Digital Review,1,1,0,0,1,0,0,0,0
+STUDY033,RHEUM-2023-033,Comparative Effectiveness in Osteoporosis,osteoporosis,Patient Education,2026-07-01,Enhanced Care,1,1,0,1,0,0,0,0,0
+STUDY054,RHEUM-2025-054,Patient Education Strategies for Gout,gout,Care Coordination,2023-12-01,Standard Care,1,1,0,0,0,0,0,0,0
+STUDY079,RHEUM-2023-079,Infection Prevention Among Patients With Inflammatory Arthritis,inflammatory arthritis,Digital Workflow,2024-02-01,Standard Care,1,1,0,0,1,0,0,0,1
+STUDY042,RHEUM-2023-042,Patient Education Strategies for Rheumatoid Arthritis,rheumatoid arthritis,Medication Management,2024-01-01,Control,1,1,0,0,0,0,0,0,0
+STUDY022,RHEUM-2023-022,Medication Safety for Technology-Enabled Care Delivery,technology-enabled care delivery,Medication Management,2026-02-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY078,RHEUM-2025-078,Patient Education Strategies for Technology-Enabled Care Delivery,technology-enabled care delivery,Telemedicine,2025-01-01,Digital Review,1,1,0,0,0,0,0,0,0
+STUDY049,RHEUM-2025-049,Polypharmacy Monitoring for Polypharmacy Monitoring,polypharmacy monitoring,Digital Workflow,2024-01-01,Telemedicine,1,1,1,0,0,1,1,1,0
+STUDY073,RHEUM-2024-073,Infection Prevention Among Patients With Infection Prevention,infection prevention,Care Coordination,2024-06-01,Telemedicine,1,1,0,0,1,0,0,0,0
+STUDY055,RHEUM-2022-055,Digital Workflow for Chronic Inflammatory Disease,chronic inflammatory disease,Telemedicine,2023-04-01,Standard Care,1,1,0,0,0,1,0,0,0
+STUDY098,RHEUM-2024-098,Patient Education Strategies for Gout,gout,In-Person Care,2025-10-01,Enhanced Care,1,1,0,0,0,1,0,1,0
+STUDY099,RHEUM-2024-099,Medication Safety for Technology-Enabled Care Delivery,technology-enabled care delivery,Telemedicine,2026-05-01,Digital Review,1,1,0,0,0,1,0,0,0
+STUDY095,RHEUM-2024-095,Patient Education Strategies for Technology-Enabled Care Delivery,technology-enabled care delivery,Care Coordination,2022-09-01,In-Person,1,1,0,0,1,1,0,0,0
+STUDY099,RHEUM-2024-099,Medication Safety for Technology-Enabled Care Delivery,technology-enabled care delivery,Telemedicine,2026-03-01,Telemedicine,1,1,1,0,0,1,0,1,0
+STUDY075,RHEUM-2022-075,Polypharmacy Monitoring for Osteoporosis,osteoporosis,Medication Management,2026-03-01,Enhanced Care,1,1,1,0,0,0,0,0,0
+STUDY017,RHEUM-2022-017,Remote Monitoring for Gout,gout,Telemedicine,2026-10-01,Control,1,1,0,1,0,0,0,0,0
+STUDY079,RHEUM-2023-079,Infection Prevention Among Patients With Inflammatory Arthritis,inflammatory arthritis,Digital Workflow,2024-06-01,Standard Care,1,1,0,1,0,0,0,0,0
+STUDY036,RHEUM-2024-036,Digital Workflow for Osteoporosis,osteoporosis,Patient Education,2022-10-01,Telemedicine,1,1,0,0,1,0,0,0,0
+STUDY018,RHEUM-2025-018,Medication Safety for Lupus,lupus,Medication Management,2024-09-01,Digital Review,1,1,0,0,0,0,0,0,0
+STUDY003,RHEUM-2025-003,Medication Safety for Telemedicine Follow-Up,telemedicine follow-up,Medication Management,2023-07-01,Telemedicine,1,1,0,0,0,1,0,1,0
+STUDY072,RHEUM-2023-072,Polypharmacy Monitoring for Technology-Enabled Care Delivery,technology-enabled care delivery,Telemedicine,2023-08-01,In-Person,1,1,0,0,0,0,0,0,0
+STUDY010,RHEUM-2025-010,Care Coordination in Gout,gout,Telemedicine,2023-05-01,Telemedicine,1,0,0,0,0,1,0,0,0
+STUDY058,RHEUM-2024-058,Infection Prevention Among Patients With Chronic Inflammatory Disease,chronic inflammatory disease,In-Person Care,2025-10-01,Telemedicine,1,1,1,0,0,0,0,0,0
+STUDY050,RHEUM-2025-050,Comparative Effectiveness in Telemedicine Follow-Up,telemedicine follow-up,Care Coordination,2025-09-01,Control,1,1,0,0,0,0,0,0,0
+STUDY027,RHEUM-2023-027,Medication Safety for Polypharmacy Monitoring,polypharmacy monitoring,Digital Workflow,2023-10-01,Enhanced Care,1,1,0,0,1,1,0,0,0
+STUDY034,RHEUM-2022-034,Infection Prevention Among Patients With Technology-Enabled Care Delivery,technology-enabled care delivery,Digital Workflow,2023-09-01,Control,1,1,0,0,0,1,0,0,0
+STUDY054,RHEUM-2025-054,Patient Education Strategies for Gout,gout,Care Coordination,2024-04-01,Standard Care,1,1,0,0,0,0,0,0,0
+STUDY072,RHEUM-2023-072,Polypharmacy Monitoring for Technology-Enabled Care Delivery,technology-enabled care delivery,Telemedicine,2023-12-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY056,RHEUM-2024-056,Pragmatic Care Delivery for Chronic Inflammatory Disease,chronic inflammatory disease,Telemedicine,2023-12-01,Telemedicine,1,1,0,0,1,0,0,0,0
+STUDY017,RHEUM-2022-017,Remote Monitoring for Gout,gout,Telemedicine,2025-07-01,Standard Care,1,1,0,0,0,0,1,0,0
+STUDY083,RHEUM-2025-083,Polypharmacy Monitoring for Telemedicine Follow-Up,telemedicine follow-up,In-Person Care,2023-04-01,Digital Review,1,1,0,0,1,0,0,0,0
+STUDY034,RHEUM-2022-034,Infection Prevention Among Patients With Technology-Enabled Care Delivery,technology-enabled care delivery,Digital Workflow,2024-09-01,Digital Review,1,1,0,1,0,0,0,0,0
+STUDY019,RHEUM-2022-019,Comparative Effectiveness in Technology-Enabled Care Delivery,technology-enabled care delivery,Telemedicine,2023-12-01,Digital Review,1,0,0,0,0,0,0,0,0
+STUDY090,RHEUM-2023-090,Digital Workflow for Lupus,lupus,Digital Workflow,2025-09-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY080,RHEUM-2022-080,Infection Prevention Among Patients With Lupus,lupus,Care Coordination,2026-05-01,Standard Care,1,1,0,0,0,0,0,0,0
+STUDY017,RHEUM-2022-017,Remote Monitoring for Gout,gout,Telemedicine,2025-08-01,In-Person,1,1,0,0,1,1,0,0,0
+STUDY018,RHEUM-2025-018,Medication Safety for Lupus,lupus,Medication Management,2024-04-01,Standard Care,1,0,0,0,0,1,0,0,0
+STUDY043,RHEUM-2025-043,Medication Safety for Technology-Enabled Care Delivery,technology-enabled care delivery,In-Person Care,2026-10-01,In-Person,1,1,0,0,0,0,0,0,0
+STUDY093,RHEUM-2022-093,Digital Workflow for Chronic Inflammatory Disease,chronic inflammatory disease,Patient Education,2026-08-01,Telemedicine,1,1,0,1,0,1,0,0,0
+STUDY082,RHEUM-2025-082,Digital Workflow for Telemedicine Follow-Up,telemedicine follow-up,Care Coordination,2023-05-01,Telemedicine,1,1,0,1,0,0,0,0,0
+STUDY073,RHEUM-2024-073,Infection Prevention Among Patients With Infection Prevention,infection prevention,Care Coordination,2023-09-01,Standard Care,1,1,0,0,1,0,0,0,0
+STUDY007,RHEUM-2023-007,Digital Workflow for Infection Prevention,infection prevention,In-Person Care,2025-01-01,Control,1,1,0,0,0,0,0,0,0
+STUDY004,RHEUM-2024-004,Infection Prevention Among Patients With Rheumatoid Arthritis,rheumatoid arthritis,Care Coordination,2025-02-01,In-Person,2,2,0,0,1,0,0,0,0
+STUDY063,RHEUM-2025-063,Digital Workflow for Inflammatory Arthritis,inflammatory arthritis,Telemedicine,2024-03-01,In-Person,1,1,0,0,0,1,0,0,0
+STUDY082,RHEUM-2025-082,Digital Workflow for Telemedicine Follow-Up,telemedicine follow-up,Care Coordination,2022-12-01,In-Person,1,1,0,0,1,0,0,0,0
+STUDY013,RHEUM-2023-013,Polypharmacy Monitoring for Telemedicine Follow-Up,telemedicine follow-up,Telemedicine,2026-01-01,Standard Care,1,1,1,0,0,1,0,1,0
+STUDY089,RHEUM-2025-089,Medication Safety for Chronic Inflammatory Disease,chronic inflammatory disease,Medication Management,2024-03-01,Enhanced Care,1,1,0,0,1,0,0,0,0
+STUDY070,RHEUM-2022-070,Medication Safety for Osteoporosis,osteoporosis,Medication Management,2024-02-01,In-Person,1,1,0,0,0,0,0,0,0
+STUDY097,RHEUM-2022-097,Digital Workflow for Technology-Enabled Care Delivery,technology-enabled care delivery,Patient Education,2025-06-01,Telemedicine,1,1,0,1,0,0,0,0,0
+STUDY089,RHEUM-2025-089,Medication Safety for Chronic Inflammatory Disease,chronic inflammatory disease,Medication Management,2024-10-01,Enhanced Care,1,0,0,0,0,0,0,0,0
+STUDY068,RHEUM-2022-068,Pragmatic Care Delivery for Polypharmacy Monitoring,polypharmacy monitoring,Medication Management,2023-05-01,Telemedicine,1,1,0,0,0,0,0,0,0
+STUDY049,RHEUM-2025-049,Polypharmacy Monitoring for Polypharmacy Monitoring,polypharmacy monitoring,Digital Workflow,2024-09-01,Control,1,1,1,0,0,1,0,1,0
+STUDY057,RHEUM-2022-057,Care Coordination in Technology-Enabled Care Delivery,technology-enabled care delivery,Medication Management,2027-03-01,Standard Care,1,1,0,0,0,1,0,1,0
+STUDY085,RHEUM-2024-085,Care Coordination in Gout,gout,Medication Management,2023-07-01,Digital Review,1,1,0,0,0,0,0,0,0
+STUDY097,RHEUM-2022-097,Digital Workflow for Technology-Enabled Care Delivery,technology-enabled care delivery,Patient Education,2026-07-01,Digital Review,1,1,0,0,0,0,0,0,0
+STUDY084,RHEUM-2023-084,Telemedicine Follow-Up in Technology-Enabled Care Delivery,technology-enabled care delivery,Medication Management,2025-11-01,Digital Review,1,1,0,0,1,1,0,0,0
+STUDY003,RHEUM-2025-003,Medication Safety for Telemedicine Follow-Up,telemedicine follow-up,Medication Management,2023-04-01,In-Person,1,1,0,1,0,1,0,0,0
+STUDY040,RHEUM-2023-040,Pragmatic Care Delivery for Technology-Enabled Care Delivery,technology-enabled care delivery,Patient Education,2025-03-01,Telemedicine,1,1,0,0,1,1,0,0,0
+STUDY029,RHEUM-2023-029,Pragmatic Care Delivery for Inflammatory Arthritis,inflammatory arthritis,Care Coordination,2023-05-01,Control,1,1,0,0,0,0,0,0,0
+STUDY017,RHEUM-2022-017,Remote Monitoring for Gout,gout,Telemedicine,2026-04-01,Digital Review,1,0,0,0,0,1,0,0,0
+STUDY067,RHEUM-2025-067,Comparative Effectiveness in Gout,gout,In-Person Care,2023-10-01,Telemedicine,1,1,0,0,0,1,0,0,0
+STUDY014,RHEUM-2023-014,Pragmatic Care Delivery for Rheumatoid Arthritis,rheumatoid arthritis,Care Coordination,2024-06-01,Digital Review,1,0,0,0,0,1,0,0,0
+STUDY082,RHEUM-2025-082,Digital Workflow for Telemedicine Follow-Up,telemedicine follow-up,Care Coordination,2023-11-01,Standard Care,1,1,0,0,0,0,0,0,0
+STUDY036,RHEUM-2024-036,Digital Workflow for Osteoporosis,osteoporosis,Patient Education,2023-05-01,Enhanced Care,1,1,1,0,0,1,0,1,0
+STUDY026,RHEUM-2025-026,Digital Workflow for Osteoporosis,osteoporosis,Medication Management,2024-03-01,Digital Review,1,1,0,0,0,1,0,0,0
+STUDY025,RHEUM-2022-025,Comparative Effectiveness in Chronic Inflammatory Disease,chronic inflammatory disease,In-Person Care,2026-06-01,Standard Care,1,1,0,0,1,0,0,0,0
+STUDY095,RHEUM-2024-095,Patient Education Strategies for Technology-Enabled Care Delivery,technology-enabled care delivery,Care Coordination,2023-01-01,Telemedicine,1,0,0,0,0,0,0,0,0
+STUDY010,RHEUM-2025-010,Care Coordination in Gout,gout,Telemedicine,2023-06-01,Telemedicine,1,1,1,0,0,0,0,0,0
+STUDY062,RHEUM-2023-062,Pragmatic Care Delivery for Inflammatory Arthritis,inflammatory arthritis,Patient Education,2025-08-01,Control,1,1,1,0,0,0,0,0,0
+STUDY094,RHEUM-2023-094,Remote Monitoring for Gout,gout,Digital Workflow,2026-06-01,In-Person,1,1,0,0,1,0,0,0,0
+STUDY067,RHEUM-2025-067,Comparative Effectiveness in Gout,gout,In-Person Care,2023-09-01,Control,1,1,0,1,0,0,0,0,0
+STUDY033,RHEUM-2023-033,Comparative Effectiveness in Osteoporosis,osteoporosis,Patient Education,2026-04-01,Enhanced Care,1,1,0,1,0,0,0,0,0
+STUDY095,RHEUM-2024-095,Patient Education Strategies for Technology-Enabled Care Delivery,technology-enabled care delivery,Care Coordination,2022-12-01,Digital Review,1,1,1,0,0,0,0,0,0
+STUDY019,RHEUM-2022-019,Comparative Effectiveness in Technology-Enabled Care Delivery,technology-enabled care delivery,Telemedicine,2023-09-01,Control,1,1,0,0,0,0,0,0,0
+STUDY067,RHEUM-2025-067,Comparative Effectiveness in Gout,gout,In-Person Care,2023-08-01,Standard Care,1,1,0,0,1,0,0,0,0
+STUDY091,RHEUM-2024-091,Comparative Effectiveness in Chronic Inflammatory Disease,chronic inflammatory disease,Medication Management,2022-08-01,In-Person,1,1,0,0,0,0,0,0,0
+STUDY085,RHEUM-2024-085,Care Coordination in Gout,gout,Medication Management,2023-12-01,In-Person,1,0,0,0,0,0,0,0,0
+STUDY078,RHEUM-2025-078,Patient Education Strategies for Technology-Enabled Care Delivery,technology-enabled care delivery,Telemedicine,2025-07-01,Standard Care,2,2,0,0,1,1,0,0,0
+STUDY047,RHEUM-2023-047,Medication Safety for Technology-Enabled Care Delivery,technology-enabled care delivery,Digital Workflow,2022-12-01,Digital Review,1,1,0,0,1,1,0,0,1
+STUDY055,RHEUM-2022-055,Digital Workflow for Chronic Inflammatory Disease,chronic inflammatory disease,Telemedicine,2024-04-01,Control,1,1,0,1,0,0,0,0,0
+STUDY026,RHEUM-2025-026,Digital Workflow for Osteoporosis,osteoporosis,Medication Management,2024-08-01,Digital Review,1,1,1,0,0,0,0,0,0
+STUDY063,RHEUM-2025-063,Digital Workflow for Inflammatory Arthritis,inflammatory arthritis,Telemedicine,2025-01-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY070,RHEUM-2022-070,Medication Safety for Osteoporosis,osteoporosis,Medication Management,2024-07-01,Control,1,1,0,0,0,0,0,0,0
+STUDY086,RHEUM-2024-086,Comparative Effectiveness in Telemedicine Follow-Up,telemedicine follow-up,Patient Education,2023-06-01,Enhanced Care,1,1,0,0,0,0,1,0,0
+STUDY052,RHEUM-2025-052,Comparative Effectiveness in Telemedicine Follow-Up,telemedicine follow-up,Medication Management,2025-04-01,Enhanced Care,1,1,0,0,0,1,0,0,0
+STUDY054,RHEUM-2025-054,Patient Education Strategies for Gout,gout,Care Coordination,2023-11-01,Enhanced Care,1,1,0,1,0,1,0,0,0
+STUDY027,RHEUM-2023-027,Medication Safety for Polypharmacy Monitoring,polypharmacy monitoring,Digital Workflow,2023-07-01,In-Person,2,2,0,1,1,0,0,0,0
+STUDY095,RHEUM-2024-095,Patient Education Strategies for Technology-Enabled Care Delivery,technology-enabled care delivery,Care Coordination,2023-02-01,Telemedicine,1,1,0,0,1,1,0,0,0
+STUDY043,RHEUM-2025-043,Medication Safety for Technology-Enabled Care Delivery,technology-enabled care delivery,In-Person Care,2026-06-01,In-Person,1,0,0,0,0,1,0,0,0
+STUDY006,RHEUM-2025-006,Telemedicine Follow-Up in Telemedicine Follow-Up,telemedicine follow-up,Care Coordination,2025-05-01,Control,1,1,0,0,0,1,0,0,0
+STUDY035,RHEUM-2023-035,Digital Workflow for Technology-Enabled Care Delivery,technology-enabled care delivery,Medication Management,2024-05-01,In-Person,1,0,0,0,0,0,0,0,0
+STUDY006,RHEUM-2025-006,Telemedicine Follow-Up in Telemedicine Follow-Up,telemedicine follow-up,Care Coordination,2024-04-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY084,RHEUM-2023-084,Telemedicine Follow-Up in Technology-Enabled Care Delivery,technology-enabled care delivery,Medication Management,2025-04-01,Enhanced Care,1,1,0,1,0,1,0,0,0
+STUDY079,RHEUM-2023-079,Infection Prevention Among Patients With Inflammatory Arthritis,inflammatory arthritis,Digital Workflow,2023-12-01,Digital Review,1,1,0,0,0,0,0,0,0
+STUDY095,RHEUM-2024-095,Patient Education Strategies for Technology-Enabled Care Delivery,technology-enabled care delivery,Care Coordination,2023-03-01,In-Person,1,0,0,0,0,0,0,0,0
+STUDY021,RHEUM-2025-021,Remote Monitoring for Polypharmacy Monitoring,polypharmacy monitoring,In-Person Care,2024-11-01,In-Person,1,1,0,0,1,0,0,0,0
+STUDY045,RHEUM-2025-045,Infection Prevention Among Patients With Osteoporosis,osteoporosis,Care Coordination,2024-11-01,In-Person,1,1,0,0,0,0,0,0,0
+STUDY088,RHEUM-2024-088,Telemedicine Follow-Up in Rheumatoid Arthritis,rheumatoid arthritis,Medication Management,2024-11-01,Control,1,0,0,0,0,1,0,0,0
+STUDY045,RHEUM-2025-045,Infection Prevention Among Patients With Osteoporosis,osteoporosis,Care Coordination,2025-08-01,Digital Review,1,1,0,1,0,0,0,0,0
+STUDY018,RHEUM-2025-018,Medication Safety for Lupus,lupus,Medication Management,2024-12-01,Digital Review,1,1,0,0,1,0,0,0,0
+STUDY041,RHEUM-2023-041,Polypharmacy Monitoring for Gout,gout,Patient Education,2025-06-01,Control,1,0,0,0,0,0,0,0,0
+STUDY086,RHEUM-2024-086,Comparative Effectiveness in Telemedicine Follow-Up,telemedicine follow-up,Patient Education,2023-11-01,Standard Care,1,1,0,0,0,0,0,0,0
+STUDY050,RHEUM-2025-050,Comparative Effectiveness in Telemedicine Follow-Up,telemedicine follow-up,Care Coordination,2024-09-01,Telemedicine,1,1,0,0,1,0,0,0,0
+STUDY097,RHEUM-2022-097,Digital Workflow for Technology-Enabled Care Delivery,technology-enabled care delivery,Patient Education,2025-12-01,Telemedicine,1,1,1,0,0,0,0,0,0
+STUDY023,RHEUM-2025-023,Digital Workflow for Osteoporosis,osteoporosis,Telemedicine,2025-05-01,Telemedicine,1,1,0,0,0,0,0,0,0
+STUDY072,RHEUM-2023-072,Polypharmacy Monitoring for Technology-Enabled Care Delivery,technology-enabled care delivery,Telemedicine,2024-07-01,Control,1,0,0,0,0,1,0,0,0
+STUDY014,RHEUM-2023-014,Pragmatic Care Delivery for Rheumatoid Arthritis,rheumatoid arthritis,Care Coordination,2024-05-01,In-Person,1,1,1,0,0,1,0,1,0
+STUDY078,RHEUM-2025-078,Patient Education Strategies for Technology-Enabled Care Delivery,technology-enabled care delivery,Telemedicine,2026-04-01,Standard Care,1,1,0,0,0,0,0,0,0
+STUDY080,RHEUM-2022-080,Infection Prevention Among Patients With Lupus,lupus,Care Coordination,2026-08-01,Digital Review,1,0,0,0,0,1,0,0,0
+STUDY083,RHEUM-2025-083,Polypharmacy Monitoring for Telemedicine Follow-Up,telemedicine follow-up,In-Person Care,2023-10-01,Enhanced Care,1,1,1,0,0,0,0,0,0
+STUDY093,RHEUM-2022-093,Digital Workflow for Chronic Inflammatory Disease,chronic inflammatory disease,Patient Education,2025-06-01,In-Person,1,1,0,0,0,1,0,0,0
+STUDY018,RHEUM-2025-018,Medication Safety for Lupus,lupus,Medication Management,2024-06-01,Digital Review,1,1,1,0,0,1,0,1,0
+STUDY087,RHEUM-2022-087,Digital Workflow for Lupus,lupus,Patient Education,2026-05-01,Enhanced Care,1,1,0,0,1,0,0,0,0
+STUDY064,RHEUM-2025-064,Pragmatic Care Delivery for Inflammatory Arthritis,inflammatory arthritis,In-Person Care,2023-09-01,Standard Care,1,1,0,0,0,0,0,0,0
+STUDY091,RHEUM-2024-091,Comparative Effectiveness in Chronic Inflammatory Disease,chronic inflammatory disease,Medication Management,2023-09-01,In-Person,1,1,0,0,0,0,0,0,0
+STUDY024,RHEUM-2023-024,Care Coordination in Rheumatoid Arthritis,rheumatoid arthritis,Medication Management,2026-06-01,Digital Review,1,1,0,0,0,0,0,0,0
+STUDY040,RHEUM-2023-040,Pragmatic Care Delivery for Technology-Enabled Care Delivery,technology-enabled care delivery,Patient Education,2024-03-01,Control,1,1,0,0,0,0,0,0,0
+STUDY050,RHEUM-2025-050,Comparative Effectiveness in Telemedicine Follow-Up,telemedicine follow-up,Care Coordination,2026-01-01,Standard Care,1,1,0,0,0,1,0,0,0
+STUDY086,RHEUM-2024-086,Comparative Effectiveness in Telemedicine Follow-Up,telemedicine follow-up,Patient Education,2022-09-01,Enhanced Care,1,1,0,0,0,1,0,0,0
+STUDY098,RHEUM-2024-098,Patient Education Strategies for Gout,gout,In-Person Care,2026-06-01,Control,1,1,0,0,0,0,0,0,0
+STUDY073,RHEUM-2024-073,Infection Prevention Among Patients With Infection Prevention,infection prevention,Care Coordination,2024-01-01,Telemedicine,1,1,0,0,0,0,0,0,0
+STUDY057,RHEUM-2022-057,Care Coordination in Technology-Enabled Care Delivery,technology-enabled care delivery,Medication Management,2026-07-01,Enhanced Care,1,1,0,0,0,0,0,0,0
+STUDY046,RHEUM-2024-046,Digital Workflow for Infection Prevention,infection prevention,Care Coordination,2025-10-01,In-Person,1,1,0,0,1,0,0,0,1
+STUDY018,RHEUM-2025-018,Medication Safety for Lupus,lupus,Medication Management,2024-05-01,Digital Review,1,1,0,1,0,1,0,0,0
+STUDY040,RHEUM-2023-040,Pragmatic Care Delivery for Technology-Enabled Care Delivery,technology-enabled care delivery,Patient Education,2023-11-01,Digital Review,1,1,1,0,0,0,0,0,0
+STUDY091,RHEUM-2024-091,Comparative Effectiveness in Chronic Inflammatory Disease,chronic inflammatory disease,Medication Management,2023-11-01,Control,1,1,0,1,0,1,0,0,0
+STUDY023,RHEUM-2025-023,Digital Workflow for Osteoporosis,osteoporosis,Telemedicine,2025-08-01,Control,1,1,0,0,0,1,0,1,0
+STUDY066,RHEUM-2025-066,Pragmatic Care Delivery for Gout,gout,Digital Workflow,2027-06-01,In-Person,1,1,0,0,1,0,0,0,0
+STUDY005,RHEUM-2024-005,Care Coordination in Chronic Inflammatory Disease,chronic inflammatory disease,In-Person Care,2026-10-01,Standard Care,1,1,1,0,0,0,0,0,0
+STUDY004,RHEUM-2024-004,Infection Prevention Among Patients With Rheumatoid Arthritis,rheumatoid arthritis,Care Coordination,2024-10-01,Digital Review,1,1,0,1,0,0,1,0,0
+STUDY065,RHEUM-2023-065,Polypharmacy Monitoring for Inflammatory Arthritis,inflammatory arthritis,Care Coordination,2024-10-01,Digital Review,1,1,0,0,0,1,0,0,0
+STUDY045,RHEUM-2025-045,Infection Prevention Among Patients With Osteoporosis,osteoporosis,Care Coordination,2025-08-01,Enhanced Care,2,2,1,0,0,1,0,0,0
+STUDY098,RHEUM-2024-098,Patient Education Strategies for Gout,gout,In-Person Care,2026-10-01,Control,1,1,0,0,0,1,0,0,0
+STUDY085,RHEUM-2024-085,Care Coordination in Gout,gout,Medication Management,2023-10-01,Telemedicine,1,1,0,0,1,0,0,0,0
+STUDY085,RHEUM-2024-085,Care Coordination in Gout,gout,Medication Management,2023-02-01,Enhanced Care,1,0,0,0,0,0,0,0,0
+STUDY012,RHEUM-2025-012,Digital Workflow for Rheumatoid Arthritis,rheumatoid arthritis,Patient Education,2024-12-01,Telemedicine,1,1,0,0,1,0,0,0,1
+STUDY014,RHEUM-2023-014,Pragmatic Care Delivery for Rheumatoid Arthritis,rheumatoid arthritis,Care Coordination,2024-10-01,Digital Review,1,1,0,0,1,1,0,0,0
+STUDY072,RHEUM-2023-072,Polypharmacy Monitoring for Technology-Enabled Care Delivery,technology-enabled care delivery,Telemedicine,2024-02-01,Standard Care,1,1,1,0,0,0,0,0,0
+STUDY090,RHEUM-2023-090,Digital Workflow for Lupus,lupus,Digital Workflow,2025-12-01,In-Person,1,1,0,0,0,0,0,0,0
+STUDY061,RHEUM-2025-061,Infection Prevention Among Patients With Polypharmacy Monitoring,polypharmacy monitoring,Digital Workflow,2023-06-01,Digital Review,1,1,1,0,0,1,0,1,0
+STUDY027,RHEUM-2023-027,Medication Safety for Polypharmacy Monitoring,polypharmacy monitoring,Digital Workflow,2022-09-01,In-Person,1,1,0,0,0,0,0,0,0
+STUDY010,RHEUM-2025-010,Care Coordination in Gout,gout,Telemedicine,2024-04-01,Standard Care,1,1,0,0,1,0,0,0,0
+STUDY066,RHEUM-2025-066,Pragmatic Care Delivery for Gout,gout,Digital Workflow,2026-11-01,In-Person,1,1,0,1,0,0,0,0,0
+STUDY041,RHEUM-2023-041,Polypharmacy Monitoring for Gout,gout,Patient Education,2025-08-01,Digital Review,1,1,0,0,1,1,0,0,0
+STUDY051,RHEUM-2022-051,Comparative Effectiveness in Gout,gout,Digital Workflow,2025-03-01,Control,2,2,1,0,1,1,0,0,0
+STUDY046,RHEUM-2024-046,Digital Workflow for Infection Prevention,infection prevention,Care Coordination,2026-01-01,Digital Review,1,1,0,0,0,0,0,0,0
+STUDY073,RHEUM-2024-073,Infection Prevention Among Patients With Infection Prevention,infection prevention,Care Coordination,2023-07-01,Enhanced Care,1,1,0,0,1,0,0,0,0
+STUDY020,RHEUM-2023-020,Polypharmacy Monitoring for Lupus,lupus,Digital Workflow,2024-11-01,Telemedicine,1,1,0,1,0,0,0,0,0
+STUDY043,RHEUM-2025-043,Medication Safety for Technology-Enabled Care Delivery,technology-enabled care delivery,In-Person Care,2027-02-01,Telemedicine,1,1,1,0,0,0,0,0,0
+STUDY042,RHEUM-2023-042,Patient Education Strategies for Rheumatoid Arthritis,rheumatoid arthritis,Medication Management,2024-05-01,Telemedicine,1,1,1,0,0,1,0,1,0
+STUDY030,RHEUM-2022-030,Remote Monitoring for Technology-Enabled Care Delivery,technology-enabled care delivery,In-Person Care,2023-08-01,Telemedicine,1,1,0,0,0,0,0,0,0
+STUDY029,RHEUM-2023-029,Pragmatic Care Delivery for Inflammatory Arthritis,inflammatory arthritis,Care Coordination,2023-08-01,Standard Care,1,1,1,0,0,1,0,1,0
+STUDY009,RHEUM-2023-009,Polypharmacy Monitoring for Lupus,lupus,Medication Management,2024-05-01,Telemedicine,1,1,0,0,1,0,0,0,0
+STUDY072,RHEUM-2023-072,Polypharmacy Monitoring for Technology-Enabled Care Delivery,technology-enabled care delivery,Telemedicine,2024-06-01,Enhanced Care,1,1,0,0,1,0,0,0,1
+STUDY048,RHEUM-2023-048,Pragmatic Care Delivery for Technology-Enabled Care Delivery,technology-enabled care delivery,Telemedicine,2024-12-01,Enhanced Care,1,1,0,0,0,0,0,0,0

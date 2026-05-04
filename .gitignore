@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# dbt build artifacts
+dbt_rheumtrialops/target/
+dbt_rheumtrialops/logs/
+dbt_rheumtrialops/dbt_packages/
+
+# Local environment files
+.env
+.venv/
+venv/
+
+# OS/editor files
+.DS_Store
+Thumbs.db

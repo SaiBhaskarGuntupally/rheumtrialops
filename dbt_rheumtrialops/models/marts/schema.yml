@@ -1,0 +1,96 @@
+version: 2
+
+models:
+  - name: mart_research_portfolio_summary
+    description: One row per study with dashboard-ready portfolio, accrual, grant, milestone, and quality metrics.
+    columns:
+      - name: study_id
+        tests:
+          - unique
+          - not_null
+
+  - name: mart_subject_accrual
+    description: Monthly subject accrual tracking by study and study arm.
+    columns:
+      - name: study_id
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('mart_research_portfolio_summary')
+                field: study_id
+      - name: enrollment_month
+        tests:
+          - not_null
+
+  - name: mart_grant_jit_tracking
+    description: Grant submission, funding, award, and JIT tracking.
+    columns:
+      - name: grant_id
+        tests:
+          - unique
+          - not_null
+      - name: study_id
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('mart_research_portfolio_summary')
+                field: study_id
+
+  - name: mart_milestone_delay_summary
+    description: Milestone and timeline tracking with risk labels.
+    columns:
+      - name: milestone_id
+        tests:
+          - unique
+          - not_null
+      - name: study_id
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('mart_research_portfolio_summary')
+                field: study_id
+      - name: milestone_risk_level
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['Low', 'Medium', 'High']
+
+  - name: mart_data_quality_summary
+    description: One row per failed data quality rule across staging models.
+    columns:
+      - name: issue_id
+        tests:
+          - unique
+          - not_null
+      - name: study_id
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('mart_research_portfolio_summary')
+                field: study_id
+      - name: issue_severity
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['Low', 'Medium', 'High']
+
+  - name: mart_study_risk_score
+    description: Rule-based study risk score for operational prioritization.
+    columns:
+      - name: study_id
+        tests:
+          - unique
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('mart_research_portfolio_summary')
+                field: study_id
+      - name: risk_level
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['Low', 'Medium', 'High']

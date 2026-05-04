@@ -1,0 +1,96 @@
+issue_id,study_id,protocol_id,study_title,source_table,record_id,rule_name,issue_severity,issue_description
+studies-STUDY004-01,STUDY004,RHEUM-2024-004,Infection Prevention Among Patients With Rheumatoid Arthritis,studies,STUDY004,Invalid Study Timeline,High,Target completion date is before activation date.
+studies-STUDY015-01,STUDY015,RHEUM-2023-015,Pragmatic Care Delivery for Inflammatory Arthritis,studies,STUDY015,Invalid Study Timeline,High,Target completion date is before activation date.
+studies-STUDY032-01,STUDY032,RHEUM-2022-032,Remote Monitoring for Inflammatory Arthritis,studies,STUDY032,Invalid Study Timeline,High,Target completion date is before activation date.
+studies-STUDY036-01,STUDY036,RHEUM-2024-036,Digital Workflow for Osteoporosis,studies,STUDY036,Invalid Study Timeline,High,Target completion date is before activation date.
+studies-STUDY095-01,STUDY095,RHEUM-2024-095,Patient Education Strategies for Technology-Enabled Care Delivery,studies,STUDY095,Invalid Study Timeline,High,Target completion date is before activation date.
+subjects-SUBJ0017-01,STUDY096,RHEUM-2025-096,Care Coordination in Inflammatory Arthritis,subjects,SUBJ0017,Invalid Enrollment Timeline,High,Enrollment date is before screening date.
+subjects-SUBJ0112-01,STUDY039,RHEUM-2023-039,Comparative Effectiveness in Lupus,subjects,SUBJ0112,Invalid Enrollment Timeline,High,Enrollment date is before screening date.
+subjects-SUBJ0121-01,STUDY007,RHEUM-2023-007,Digital Workflow for Infection Prevention,subjects,SUBJ0121,Invalid Enrollment Timeline,High,Enrollment date is before screening date.
+subjects-SUBJ0144-01,STUDY072,RHEUM-2023-072,Polypharmacy Monitoring for Technology-Enabled Care Delivery,subjects,SUBJ0144,Invalid Enrollment Timeline,High,Enrollment date is before screening date.
+subjects-SUBJ0190-01,STUDY086,RHEUM-2024-086,Comparative Effectiveness in Telemedicine Follow-Up,subjects,SUBJ0190,Invalid Enrollment Timeline,High,Enrollment date is before screening date.
+subjects-SUBJ0209-01,STUDY020,RHEUM-2023-020,Polypharmacy Monitoring for Lupus,subjects,SUBJ0209,Invalid Enrollment Timeline,High,Enrollment date is before screening date.
+subjects-SUBJ0228-01,STUDY049,RHEUM-2025-049,Polypharmacy Monitoring for Polypharmacy Monitoring,subjects,SUBJ0228,Invalid Enrollment Timeline,High,Enrollment date is before screening date.
+subjects-SUBJ0316-01,STUDY048,RHEUM-2023-048,Pragmatic Care Delivery for Technology-Enabled Care Delivery,subjects,SUBJ0316,Invalid Enrollment Timeline,High,Enrollment date is before screening date.
+subjects-SUBJ0354-01,STUDY004,RHEUM-2024-004,Infection Prevention Among Patients With Rheumatoid Arthritis,subjects,SUBJ0354,Invalid Enrollment Timeline,High,Enrollment date is before screening date.
+subjects-SUBJ0438-01,STUDY040,RHEUM-2023-040,Pragmatic Care Delivery for Technology-Enabled Care Delivery,subjects,SUBJ0438,Invalid Enrollment Timeline,High,Enrollment date is before screening date.
+subjects-SUBJ0481-01,STUDY017,RHEUM-2022-017,Remote Monitoring for Gout,subjects,SUBJ0481,Invalid Enrollment Timeline,High,Enrollment date is before screening date.
+subjects-SUBJ0487-01,STUDY082,RHEUM-2025-082,Digital Workflow for Telemedicine Follow-Up,subjects,SUBJ0487,Invalid Enrollment Timeline,High,Enrollment date is before screening date.
+subjects-SUBJ0488-01,STUDY086,RHEUM-2024-086,Comparative Effectiveness in Telemedicine Follow-Up,subjects,SUBJ0488,Invalid Enrollment Timeline,High,Enrollment date is before screening date.
+subjects-SUBJ0039-02,STUDY068,RHEUM-2022-068,Pragmatic Care Delivery for Polypharmacy Monitoring,subjects,SUBJ0039,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0049-02,STUDY057,RHEUM-2022-057,Care Coordination in Technology-Enabled Care Delivery,subjects,SUBJ0049,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0066-02,STUDY098,RHEUM-2024-098,Patient Education Strategies for Gout,subjects,SUBJ0066,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0101-02,STUDY023,RHEUM-2025-023,Digital Workflow for Osteoporosis,subjects,SUBJ0101,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0116-02,STUDY081,RHEUM-2025-081,Polypharmacy Monitoring for Lupus,subjects,SUBJ0116,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0120-02,STUDY031,RHEUM-2022-031,Medication Safety for Gout,subjects,SUBJ0120,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0129-02,STUDY017,RHEUM-2022-017,Remote Monitoring for Gout,subjects,SUBJ0129,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0139-02,STUDY025,RHEUM-2022-025,Comparative Effectiveness in Chronic Inflammatory Disease,subjects,SUBJ0139,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0144-02,STUDY072,RHEUM-2023-072,Polypharmacy Monitoring for Technology-Enabled Care Delivery,subjects,SUBJ0144,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0148-02,STUDY011,RHEUM-2025-011,Polypharmacy Monitoring for Polypharmacy Monitoring,subjects,SUBJ0148,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0196-02,STUDY028,RHEUM-2024-028,Polypharmacy Monitoring for Chronic Inflammatory Disease,subjects,SUBJ0196,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0228-02,STUDY049,RHEUM-2025-049,Polypharmacy Monitoring for Polypharmacy Monitoring,subjects,SUBJ0228,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0232-02,STUDY042,RHEUM-2023-042,Patient Education Strategies for Rheumatoid Arthritis,subjects,SUBJ0232,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0234-02,STUDY018,RHEUM-2025-018,Medication Safety for Lupus,subjects,SUBJ0234,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0235-02,STUDY056,RHEUM-2024-056,Pragmatic Care Delivery for Chronic Inflammatory Disease,subjects,SUBJ0235,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0238-02,STUDY049,RHEUM-2025-049,Polypharmacy Monitoring for Polypharmacy Monitoring,subjects,SUBJ0238,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0246-02,STUDY075,RHEUM-2022-075,Polypharmacy Monitoring for Osteoporosis,subjects,SUBJ0246,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0253-02,STUDY015,RHEUM-2023-015,Pragmatic Care Delivery for Inflammatory Arthritis,subjects,SUBJ0253,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0287-02,STUDY064,RHEUM-2025-064,Pragmatic Care Delivery for Inflammatory Arthritis,subjects,SUBJ0287,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0296-02,STUDY014,RHEUM-2023-014,Pragmatic Care Delivery for Rheumatoid Arthritis,subjects,SUBJ0296,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0325-02,STUDY009,RHEUM-2023-009,Polypharmacy Monitoring for Lupus,subjects,SUBJ0325,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0332-02,STUDY067,RHEUM-2025-067,Comparative Effectiveness in Gout,subjects,SUBJ0332,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0337-02,STUDY022,RHEUM-2023-022,Medication Safety for Technology-Enabled Care Delivery,subjects,SUBJ0337,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0338-02,STUDY099,RHEUM-2024-099,Medication Safety for Technology-Enabled Care Delivery,subjects,SUBJ0338,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0349-02,STUDY079,RHEUM-2023-079,Infection Prevention Among Patients With Inflammatory Arthritis,subjects,SUBJ0349,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0350-02,STUDY062,RHEUM-2023-062,Pragmatic Care Delivery for Inflammatory Arthritis,subjects,SUBJ0350,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0357-02,STUDY023,RHEUM-2025-023,Digital Workflow for Osteoporosis,subjects,SUBJ0357,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0364-02,STUDY076,RHEUM-2024-076,Telemedicine Follow-Up in Technology-Enabled Care Delivery,subjects,SUBJ0364,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0398-02,STUDY061,RHEUM-2025-061,Infection Prevention Among Patients With Polypharmacy Monitoring,subjects,SUBJ0398,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0402-02,STUDY018,RHEUM-2025-018,Medication Safety for Lupus,subjects,SUBJ0402,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0415-02,STUDY036,RHEUM-2024-036,Digital Workflow for Osteoporosis,subjects,SUBJ0415,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0427-02,STUDY029,RHEUM-2023-029,Pragmatic Care Delivery for Inflammatory Arthritis,subjects,SUBJ0427,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0441-02,STUDY003,RHEUM-2025-003,Medication Safety for Telemedicine Follow-Up,subjects,SUBJ0441,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0453-02,STUDY033,RHEUM-2023-033,Comparative Effectiveness in Osteoporosis,subjects,SUBJ0453,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0454-02,STUDY023,RHEUM-2025-023,Digital Workflow for Osteoporosis,subjects,SUBJ0454,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0474-02,STUDY013,RHEUM-2023-013,Polypharmacy Monitoring for Telemedicine Follow-Up,subjects,SUBJ0474,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0496-02,STUDY097,RHEUM-2022-097,Digital Workflow for Technology-Enabled Care Delivery,subjects,SUBJ0496,Enrolled Ineligible Subject,High,Subject is enrolled or active while marked ineligible.
+subjects-SUBJ0033-03,STUDY072,RHEUM-2023-072,Polypharmacy Monitoring for Technology-Enabled Care Delivery,subjects,SUBJ0033,Missing Withdrawal Reason,Medium,Withdrawn subject is missing a usable withdrawal reason.
+subjects-SUBJ0052-03,STUDY037,RHEUM-2022-037,Patient Education Strategies for Technology-Enabled Care Delivery,subjects,SUBJ0052,Missing Withdrawal Reason,Medium,Withdrawn subject is missing a usable withdrawal reason.
+subjects-SUBJ0188-03,STUDY036,RHEUM-2024-036,Digital Workflow for Osteoporosis,subjects,SUBJ0188,Missing Withdrawal Reason,Medium,Withdrawn subject is missing a usable withdrawal reason.
+subjects-SUBJ0191-03,STUDY039,RHEUM-2023-039,Comparative Effectiveness in Lupus,subjects,SUBJ0191,Missing Withdrawal Reason,Medium,Withdrawn subject is missing a usable withdrawal reason.
+subjects-SUBJ0194-03,STUDY048,RHEUM-2023-048,Pragmatic Care Delivery for Technology-Enabled Care Delivery,subjects,SUBJ0194,Missing Withdrawal Reason,Medium,Withdrawn subject is missing a usable withdrawal reason.
+subjects-SUBJ0210-03,STUDY080,RHEUM-2022-080,Infection Prevention Among Patients With Lupus,subjects,SUBJ0210,Missing Withdrawal Reason,Medium,Withdrawn subject is missing a usable withdrawal reason.
+subjects-SUBJ0286-03,STUDY046,RHEUM-2024-046,Digital Workflow for Infection Prevention,subjects,SUBJ0286,Missing Withdrawal Reason,Medium,Withdrawn subject is missing a usable withdrawal reason.
+subjects-SUBJ0339-03,STUDY012,RHEUM-2025-012,Digital Workflow for Rheumatoid Arthritis,subjects,SUBJ0339,Missing Withdrawal Reason,Medium,Withdrawn subject is missing a usable withdrawal reason.
+subjects-SUBJ0361-03,STUDY079,RHEUM-2023-079,Infection Prevention Among Patients With Inflammatory Arthritis,subjects,SUBJ0361,Missing Withdrawal Reason,Medium,Withdrawn subject is missing a usable withdrawal reason.
+subjects-SUBJ0472-03,STUDY047,RHEUM-2023-047,Medication Safety for Technology-Enabled Care Delivery,subjects,SUBJ0472,Missing Withdrawal Reason,Medium,Withdrawn subject is missing a usable withdrawal reason.
+grants-GRANT005-01,STUDY001,RHEUM-2022-001,Pragmatic Care Delivery for Polypharmacy Monitoring,grants,GRANT005,Invalid Funding Amount,High,Funding amount is negative.
+grants-GRANT011-01,STUDY051,RHEUM-2022-051,Comparative Effectiveness in Gout,grants,GRANT011,Invalid Funding Amount,High,Funding amount is negative.
+grants-GRANT012-01,STUDY070,RHEUM-2022-070,Medication Safety for Osteoporosis,grants,GRANT012,Invalid Funding Amount,High,Funding amount is negative.
+grants-GRANT015-01,STUDY024,RHEUM-2023-024,Care Coordination in Rheumatoid Arthritis,grants,GRANT015,Invalid Funding Amount,High,Funding amount is negative.
+grants-GRANT033-01,STUDY018,RHEUM-2025-018,Medication Safety for Lupus,grants,GRANT033,Invalid Funding Amount,High,Funding amount is negative.
+grants-GRANT034-01,STUDY024,RHEUM-2023-024,Care Coordination in Rheumatoid Arthritis,grants,GRANT034,Invalid Funding Amount,High,Funding amount is negative.
+grants-GRANT051-01,STUDY062,RHEUM-2023-062,Pragmatic Care Delivery for Inflammatory Arthritis,grants,GRANT051,Invalid Funding Amount,High,Funding amount is negative.
+grants-GRANT007-02,STUDY012,RHEUM-2025-012,Digital Workflow for Rheumatoid Arthritis,grants,GRANT007,Invalid JIT Status,Medium,JIT is required but the JIT status is missing or marked Not Required.
+grants-GRANT018-02,STUDY084,RHEUM-2023-084,Telemedicine Follow-Up in Technology-Enabled Care Delivery,grants,GRANT018,Invalid JIT Status,Medium,JIT is required but the JIT status is missing or marked Not Required.
+grants-GRANT019-02,STUDY079,RHEUM-2023-079,Infection Prevention Among Patients With Inflammatory Arthritis,grants,GRANT019,Invalid JIT Status,Medium,JIT is required but the JIT status is missing or marked Not Required.
+grants-GRANT026-02,STUDY060,RHEUM-2024-060,Digital Workflow for Inflammatory Arthritis,grants,GRANT026,Invalid JIT Status,Medium,JIT is required but the JIT status is missing or marked Not Required.
+grants-GRANT027-02,STUDY088,RHEUM-2024-088,Telemedicine Follow-Up in Rheumatoid Arthritis,grants,GRANT027,Invalid JIT Status,Medium,JIT is required but the JIT status is missing or marked Not Required.
+grants-GRANT028-02,STUDY094,RHEUM-2023-094,Remote Monitoring for Gout,grants,GRANT028,Invalid JIT Status,Medium,JIT is required but the JIT status is missing or marked Not Required.
+grants-GRANT030-02,STUDY006,RHEUM-2025-006,Telemedicine Follow-Up in Telemedicine Follow-Up,grants,GRANT030,Invalid JIT Status,Medium,JIT is required but the JIT status is missing or marked Not Required.
+grants-GRANT031-02,STUDY084,RHEUM-2023-084,Telemedicine Follow-Up in Technology-Enabled Care Delivery,grants,GRANT031,Invalid JIT Status,Medium,JIT is required but the JIT status is missing or marked Not Required.
+grants-GRANT041-02,STUDY077,RHEUM-2025-077,Infection Prevention Among Patients With Polypharmacy Monitoring,grants,GRANT041,Invalid JIT Status,Medium,JIT is required but the JIT status is missing or marked Not Required.
+grants-GRANT049-02,STUDY041,RHEUM-2023-041,Polypharmacy Monitoring for Gout,grants,GRANT049,Invalid JIT Status,Medium,JIT is required but the JIT status is missing or marked Not Required.
+grants-GRANT050-02,STUDY047,RHEUM-2023-047,Medication Safety for Technology-Enabled Care Delivery,grants,GRANT050,Invalid JIT Status,Medium,JIT is required but the JIT status is missing or marked Not Required.
+grants-GRANT059-02,STUDY022,RHEUM-2023-022,Medication Safety for Technology-Enabled Care Delivery,grants,GRANT059,Invalid JIT Status,Medium,JIT is required but the JIT status is missing or marked Not Required.
+milestones-MILE004-01,STUDY015,RHEUM-2023-015,Pragmatic Care Delivery for Inflammatory Arthritis,milestones,MILE004,Completed Milestone Missing Actual Date,High,Milestone is completed but actual date is missing.
+milestones-MILE090-01,STUDY016,RHEUM-2025-016,Patient Education Strategies for Gout,milestones,MILE090,Completed Milestone Missing Actual Date,High,Milestone is completed but actual date is missing.
+milestones-MILE144-01,STUDY017,RHEUM-2022-017,Remote Monitoring for Gout,milestones,MILE144,Completed Milestone Missing Actual Date,High,Milestone is completed but actual date is missing.
+milestones-MILE104-01,STUDY020,RHEUM-2023-020,Polypharmacy Monitoring for Lupus,milestones,MILE104,Completed Milestone Missing Actual Date,High,Milestone is completed but actual date is missing.
+milestones-MILE150-01,STUDY030,RHEUM-2022-030,Remote Monitoring for Technology-Enabled Care Delivery,milestones,MILE150,Completed Milestone Missing Actual Date,High,Milestone is completed but actual date is missing.
+milestones-MILE141-01,STUDY038,RHEUM-2022-038,Telemedicine Follow-Up in Telemedicine Follow-Up,milestones,MILE141,Completed Milestone Missing Actual Date,High,Milestone is completed but actual date is missing.
+milestones-MILE024-01,STUDY049,RHEUM-2025-049,Polypharmacy Monitoring for Polypharmacy Monitoring,milestones,MILE024,Completed Milestone Missing Actual Date,High,Milestone is completed but actual date is missing.
+milestones-MILE133-01,STUDY062,RHEUM-2023-062,Pragmatic Care Delivery for Inflammatory Arthritis,milestones,MILE133,Completed Milestone Missing Actual Date,High,Milestone is completed but actual date is missing.
+milestones-MILE018-01,STUDY080,RHEUM-2022-080,Infection Prevention Among Patients With Lupus,milestones,MILE018,Completed Milestone Missing Actual Date,High,Milestone is completed but actual date is missing.
+milestones-MILE073-01,STUDY090,RHEUM-2023-090,Digital Workflow for Lupus,milestones,MILE073,Completed Milestone Missing Actual Date,High,Milestone is completed but actual date is missing.
+milestones-MILE052-01,STUDY098,RHEUM-2024-098,Patient Education Strategies for Gout,milestones,MILE052,Completed Milestone Missing Actual Date,High,Milestone is completed but actual date is missing.
