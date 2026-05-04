@@ -1,161 +1,125 @@
-# RheumTrialOps PostgreSQL and dbt Setup
+# PostgreSQL and dbt Setup
 
-This project uses local PostgreSQL for raw CSV storage and `dbt-postgres` for staging transformations.
+The live dashboard is available here:
 
-## 1. Install Python dependencies
+[https://rheumtrialops.streamlit.app/](https://rheumtrialops.streamlit.app/)
 
-From the project root:
+Most readers can start with the live dashboard first. This setup note is for anyone who wants to run the full local pipeline from synthetic CSV files through PostgreSQL, dbt, exported mart files, and the Streamlit app.
 
-```powershell
-pip install pandas sqlalchemy psycopg2-binary dbt-postgres
-```
+## Install the Python Packages
 
-## 2. Create the PostgreSQL database
+From the project folder, install the packages used by the loader and dbt:
 
-Run this from a terminal with PostgreSQL command-line tools available:
+    pip install pandas sqlalchemy psycopg2-binary dbt-postgres
 
-```powershell
-createdb -U postgres rheumtrialops
-```
+The dashboard itself uses the packages listed in requirements.txt.
 
-If your local PostgreSQL user or password is different, use those credentials instead.
+## Create the Local PostgreSQL Database
 
-## 3. Set environment variables
+This project expects a local database named rheumtrialops.
 
-The loader defaults to a beginner-friendly local setup:
+    createdb -U postgres rheumtrialops
 
-- `POSTGRES_HOST=localhost`
-- `POSTGRES_PORT=5432`
-- `POSTGRES_DB=rheumtrialops`
-- `POSTGRES_USER=postgres`
-- `POSTGRES_PASSWORD=postgres`
+If your PostgreSQL username is different, use your own username in the command.
 
-To set them explicitly in PowerShell:
+## Set the Database Connection Values
 
-```powershell
-$env:POSTGRES_HOST = "localhost"
-$env:POSTGRES_PORT = "5432"
-$env:POSTGRES_DB = "rheumtrialops"
-$env:POSTGRES_USER = "postgres"
-$env:POSTGRES_PASSWORD = "postgres"
-```
+The Python loader already has local defaults:
 
-## 4. Create schemas and raw tables
+- host: localhost
+- port: 5432
+- database: rheumtrialops
+- user: postgres
+- password: postgres
 
-From the project root:
+If your local setup is different, set the values in PowerShell before running the loader:
 
-```powershell
-psql -U postgres -d rheumtrialops -f sql/01_create_schema.sql
-psql -U postgres -d rheumtrialops -f sql/02_create_raw_tables.sql
-```
+    $env:POSTGRES_HOST = "localhost"
+    $env:POSTGRES_PORT = "5432"
+    $env:POSTGRES_DB = "rheumtrialops"
+    $env:POSTGRES_USER = "postgres"
+    $env:POSTGRES_PASSWORD = "postgres"
 
-These scripts create:
+## Create the Schemas and Raw Tables
 
-- `raw`
-- `staging`
-- `marts`
+Run these from the project folder:
 
-The `marts` schema is reserved for later tasks.
+    psql -U postgres -d rheumtrialops -f sql/01_create_schema.sql
+    psql -U postgres -d rheumtrialops -f sql/02_create_raw_tables.sql
 
-## 5. Load raw CSV files into PostgreSQL
+The SQL files create the raw, staging, and marts schemas. The raw schema stores the CSV-loaded source records. The staging and marts schemas are used by dbt.
 
-Make sure the raw CSV files exist under `data/raw/`, then run:
+## Load the Raw CSV Files
 
-```powershell
-python src/load_to_postgres.py
-```
+Generate the synthetic data first if the CSV files are not already present:
 
-The loader truncates and reloads:
+    python src/generate_data.py
 
-- `raw.studies`
-- `raw.subjects`
-- `raw.grants`
-- `raw.milestones`
+Then load the raw tables:
 
-Intentional bad records are preserved for later validation and risk scoring work.
+    python src/load_to_postgres.py
 
-## 6. Configure the dbt profile
+The loader truncates and reloads the raw studies, subjects, grants, and milestones tables. The intentional bad records are kept because the data quality dashboard depends on them.
 
-Create or update this file:
+## Configure dbt
 
-```text
-%USERPROFILE%\.dbt\profiles.yml
-```
+dbt needs a profile file in your user folder:
 
-Use:
+    %USERPROFILE%\.dbt\profiles.yml
 
-```yaml
-rheumtrialops:
-  target: dev
-  outputs:
-    dev:
-      type: postgres
-      host: "{{ env_var('POSTGRES_HOST', 'localhost') }}"
-      user: "{{ env_var('POSTGRES_USER', 'postgres') }}"
-      password: "{{ env_var('POSTGRES_PASSWORD', 'postgres') }}"
-      port: "{{ env_var('POSTGRES_PORT', '5432') | int }}"
-      dbname: "{{ env_var('POSTGRES_DB', 'rheumtrialops') }}"
-      schema: staging
-      threads: 4
-```
+Use this profile as a starting point:
 
-Adjust `user`, `password`, `host`, or `port` if your PostgreSQL setup differs.
+    rheumtrialops:
+      target: dev
+      outputs:
+        dev:
+          type: postgres
+          host: localhost
+          user: postgres
+          password: postgres
+          port: 5432
+          dbname: rheumtrialops
+          schema: staging
+          threads: 4
 
-## 7. Run dbt
+Change the user, password, host, or port if your PostgreSQL setup uses different values.
+
+## Run dbt
 
 From the dbt project folder:
 
-```powershell
-cd dbt_rheumtrialops
-dbt debug
-dbt run
-dbt test
-```
+    cd dbt_rheumtrialops
+    dbt debug
+    dbt run
+    dbt test
+    cd ..
 
-The staging models read from `raw` and create cleaned views in the configured dbt schema.
+dbt builds the staging and mart models and runs the validation tests.
 
-## Troubleshooting
+## Export the Mart Files
 
-### `createdb` or `psql` is not recognized
+After dbt finishes, export the reporting tables:
 
-PostgreSQL command-line tools may not be on your `PATH`. Reopen your terminal after installing PostgreSQL, or run the commands from PostgreSQL's `bin` directory.
+    python src/export_marts_to_csv.py
 
-### Password authentication failed
+The exported files are written under outputs/streamlit and outputs/powerbi.
 
-The default password in this project is `postgres`, but your local PostgreSQL installation may use a different password. Update `POSTGRES_PASSWORD` and `profiles.yml`.
+## Run the Dashboard Locally
 
-### Database does not exist
+The deployed version is usually easier to review, but the local app can be started with:
 
-Create it first:
+    streamlit run app.py
 
-```powershell
-createdb -U postgres rheumtrialops
-```
+## Common Local Issues
 
-### `ModuleNotFoundError: sqlalchemy` or `psycopg2`
+If createdb or psql is not recognized, PostgreSQL command-line tools are probably not on your system path. Reopen the terminal after installing PostgreSQL, or run the commands from the PostgreSQL bin folder.
 
-Install the loader dependencies:
+If password authentication fails, update the password in the environment variable and in the dbt profile.
 
-```powershell
-pip install sqlalchemy psycopg2-binary pandas
-```
+If dbt cannot find the profile, confirm that profiles.yml exists under your user .dbt folder and that the profile name is rheumtrialops.
 
-### `dbt debug` cannot find profile
+If dbt says a raw table does not exist, run the schema SQL files and the Python loader before running dbt.
 
-Confirm that `profiles.yml` exists at:
+If Python cannot find sqlalchemy or psycopg2, reinstall the loader dependencies:
 
-```text
-%USERPROFILE%\.dbt\profiles.yml
-```
-
-Also confirm the profile name is exactly `rheumtrialops`.
-
-### dbt relation `raw.studies` does not exist
-
-Run the schema scripts and loader before `dbt run`:
-
-```powershell
-psql -U postgres -d rheumtrialops -f sql/01_create_schema.sql
-psql -U postgres -d rheumtrialops -f sql/02_create_raw_tables.sql
-python src/load_to_postgres.py
-```
+    pip install sqlalchemy psycopg2-binary pandas

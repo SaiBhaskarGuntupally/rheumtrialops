@@ -2,6 +2,22 @@
 
 Clinical Research Operations Analytics for Rheumatology Studies
 
+## Live Dashboard
+
+The dashboard is deployed on Streamlit Cloud: [https://rheumtrialops.streamlit.app/](https://rheumtrialops.streamlit.app/)
+
+The live app is the easiest way to review the final dashboard. The local setup steps are included later for anyone who wants to inspect the full data pipeline.
+
+## What to Read First
+
+For the quickest understanding of the project, start with:
+
+- [Project Story and Design Tradeoffs](docs/project_story_and_tradeoffs.md): why I built this, what I considered, and why I chose this approach.
+- [Architecture](docs/architecture.md): how the data moves from synthetic CSVs to PostgreSQL, dbt, exports, and Streamlit.
+- [Clinical Research Workflow Mapping](docs/clinical_research_mapping.md): how the project relates to REDCap, OnCore/CTMS, HURON-style workflows, and investigator reporting without claiming direct integration.
+
+For technical reference, use [Data Dictionary](docs/data_dictionary.md) and [PostgreSQL/dbt Setup](docs/setup_postgres_dbt.md).
+
 ## Project Overview
 
 RheumTrialOps is a lightweight clinical research operations analytics prototype built with public or synthetic rheumatology study metadata and fully synthetic operational data. It tracks study portfolio status, subject accrual, grant/JIT activity, study milestones, data quality validation, and rule-based operational risk scoring.
@@ -16,32 +32,35 @@ It emphasizes transferable skills: SQL modeling, dbt transformations, data valid
 
 ## Architecture
 
-```mermaid
-flowchart LR
-    A["Synthetic/Public Study Metadata + Synthetic Operational Data"] --> B["PostgreSQL Raw Tables"]
-    B --> C["dbt Staging Models"]
-    C --> D["dbt Mart Models"]
-    D --> E["CSV Exports"]
-    E --> F["Streamlit Dashboard"]
-```
+The project uses a simple analytics flow:
+
+Synthetic/public study metadata and synthetic operational data move into PostgreSQL raw tables.
+
+PostgreSQL raw tables feed dbt staging models.
+
+dbt staging models feed dbt mart models.
+
+The mart outputs are exported as CSV files.
+
+The Streamlit dashboard reads those CSV files and is deployed on Streamlit Cloud.
 
 ## Data Model
 
 Source tables:
 
-- `studies`: synthetic protocol and portfolio metadata.
-- `subjects`: synthetic screening, enrollment, eligibility, and disposition records.
-- `grants`: synthetic sponsor, submission, award, funding, and JIT records.
-- `milestones`: synthetic study timeline and milestone records.
+- studies: synthetic protocol and portfolio metadata.
+- subjects: synthetic screening, enrollment, eligibility, and disposition records.
+- grants: synthetic sponsor, submission, award, funding, and JIT records.
+- milestones: synthetic study timeline and milestone records.
 
 Main mart outputs:
 
-- `research_portfolio_summary`: one row per study with portfolio, accrual, funding, milestone, and quality metrics.
-- `subject_accrual`: monthly subject accrual by study and study arm.
-- `grant_jit_tracking`: grant status, funding, award, and JIT tracking.
-- `milestone_delay_summary`: milestone delay and risk tracking.
-- `data_quality_summary`: one row per failed validation rule.
-- `study_risk_score`: transparent rule-based operational risk score by study.
+- research portfolio summary: one row per study with portfolio, accrual, funding, milestone, and quality metrics.
+- subject accrual: monthly subject accrual by study and study arm.
+- grant JIT tracking: grant status, funding, award, and JIT tracking.
+- milestone delay summary: milestone delay and risk tracking.
+- data quality summary: one row per failed validation rule.
+- study risk score: transparent rule-based operational risk score by study.
 
 ## Dashboard Pages
 
@@ -69,13 +88,7 @@ This is a transparent operational risk score using accrual progress, pending JIT
 
 ## Clinical Research Platform Mapping
 
-| Workflow Concept | RheumTrialOps Prototype Mapping |
-| --- | --- |
-| REDCap-style data capture | Synthetic subject/enrollment records |
-| OnCore/CTMS-style study tracking | Study status, milestones, accrual, risk score |
-| HURON-style research administration | Grant status, JIT tracking, funding visibility |
-| Investigator reporting | Streamlit dashboard pages |
-| Data quality oversight | dbt tests and validation summary |
+RheumTrialOps uses clinical research platforms as workflow context only. REDCap-style workflows are represented through synthetic subject and enrollment records. OnCore and CTMS-style workflows are represented through study status, milestones, accrual, and risk scoring. HURON-style research administration is represented through synthetic grant status, JIT tracking, and funding visibility. Investigator reporting is represented through the Streamlit dashboard pages. Data quality oversight is represented through dbt tests and the validation summary.
 
 ## Tech Stack
 
@@ -93,42 +106,34 @@ This is a transparent operational risk score using accrual progress, pending JIT
 
 ## How to Run Locally
 
+The live dashboard is available at [https://rheumtrialops.streamlit.app/](https://rheumtrialops.streamlit.app/). These local steps are only needed if you want to regenerate the data, run the PostgreSQL/dbt pipeline, or inspect the project end to end.
+
 Install dependencies:
 
-```powershell
-pip install -r requirements.txt
-pip install sqlalchemy psycopg2-binary dbt-postgres
-```
+    pip install -r requirements.txt
+    pip install sqlalchemy psycopg2-binary dbt-postgres
 
 Generate synthetic raw data:
 
-```powershell
-python src/generate_data.py
-```
+    python src/generate_data.py
 
 Create PostgreSQL schemas and raw tables, then load CSVs:
 
-```powershell
-psql -U postgres -d rheumtrialops -f sql/01_create_schema.sql
-psql -U postgres -d rheumtrialops -f sql/02_create_raw_tables.sql
-python src/load_to_postgres.py
-```
+    psql -U postgres -d rheumtrialops -f sql/01_create_schema.sql
+    psql -U postgres -d rheumtrialops -f sql/02_create_raw_tables.sql
+    python src/load_to_postgres.py
 
 Run dbt:
 
-```powershell
-cd dbt_rheumtrialops
-dbt run
-dbt test
-cd ..
-```
+    cd dbt_rheumtrialops
+    dbt run
+    dbt test
+    cd ..
 
 Export marts and launch the dashboard:
 
-```powershell
-python src/export_marts_to_csv.py
-streamlit run app.py
-```
+    python src/export_marts_to_csv.py
+    streamlit run app.py
 
 ## Project Summary
 

@@ -1,38 +1,33 @@
 # Architecture
 
-RheumTrialOps uses a simple local analytics architecture designed to be easy to understand, run, and extend.
+RheumTrialOps uses a simple analytics flow. I kept the architecture small because the point of the project is the research operations reporting layer, not a heavy engineering platform.
 
-```mermaid
-flowchart LR
-    A["Synthetic/Public Study Metadata + Synthetic Operational Data"] --> B["PostgreSQL Raw Tables"]
-    B --> C["dbt Staging Models"]
-    C --> D["dbt Mart Models"]
-    D --> E["CSV Exports"]
-    E --> F["Streamlit Dashboard"]
-```
+The flow is:
 
-## Layer Descriptions
+Synthetic study and operations data moves into PostgreSQL raw tables.
 
-### Synthetic Data Generation
+PostgreSQL raw tables feed dbt staging models.
 
-`src/generate_data.py` creates synthetic CSV files for studies, subjects, grants, and milestones. The data is rheumatology-themed and includes intentional data quality issues for validation reporting.
+dbt staging models feed dbt mart models.
 
-### PostgreSQL Raw Tables
+dbt mart models are exported as CSV files.
 
-The `raw` schema stores CSV-loaded source tables with minimal transformation. The raw layer preserves intentional bad records.
+The Streamlit dashboard reads those CSV files.
 
-### dbt Staging Models
+The dashboard is deployed on Streamlit Cloud at:
 
-The `staging` schema standardizes text fields, casts dates and numeric fields, and adds validation flags such as invalid enrollment timelines or missing milestone actual dates.
+[https://rheumtrialops.streamlit.app/](https://rheumtrialops.streamlit.app/)
 
-### dbt Mart Models
+## How the Layers Work
 
-The `marts` schema creates dashboard-ready outputs for portfolio reporting, subject accrual, grants/JIT tracking, milestone delays, data quality issues, and study risk scoring.
+The Python data generation script creates the synthetic source CSVs for studies, subjects, grants, and milestones. The data is rheumatology-themed and includes intentional data quality issues so the validation layer has real examples to surface.
 
-### CSV Exports
+The raw PostgreSQL schema stores the CSV-loaded source records with very little transformation. I wanted this layer to preserve the input data, including the known bad records.
 
-`src/export_marts_to_csv.py` exports mart tables to `outputs/streamlit/` and `outputs/powerbi/` so the dashboard can run without a live database connection.
+The dbt staging layer cleans up basic field formats and adds validation flags. This is where the project checks for issues such as invalid enrollment timelines or completed milestones without actual dates.
 
-### Streamlit Dashboard
+The dbt mart layer turns the staged records into reporting tables. These marts support portfolio summaries, accrual tracking, grant and JIT visibility, milestone delay monitoring, data quality review, and study risk scoring.
 
-`app.py` reads only CSV files from `outputs/streamlit/` and presents the operational dashboard.
+The export script writes the mart outputs to CSV files for Streamlit and Power BI. The Streamlit dashboard uses the exported CSV files only, so the deployed app does not need a live database connection.
+
+The local PostgreSQL and dbt pipeline remains in the repository so the full data flow can still be reviewed from source data through final dashboard output.
